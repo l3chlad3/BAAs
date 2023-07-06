@@ -1,0 +1,581 @@
+anytime, including while deployed. The goal is to enable more cost-effective training and 
+mission rehearsal and accelerate ET into the current force. Pacing technologies include, but are 
+not limited to: 
+(1) Embedding training and mission rehearsal on current force vehicles, 
+(2) Innovative methods for image generation and stimulated weapon sensors, 
+(3) Methods to modify analog-based systems (brake, steering, direct view optics), 
+(4) Embedded visual and display systems, and 
+(5) Mounted/dismounted interoperable ET environments. 
+TPOC: Latika Eifert, (407) 384-5338, latika.eifert@us.army.mil. 
+vi. Medical Training: ARL has an interest in researching, developing, and demonstrating 
+technologies, techniques, and strategies for immersing the military medical community into 
+realistic, simulated military medical training environments for initial, transition, refresher, and 
+sustainment training, including both individual and team training. Specific areas for 
+consideration include: 
+(1) Technologies to reduce or eliminate the use of live tissue and cadavers in military medical 
+training, 
+(2) Medical visualization and innovative display systems (e.g., autostereoscopic or 
+holographic technologies), 
+(3) Virtual patients and novel interaction capabilities, 
+(4) Integration with existing warfighter simulations, 
+(5) Medical training technologies that realistically simulate human trauma, 
+(6) High-fidelity patient simulation technologies, 
+(7) Simulated tissue with properties that approach those of live human tissue, 
+(8) Olfactory and malodor simulation technologies, 
+(9) Simulated body fluids and hemostatic agent training technologies, 
+(10) Personal computer, game-based and mobile application training technologies, and 
+60
+(11) Methodologies that improve cost effectiveness and increase test scores as well as skill 
+levels. 
+TPOC: Jack Norfleet, (407) 384-3897, jack.e.norfleet.civ@mail.mil. 
+vii. Synthetic Environments: Army simulation and battle command systems are 
+transforming into highly integrated, distributed/collaborative One World Terrain tool suites 
+that depend on accurate, timely geospatial data. Providing representations of complex 
+environments is a critical element of models and simulations, requiring interoperability of 
+heterogeneous simulation systems. The research emphasis is to provide the capability to 
+represent the synthetic environment as realistically as possible to support the Army mission. 
+Areas of consideration focus on synthetic environments representation and include: 
+(1) Environment generation. 
+(2) Environment representation. 
+(3) Environment services. 
+(4) Dynamic environments. 
+ 
+TPOC: Julio De La Cruz, (407) 384-3733, julio.a.delacruz4.civ@mail.mil. 
+viii. Dismounted Soldier Research: The Army needs advanced technology to provide 
+dismounted Soldiers with fully immersive, simulation based training environments. ARL has 
+an interest in researching, developing and demonstrating technologies and techniques for 
+virtual immersion as well as next generation Mixed Augmented Reality (MAR) environments 
+for dismounted Soldiers. ARL seeks to explore methods of presenting 2D/3D virtual objects 
+(representing various targets, fire and effects, vehicles, etc.) to the dismounted Soldier while 
+operating both indoors and outdoors. Additionally, the trainee would be capable of interacting 
+with virtual targets, personnel, vehicles, etc. as though real. Specific technologies of interest 
+include, but are not limited to: 
+(1) Visual and display systems to include head mounted displays, 
+(2) Computer systems, 
+(3) Wireless tracking devices to include markerless tracking technologies, 
+(4) Natural locomotion, 
+(5) Wireless video/audio transmission, 
+(6) MAR systems to include optically aided video odometry, 
+61
+(7) Accurate depth sensing and occlusion mapping, 
+(8) Visual landmark detection technology, 
+(9) Mission rehearsal, 
+(10) Distributed AAR systems, and 
+(11) Advanced synthetic natural environments. 
+TPOC: Pat Garrity, (407) 384-3663, patrick.j.garrity4.civ@mail.mil. 
+ix. Training Support Technologies: ARL is investigating innovative, license-free tools, and 
+techniques to train and educate Soldiers and leaders in individual and team knowledge, skills,
+attributes, and abilities in order to execute full spectrum operations in an era of persistent 
+conflict. Specific areas of interest include: 
+(1) Next-Generation Learning Management Systems, 
+(2) Authoring tools that are user friendly with minimum train-up time and support the rapid 
+development of learning principle-based content across several platforms (e.g. game-based, 
+mobile, virtual worlds), 
+(3) Content Management Systems that are data-driven and capable of taking doctrine, training 
+requirements, historical records, and other user inputs, 
+(4) Social Media and Social Networks for Learning in and out of the classroom, and 
+(5) Other innovative learning technologies in support of the Army Learning Model. 
+TPOC: Charles Amburn, (407) 384-3901, charles.r.amburn.civ@mail.mil, and Matthew 
+Hackett, (407) 384-5349, matthew.g.hackett.civ@mail.mil. 
+g. CCE-HS-4: Humans in Multi-Agent Systems 
+This CCE focuses on providing the critical technological breakthroughs needed for future 
+Army multi-, mixed-agent teams across distributed network systems. These technologies must 
+effectively merge human and agent capabilities for collaborative decision making and 
+enhanced team performance; ensure that diverse teams of Soldiers comprehend new and 
+critical information to maintain unprecedented situation awareness; and interact effectively 
+with Soldiers and noncombatants to foster trust and gain community acceptance and influence 
+across cultures and within complex, dynamic, politically sensitive environments. These 
+complex multi-agent networked teams will enable faster and better informed decisions; reduce 
+62
+Soldier workload; provide otherwise unachievable levels of situation understanding and 
+management; and maintain strategic and tactical advantages in future operating environments 
+requiring the integration of cyber-human-physical dimensions. 
+The objective of this research is to provide the critical technological breakthroughs needed to 
+shape current and future networked operational environments consisting of Army multi-agent, 
+mixed-agent (humans, robots, associate agents, and intelligent systems) in distributed network 
+systems to: (1) effectively enable teaming among human, robotic, and mixed-agent capabilities 
+for collaborative decision-making and enhanced team performance in dynamic, and complex 
+socio-technical environments; (2) ensure that diverse teams of Soldiers comprehend new and 
+critical information to achieve unprecedented situational awareness, while maintaining optimal 
+information burden on individuals; and (3) interact effectively with Soldiers and 
+noncombatants in civil military scenarios to foster trust and gain community acceptance across 
+cultures, and within complex, dynamic, and politically sensitive environments; and visualize 
+and understand the complex dense urban environment battlespace and the diverse sociocultural dynamics in a dense urban environment to allow Soldiers to effectively execute 
+mission plans, sustain military forces, predict population behavior, and provide humanitarian 
+support to civil populations. 
+Core research areas include: 
+i. Human-Agent Teams: the establishment and calibration of trust, the processes required 
+for deep collaboration, and dynamic and individualized interactions. 
+ii. Socio-Technical Systems: the networks required to support distributed, coordinated, 
+and collaborative decision making across teams, with an emphasis on mission command and 
+the cyber domain. 
+iii. Socio-Cultural Influences: captured in virtual agents for training and operational 
+contexts, the influences on decision making. 
+This research results of this CCE will inform interface design for mission command, and 
+distributed and collaborative decision making, and the cyber security domain, as well as 
+informing organizational design. This research will examine and identify the reasonable limits 
+of human processing of big data and multi-modal inputs. Efforts on human supervision of 
+robotic assets will transition to fundamental research on teaming with remote and intelligent 
+assets. 
+TPOC: Norbou Buchler, (410) 278-9403, norbou.buchler.civ@mail.mil. 
+63
+7. ANALYSIS AND ASSESSMENT (AA) CAMPAIGN 
+ARL’s Analysis and Assessment Campaign is focused on guiding the development and 
+integration of technologies, substantially broadening the range of issues that can be addressed 
+with analytical rigor, and improving the throughput and responsiveness of the analytical 
+processes. This campaign builds on fundamental pillars of mathematics, statistics, physics, 
+materials science, engineering, and chemistry to conduct SLV analyses in areas including 
+Ballistic SLV, EW SLV, Cyber SLV, Personnel Survivability, Human-Systems Interface, and 
+Complex Adaptive Systems. Efforts in these six analyses areas are the CCEs that provide the 
+enduring technical thrusts to enable the analysis and assessment to be performed. 
+The AA Campaign also has three KCIs related to the development of tools, techniques and 
+methodology to support complex, multi-domain analysis and interactive situational analytical 
+techniques. Accomplishing these aims will empower the Army RDT&E community with 
+solutions that will be demanded by technological and strategic realities of today and the future. 
+a. KCI-AA-1: Methodology for A&A of Complex Systems and Technologies Across 
+Multiple Domains
+The development of an A&A methodology for complex systems and technologies that 
+addresses cyber and electromagnetic activities, swarming munitions, autonomous systems, and 
+human-agent teaming, underpinned by a mathematical framework of complexity and emergence 
+theory. The resultant methodology will integrate physics and engineering-based models with 
+tactics, techniques, and procedures applicable to the assessment of systems of interest to 
+understand the effects of specific technical parameters on mission outcome. The A&A 
+methodology will also include advanced data analysis tools, which will generate the knowledge 
+required by decision makers and others to fully assess the causes and implications of system 
+performance within complex, multi-domain, and operationally relevant environments. The 
+analysis tools will include appropriate measures of effectiveness and associated metrics of 
+performance, as well as unique ways to visualize the results and intuitively appreciate their
+impacts. This advanced analytical capability will provide detailed insight for the design and 
+development of systems and technologies, as well as their integration with the operational force 
+to produce the most resilient system.
+The goal of this technical program is to enable integrated coherent analysis of the behavior of 
+complex adaptive systems across multiple domains in a tactically realistic environment that 
+includes advanced intelligent autonomous threats within the three components of either a 
+system or cyber autonomous intelligent agent: the human component (as a designer, 
+programmer, and/or partner); the system component (including hardware, firmware/software, 
+and interface realms); and the algorithm component (including programming/coding, decision 
+trees/matrices design, and machine learning areas). The focus of this initiative is the 
+development of analysis and assessment methodologies based on a mathematical framework of 
+complexity to address: (i) CEMA in the tactical environment; (ii) swarming munitions; (iii) 
+autonomous and semi-autonomous systems; and (iv) human-intelligent agent interaction.
+64
+TPOC: Thomas Stadterman, 410-278-6295, thomas.j.stadterman.civ@mail.mil
+b. KCI-AA-2: Visual, Interactive, Situational Analysis and Assessment 
+The products of the Survivability, Lethality, and Vulnerability (SLV) analysis must be 
+available in a timely manner, intuitively comprehensible, and demonstrably relevant to make 
+them actionable. Implementing visual, interactive, situation-specific analysis will shorten 
+development timelines, enable more informed acquisition decisions, improve operational 
+training, and provide effective combatant decision aids. Collectively this will help insure 
+dominance on the future battlefield. These tools will also help materiel designers, evaluators, 
+and trainers to better equip and train the Soldier for this new challenge. 
+This includes the development of an approach for visual (easy to understand), interactive 
+(quickly available), situational (in the current location and relevant to the task at hand) analysis 
+results to be produced. The speed and visual presentation will allow understanding of the 
+results and how they are derived. The latter is important for establishing credibility, relevance 
+and confidence. 
+Through interaction, the user/operator can focus the simulation on relevant aspects to directly 
+answer the questions being asked. This interaction focus naturally produces a “self-limiting” 
+analysis process which eliminates unnecessary computation, yet produces detail where 
+desirable. It allows broader questions to be addressed directly without sacrificing detail. This 
+effort will create a goal oriented, cognition-driven analysis experience. This will provide 
+Soldiers, materiel designers, evaluators and trainers with timely, comprehensible, relevant, and 
+actionable information. It will make analysis products more accessible and valuable to the 
+DoD community as a whole. 
+Analysis domains could include one or more of the following: ballistics SLV, non-kinetic 
+damage, cyber SLV, EW SLV, personnel survivability, and human terrain analysis algorithms. 
+Meeting these various needs necessitates (1) Adoption of computational pipelines that take 
+advantage of current computing hardware to execute needed analysis at interactive rates. (2) 
+Coupling this with effective visual representations that facilitate cognitive understanding (3) 
+Employment of computational steering techniques to allow simulations to be focused on the 
+relevant aspects of the simulation. (4) Employment of a multi-disciplinary, collaborative 
+approach to encourage participation by relevant experts in a variety of disciplines. 
+TPOC: Lee Butler, (410) 278-9200, lee.a.butler6.civ@mail.mil. 
+65
+c. KCI-AA-3: Analysis and Assessment Methodology for Congested and Contested 
+Operational Environments 
+The subject KCI will develop the methodology for analyzing and assessing Army materiel in a 
+contested and congested operational environment, and will identify the necessary capabilities 
+to accomplish the aforementioned. The initiative will lay the groundwork for considering 
+expanding complexity in the multi-domain battlespace and address emergent challenges 
+associated with critical Office of the Secretary of Defense (OSD) priorities areas, such as 
+hypersonics, directed-energy, artificial intelligence, and robotics. The effort will be further 
+informed by participating in experimentation, prototype, and demonstration events critical to 
+the success of the Army Futures Command. The future operational environments identified in 
+TRADOC PAM 525-3-1, Win in a Complex World, includes operating in complex operational 
+environments. Dense urban Environments (DuE) will be the most complex where cyberphysical-social complexity is most emergent.
+ 
+Impacts on military operations will include limited or restricted lines of sight (LOS); 
+congestion of structures, people, and traffic; constraints and bounds on electromagnetic effects 
+and communications information (interconnectedness on a global scale); constraints on kinetic 
+engagements, governance and control (including human sociocultural factors), target detection 
+and acquisition, financial, and resource sourcing and allocation. These types of environments 
+will induce unexpected synergistic effects and unanticipated emergence. Successful completion 
+of this KCI will allow RDECOM to advance Survivability Lethality and Vulnerability Analysis 
+and Assessment for congested and contested environments, thereby allowing the Army to be 
+better advised in S&T, acquisition, and operational decisions.
+The new methodologies will be used to assess systems slated for development in the Army 
+Cross Functional Teams: Future Vertical Lift, Network C3 Intelligence, PNT, Synthetic 
+Training Environment, Long Range Precision Fires, Next Generation Combat Vehicle, and 
+Soldier Lethality. This KCI will involve the identification of specific phenomena, 
+experimentation and data collection leading to development of relevant methodology for 
+accelerating the production of requisite materiel that increases the lethality of our Soldiers. 
+This KCI requires the participation of RDECOM support, and will require leveraging of 
+products from all ARL Essential Research Programs, RDECOM acquisition programs, combat 
+developers, the Army analyst community, and the Test and Evaluation community. 
+TPOC: David Fordyce, (410) 278-6340, david.f.fordyce.civ@mail.mil, and Thomas Tenorio, 
+(575) 678-6555, thomas.tenorio.civ@mail.mil. 
+d. CCE-AA-1: Ballistics Survivability, Lethality and Vulnerability (SLV) 
+The goal of the Ballistics SLV CCE is to leverage the science of threat-target interactions to 
+identify and recommend techniques to reduce ballistic vulnerabilities, enhance system and 
+complex target survivability, and ensure optimum effectiveness of the system in the full 
+spectrum of battlefield environments and operations. Achieving the goal for this CCE enables a 
+66
+focus on discovering and mitigating SLV challenges in emerging technologies and in system 
+designs throughout the acquisition life-cycle. Success in this endeavor requires the 
+development, application, and sustainment of robust, efficient and accurate methodologies, 
+tools and models to enable innovative analyses. Innovative scientific methodologies and tools 
+are foundational to advancing our ability to identify, understand, quantify, and model the 
+potential effects of both emerging and future weapons against fielded and developmental 
+systems. 
+Innovative methodologies, tools and analysis products that the AA Campaign develops will be 
+transitioned, as appropriate, for use internally and to other DOD users who will be able to 
+conduct complex analyses that meet their varied needs as new technologies mature and are 
+applied to conceptual and developmental Army systems. The AA Campaign will provide 
+subject matter expertise to perform early SLV analysis to “the left” for early SLV analysis and 
+to “the right” for use in evaluation through the acquisition process as well as to operational 
+users for mission planning purposes. 
+The Ballistics AA CCE focuses on the following objectives that support the development of: 
+i. Mature and scientifically rigorous products that enable ARL and other DoD users to 
+interactively conduct complex SLV analysis throughout the acquisition timeline. This 
+requires the development and application of computational techniques to deliver cuttingedge, modernized, faster, and higher resolution (in terms of both target geometry detail and 
+the scale at which target-threat interactions are modelled) SLV analysis capabilities that will 
+enhance core SLV models. 
+ii. Robust, efficient and accurate methodology including approaches using or based on 
+fully integrated high-fidelity multi-physics software–for estimating vehicle and occupant 
+vulnerability to under-body blast threats. 
+iii. Scientific tools, techniques and methods to enable lethality analyses of the effects from 
+multiple ballistic impacts and from ballistic threats coupled with nontraditional directedenergy (DE) threat effects. 
+iv. Vulnerability reduction techniques that can be applied to future technologies. 
+v. Integrated ballistic SLV products and capabilities that provide a holistic understanding 
+of the system or platform mission readiness. 
+vi. Analytical and scientific methods for subterranean and megacity (SbT/MgC) 
+environments that enable characterization of the response of building designs and construction 
+methods to ballistic response of a city/infrastructure to ballistic threats impacts.
+vii. Integrated ballistic SLV products and capabilities that expand efforts to illuminate 
+multi-domain effects and answer multi-domain questions (e.g., combined EW, cyber, CEMA, 
+and/or ballistics) in the same analysis.
+67
+viii. New techniques/methods to better display V/L data to complement cell plots to provide 
+clearer, intuitive, higher-value delivery mechanisms for analysts, evaluators and assessors. 
+TPOC: John Polesne, (410) 278-3353, john.t.polesne.civ@mail.mil. 
+e. CCE-AA-2: Cyber Survivability, Lethality and Vulnerability (SLV) 
+Advancements in cloud computing and commercial-off-the-shelf technology and software 
+increase the potential to add to or expand the number of unintended vulnerabilities in DoD 
+systems and networks that adversaries can deny, disrupt, degrade or exploit. Advancements in 
+nanotech computing, wireless, advanced robotics, autonomous, intelligent agent, cloud 
+computing and other technologies as well as reliance on 3rd party commercial-off-the-shelf 
+software will also increase the cyber-attack surface in DoD systems and networks. 
+The AA CCE in Cybersecurity focuses on researching, developing and sustaining 
+methodologies and analytical tools to plan and conduct cybersecurity assessments on 
+technologies, weapon systems, information systems and networks. This sustained effort will 
+enable the design, development and integration of secure technologies developed for or 
+integrated into U.S. Army warfighting systems. To keep pace with the rapid evolution of cyber 
+threats, U.S. military defensive cyber operations rely on cybersecurity assessments and 
+analyses on technologies, systems and network architectures throughout the acquisition 
+process. 
+Continuous AA is critical to identifying and mitigating cyber vulnerabilities to ensure cyber 
+resiliency across the acquisition enterprise. Cybersecurity is defined as the prevention of 
+damage to, the protection of, and the restoration of computers, electronic communications 
+systems, electronic communications services, wire communication, and electronic 
+communication, including information contained therein, to ensure their availability, integrity, 
+authentication, confidentiality, and nonrepudiation. 
+Nearly all defense systems incorporate IT in some form, and must be resilient from cyber 
+adversaries. This means that cybersecurity applies to technologies used in weapons systems 
+and platforms; Command, Control, Communications, Computers, Intelligence, Surveillance, 
+and Reconnaissance (C4ISR) systems; and information systems and networks. Cybersecurity 
+is a critical priority for the DoD, and is a vital aspect of maintaining United States technical 
+superiority. 
+The AA CCE in Cybersecurity will focus on researching and developing cyber-attack 
+techniques and tools to assess the security posture of emerging technologies; cyber 
+vulnerability assessment and instrumentation tools leveraging advanced intelligent agents, data 
+analytics, advanced visualization; malware reverse engineering and analysis; and security code 
+analysis. 
+TPOC: Anthony Castanares, (575) 678-3826, anthony.castanares.civ@mail.mil. 
+68
+f. CCE-AA-3: Electromagnetic Environment (EME) and Warfare 
+The CCE in EW SLV focuses on research and analysis efforts to enable the development of 
+tools, techniques, and methodologies to assess and evaluate the negative effects of adversarial 
+attacks on Army electronic systems. Utilizing readily available commercial and Government 
+off-the-shelf technologies, EW SLV investigations look for inherent susceptibilities that these 
+and similar technologies may have when directed toward existing or future Army systems.
+The A&A CCE in EW SLV will conduct research to enable analytical efforts investigating the
+adverse effects and impacts on Army systems resulting from operations in a complex and 
+dynamic battlefield Electromagnetic Environment (EME). Technological advancements in 
+electronics, telecommunications, wireless technologies, sensors, lasers, and countermeasures 
+that are commercially available are increasing unabated. The application of these technologies 
+as both radio frequency electronic countermeasures (RFECM) and Electro-optical 
+countermeasures (EOCM) to Army networks, communications, sensors, manned and unmanned 
+platforms, and weapon systems is highly likely, given their advanced technical capabilities, 
+general availability, and low costs compared to the Nation State sponsored technology 
+developments in the past 30-40 years. Understanding how these technologies have the potential 
+to adversely affect basic operation and mission effectiveness of Army systems will enable the 
+Army to research, develop and apply mitigation strategies to counter these technologies and 
+their associated effects. This research will enable the identification and mitigation of potential 
+vulnerabilities to these technologies for both new and existing Army weapon, network, sensor, 
+communication, and navigation systems. The A&A CCE in EW SLV enables the design and 
+development of new, sophisticated, and cost effective analysis methods and tools for use during 
+technology development, and throughout the acquisition life cycle, that can subject component, 
+sub-system, and system level Army technologies to these stressing environments in systematic
+manner in order to detect and mitigate potential vulnerabilities. Utilizing advanced techniques 
+in EME modeling, generation, and measurement (including both the inherent EME and 
+intentional EA), in coordination with modeling and instrumentation of Army systems, and using
+laboratory, closed loop, hardware-in-the-loop (HWIL), anechoic chamber, and open-air range 
+investigations; susceptibilities may be identified and mitigation techniques determined.
+Strategic focus areas of the A&A CCE in EW include:
+ Controlled environment (laboratory, HWIL, anechoic chamber) analysis development. 
+ Counter-countermeasure development and analysis (threat EA mitigation techniques).
+ Effects of emerging threats on autonomous systems (both airborne and ground based).
+ Effects of emerging RFCM and EOCM threats on sensors (RF and EO/IR), manned and 
+unmanned platforms, and Army weapon systems.
+ Effects of emerging threats on position, navigation, and timing.
+ Threat and commercial EME generation capabilities, signatures, and predictors of 
+presence (threat technique generation and identification).
+TPOC: Jose Gonzalez, (575) 678-5309, jose.m.gonzalez158.civ@mail.mil. 
+ 
+69
+g. CCE-AA-4: Personnel Survivability 
+The Personnel Survivability CCE concentrates on the advancement of research and analysis to 
+identify, understand, quantify, and model the effects of threat-target interactions on combat 
+personnel, including injury assessment, performance, and operational effectiveness. Advances 
+in research and experiments in the area of personnel survivability are foundational to the 
+identification and development of scientific techniques to: 1) mitigate injury and enhance the 
+survivability of Soldiers facing the wide range of battlefield threats, including ballistic, 
+thermal, toxic substances, and less-than-lethal anti-personnel weapons; 2) enhance lethality of 
+antipersonnel ballistic munitions; and 3) understand the effects of current and future weapons 
+against personnel and protective systems. In addition to Soldier protection, Soldier 
+survivability is assessed in terms of Soldier lethality, situational awareness, and the ability to 
+effectively communicate and operate undetected when needed. 
+This AA CCE in Personnel Survivability describes a systematic plan of multidisciplinary 
+research that addresses critical questions about the nature of human injury mechanisms and the 
+interactions of the Soldier with enabling technologies that provide protection, lethality, 
+mobility, information, communication and concealment. It addresses adaptive behavior on the 
+battlefield to increase survivability in a hostile environment and the development of 
+methodologies and models to address critical questions surrounding these interactions and 
+implications on Soldier survivability. 
+ARL will apply these methodologies to identify the benefits and risks associated with new 
+technologies prior to system design and integration supporting capabilities, such as Adaptive 
+Soldier Architecture and trade space analysis of new individual Soldier and squad 
+technologies. ARL will transition our products for use internally and to other DoD users to 
+interactively conduct complex, credible analyses that meet their varied needs as these new 
+technologies mature and are applied to conceptual and developmental Army systems. Using 
+this approach we will extend our subject matter expertise in performing early SLV analysis to 
+“the left” for early SLV analysis and to “the right” for use in evaluation through the acquisition 
+process, as well as to operational users for mission planning purposes. 
+The AA CCE on Personnel Survivability investigates and advances understanding and 
+modeling the Soldier as a system to look at personnel survivability. Personnel survivability is 
+characterized in terms of injury, degraded Soldier performance and capability with and without 
+injury, and risks to long-term quality of life given injury. Because personnel survivability 
+depends on enabling capabilities provided by a number of technologies, personnel survivability 
+is studied in the context of the Soldier as a system, where Soldier lethality and the Soldiers’ 
+ability to sense, communicate, and to operate undetected are also taken into consideration. 
+The strategic approach includes: 
+i. Fundamental and applied research projects to understand and quantify human 
+survivability and performance to develop human injury and performance models. 
+70
+ii. Applied research to understand and characterize next-generation Soldier augmentation 
+systems, protective systems, novel protective materials and future non-lethal and lethal systems 
+that target precision, scalable effects and improved range, the ability to sense and communicate 
+on the battlefield, and to operate undetected. 
+iii. Development, maintenance, and application of SLV analysis capability that is 
+adaptable, interoperable, and interactive; enables analyses of complex interactions in a 
+mission/capabilities context, exploits emerging computation capabilities and can be used 
+within a collaborative simulation. 
+iv. Development, application, verification, validation, and transition of tools, techniques 
+and methodologies for testing, analyzing, and evaluating Soldier performance and 
+survivability. 
+TPOC: Gregory Dietrich, (410) 278-2284, gregory.k.dietrich.civ@mail.mil. 
+h. CCE-AA-5: Human Systems Integration (HSI) Modeling and Analysis 
+The HSI Modeling and Analysis CCE focuses on developing and enhancing effective models 
+and methodologies for predicting human, system of system, and mission capabilities throughout 
+the acquisition cycle and supporting the Chief of Staff or the Army’s modernization priorities.
+These efforts concentrate on identifying human capabilities and limitations within physical, 
+perceptual, and cognitive areas to develop and inform methodologies; integrate the HSI 
+domains; and develop technical, parametric system assessments.
+The inclusion of physical, perceptual, and cognitive analyses to determine early, cost-effective 
+insertion of HSI criteria, capabilities, requirements, and performance specifications within the 
+acquisition process will optimize Soldier-System performance and reduce overall program cost 
+at the system of systems level. It is important to continuously update relevant tools, techniques,
+and methodologies to maintain their verification, validation, and utility for the tri-service user 
+community. Application of these HSI methodologies will provide insight into the Soldiers’ 
+capabilities and operation of systems, and will highlight issues and gaps that need to be 
+addressed to achieve an overall balanced system design. The deployment and utilization of 
+these tools, techniques, and methodologies must keep pace with increasingly advanced and 
+shortened program acquisition schedules. Technologies for the development of rapid modeling 
+tools and techniques, along with state-of-the-art immersive environments, will need to be 
+pursued to accomplish these goals. Additionally, human performance data crucial to supporting 
+development of acquisition requirements needed to assess future systems either do not exist, or 
+are badly out of date and no longer apply to current system technologies. Studies and the 
+resultant human performance data to support development of acquisition requirements, 
+specifications, and early system analyses needs to be performed. Practical design and analysis 
+tools need to be developed, deployed, and refined, so that HSI practitioners can make effective 
+use of the human performance data to achieve the goal of optimizing Soldier-System 
+performance and minimizing cost. 
+71
+The Analysis & Assessment CCE on Human System Modeling and Analysis investigates and 
+advances the sciences relevant to two performance challenges: 1) identifying Soldier 
+performance trade-offs on mission demands, environment, human characteristics, equipment,
+and technology; and 2) understanding human factors that include sensing, perceptual and 
+cognitive processes, ergonomics, biomechanics, and the tools and methodologies required to 
+manage interaction within these areas and within the Soldiers’ combat environment. In 
+developing and updating models resulting from an integrated HSI Analytic Tool Suite and 
+techniques capable of predicting human, system, and mission capabilities, four research focus 
+areas will be emphasized:
+1. Identify, develop, and apply human performance measures of effectiveness and human 
+figure modeling tools.
+2. Integrate human factors, mathematics, statistics, and system engineering, to generate 
+complex and critical task combinations that provide the necessary analytical data to 
+support physical, perceptual, and cognitive workload assessment.
+3. Develop a virtual environment to represent the Soldier as a system while considering 
+physical effects, cognitive load, and demographic influences in the context of Soldier 
+Systems Integration. 
+4. Conduct research to support Capabilities Based Assessments, and develop requirements 
+and performance specifications early on in the acquisition cycle to reduce cost. 
+In performing system design analyses with integrated complex human performance behavior, 
+the A&A CCE in Human Systems Modeling and Analysis aims to shape technology 
+development and system design for the Army modernization.
+TPOC: Jock Grynovicki, (410) 278-5956, jock.o.grynovicki.civ@mail.mil
+i. CCE-AA-6: Complex Adaptive Systems Analysis 
+The Complex Adaptive Systems Analysis CCE focuses on the improvement, application, and 
+sustainment of research and techniques to model the performance of complex, adaptive systems 
+at the engineering level to support the full range of force operating capabilities. These 
+methodologies are crucial to the assessment of technology and system tradeoffs to illuminate 
+and evaluate survivability aspects of competing capability packages and technologies.
+The Complex Adaptive Systems Analysis CCE will enable analyses of the effects and impacts 
+of the Army’s transformation in capabilities as a result of rapid, multi-faceted technological 
+progress. Current Army analysis methodologies resulted from an era that contended with a 
+much simpler set of analysis problems typically focused at the particular system or at the 
+network levels. The Complex Adaptive Systems Analysis CCE will answer more complex 
+questions, and thus provide the Army a significant leap forward in analysis techniques, 
+methodologies, and mindsets by focusing at the area where all particular weapons, mission 
+command, and other systems converge and merge their operations with the network levels, 
+essentially at the larger combat formation echelons, company, battalion or brigade. For 
+example, scientific advancements in information, computational, and human sciences have 
+72
+resulted in revolutionary advances in information processing, human-agent teaming, artificial 
+intelligence and machine learning, distributed and cooperative engagements, and increasingly 
+autonomous ground and air vehicles. The Army must identify, articulate, and develop new and
+advanced analysis methods that can gauge how well the Army is taking advantage of new third 
+offset capabilities, mitigating new threats posed by advancing adversary capabilities, and 
+adapting to radically new contested environments. These methods will not be simplistic systemto-system comparisons, but must consider credible mission context and the environments in 
+which the systems will operate with a complex, systems-of-systems environment. The 
+proliferation of unmanned aerial systems, the challenges of dense urban environments, and the 
+benefits and risks of manned-unmanned teaming all require enhanced analysis tools. Utilizing 
+modern research in simulation, simulation languages, emerging mathematical techniques, and 
+other advancements will improve capabilities to explore the continuum of military operations. 
+The analysis methodologies will address the complexity inherent in interactions between 
+systems, including humans and multiple, autonomous, and potentially intelligent learning 
+machines. Analyses will also explore the rapid growth of adversary capabilities, in areas such as 
+cyber and electronic warfare, due to advancing commercial technologies.
+Strategic focus areas of the A&A CCE in Complex Adaptive Systems will incorporate:
+1. Research from computational science and extramural basic research on advanced 
+mathematical, statistical, and modeling and simulation techniques, such as predictive 
+sciences, uncertainty quantification, advance computational algorithms, and data 
+intensive techniques. 
+2. Research from human sciences to explore the human dimension of future conflict, 
+including human/machine interfaces and cognitive decision making processes.
+3. Research from the information sciences regarding communication, processing, storage, 
+and retrieval of information, for example research on digital RF technology.
+TPOC: Arturo Revilla, (575) 678-3435, arturo.revilla.civ@mail.mil.
+8. OTHER PROGRAMS: Visiting Scientist Program (VSP) 
+The VSP supports short-term travel opportunities for foreign/ international scientists to the 
+United States and to international conferences to socialize new S&T ideas or findings with the 
+Army that support advancing basic research through collaboration. For additional information, 
+contact the RDECOM International Technology Center at 
+usarmy.blenheimcrescent.rdecom.mbx.rfec-atlantic@mail.mil. 
+9. Translational Research Innovative Application Discovery (TRIAD) - This initiative 
+is seeking research and development solutions in support of new technologies and translational 
+research-based approaches that support the identification, alignment, and exploitation of 
+applied research and technology to enable the Army of 2028 to be ready to deploy, fight, and 
+win decisively against any adversary, anytime, and anywhere, in a joint, multi-domain, highintensity conflict, while simultaneously deterring others and maintaining its ability to conduct 
+73
+irregular warfare. Solutions sought in conjunction with this effort consist of innovationenabling technologies and approaches that will improve the Army’s ability to rapidly and costeffectively capitalize on global advances in the areas detailed below.
+There are a number of technologies and approaches that touch more than one of the Army 
+Modernization Priorities as well as other areas important to the Army. Advances in these areas 
+may be highly disruptive since they could address multiple priorities or functions. Specialized 
+capabilities and infrastructure needed to create, experiment with, validate and sustain long term 
+research in these areas is of interest as well. Research areas of interest include, but are not 
+limited to, the following:
+a. Autonomous platforms – The Army is particularly interested in research in 
+autonomous ground and air vehicles which must operate in open, urban and cluttered 
+environments. Robotics and autonomous systems regardless of their missions require similar 
+concepts and technologies including:
+i. Ability to move in very cluttered, irregular, urban and underground terrains 
+ii. Ability to move effectively in contested environments and survive attacks
+i. Technologies to enable low electronic and physical profiles
+ii. Techniques to allow operators to be trained quickly even for complex tasks
+iii. Architectures to enable reprogrammable platforms under dynamic conditions
+iv. Sensors to detect obscured targets and to characterize terrain obstacles
+v. Autonomous ground and air structures, propulsion, and mobility components
+vi. Technologies to significantly reduce logistical burdens 
+b. Artificial Intelligence and Machine Learning (AI/ML) - The Army is interested in 
+AI/ML research in areas which can reduce the load on humans and improve overall 
+performance in many areas. AI/ML research is needed in areas such as:
+i. Autonomous, intelligent maneuver and behaviors of autonomous ground and air 
+vehicles - object recognition, threat warning, etc.
+ii. Ability to analyze large, diverse data sets to predict enemy intent and behaviors 
+iii. Technologies to ensure robust, resilient and intelligent networking, cyber, electronic 
+warfare and analysis of adversary signals
+iv. Data analysis capabilities to engage with and exploit classified and unclassified sources
+in order to produce enhanced intelligence products
+v. Techniques to fuse data from disparate sources to improve a particular mission
+c. Data visualization and synthetic environments – The Army is interested in research 
+in research into concepts enabling improved situational awareness and the visualization and 
+navigation of large data sets and to enhance training. Research is needed in the visualization of 
+data in following areas:
+i. Sensor data
+ii. Large data sets
+iii. Complex multi-source mode data sets 
+iv. Novel visualization and synthetic environments approaches to enable improved training
+v. Synthetic environments and networked instrumentation approaches for virtual-live 
+validation of concepts and prototypes
+74
+d. Assured Position, Navigation, and Timing (PNT) – The Army is particularly 
+interested in research in novel new PNT technologies which could be key enablers for many 
+capabilities including autonomous vehicles, communications, and land navigation. Solutions 
+that enable robust PNT on vehicles, Soldiers, munitions might include research on:
+i. PNT technologies which operate reliably in GPS-degraded or denied areas which 
+cannot be exploited by others
+ii. Enhancements to commercial technologies to enable them to meet Army needs
+iii. Robust security techniques for PNT at all levels
+iv. PNT-enabled guidance and control
+v. Algorithms and techniques to fuse data from multiple PNT sources to provide robust 
+capabilities
+e. Power generation and management technologies – The Army frequently must 
+operate where power infrastructure is not available, on small vehicles or for individual 
+Soldiers. Solutions that enable reliable power for vehicles, Soldiers, and munitions might 
+include research on:
+i. Novel new power sources
+ii. Power management algorithms to optimize generation and usage
+iii. Advanced low-power electronic technologies to reduce demand
+iv. Compact power sources for small UAVs, robots, smart munitions
+v. Technologies to understand, manage and reduce overall power use
+f. Sensing – The Army is interested in having a detailed understanding of the 
+environment and activities in areas it operates in. Research is needed in the areas of sensors 
+and associated processing in order to:
+i. Detect people, equipment, weapons, and any other object or action of interest 
+ii. Detect all targets even when obscured
+iii. Detect based upon, physical, behavioral, cyber or other signatures 
+g. Communications & networks – It is critical the Army maintain secure, reliable 
+communications for Soldiers, vehicles and at fixed locations even in austere environments with 
+little or no fixed infrastructure. Research is needed in the areas related to following: 
+i. Concepts and methodologies to enable robust networks
+ii. Protocols
+iii. Network interoperability including multi-national partners
+iv. High efficiency components
+h. Computation – The Army has a growing need for high performance computational 
+capabilities to exploit large data sets and to perform complex AI/ML algorithms for many 
+applications. Research is needed to improve networks and communications in the following 
+areas: 
+i. Throughput
+ii. Power efficiency
+iii. Edge computin

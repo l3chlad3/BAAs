@@ -1,0 +1,437 @@
+vi. Innovative Engine Technologies. ARL seeks proposals on innovative engine 
+technologies to enable higher power density, higher efficiency, reduced signatures, multi-fuel 
+capable, reduced cooling capacity, and more durable and reliable air and ground engines. 
+Areas of research interest include, but are not limited to, advanced engine cycles, innovative 
+new engine concepts, innovative component technologies, alternative fuels combustion, and 
+engine analysis tools and modeling to advance the state-of-the-art technologies. 
+TPOC: Kenneth Kim, (410) 278-9525, kenneth.s.kim11.civ@mail.mil, and Michael 
+Szedlmayer, (410) 278-9020, michael.t.szedlmayer.civ@mail.mil. 
+vii. Rotorcraft Propulsion. Proposals are sought to improve propulsion for helicopters and 
+other rotorcraft, including advanced gas turbine engine and mechanical power transfer system 
+technologies and concepts. Improved performance and reliability must be simultaneously 
+achieved with reduced weight and cost. Research interests include basic adaptive technologies 
+that can enable variable speed/torque engine and drivetrain capabilities, and adaptive 
+thermodynamic cycles that create new design space for revolutionary propulsion systems for 
+the Army. Analysis code and algorithm development (including nanoscale material modeling, 
+nonlinear structural dynamics, fluid structure interaction, conjugate heat transfer, and related 
+propulsion multi-physics modeling) is needed with along with experimental validation of 
+analysis predictions. 
+TPOC: Waldo Acosta, (216) 433-3393, waldo.a.acosta.civ@mail.mil. 
+f. CCE-ScMVR-3: Virtual Risk-Informed Agile Maneuver Sustainment (VRAMS) 
+VRAMS is focused on discovery, innovation and transition of integrated health monitoring and 
+maneuver capabilities to support the Army’s vision for zero-maintenance platforms. ARL 
+goals are to automatically detect changes in functional states; advance design methodologies 
+and methods for structures; analyze and characterize novel durable and damage tolerant 
+materials and structures; and assess functionality in the context of upcoming or ongoing 
+missions. Functional changes in structural components or sub-systems may include effects 
+from structural fatigue, wear, damage, or age. The long-term goal is to integrate detected 
+functional changes with data from on/off board systems for mission planning, maintenance 
+schedules, and operations to compare readiness to mission demands. Additionally, system 
+responses are envisioned to inform vehicle operations in real time on vehicle health and 
+capabilities, and recommend operator control adjustments to subsystem responses to balance 
+performance and integrity limits. 
+Currently, the primary structural damage indicator is crack size. Damage detection 
+technologies based on crack measurements provide accurate service life predictions towards 
+the last 20% of remaining useful life for structures and components. Given detectable fatigue 
+cracks appear relatively late in service life, it is often too late to perform remedial maintenance 
+to prevent failures. Structural damage is known to also affect material mechanical properties 
+such as stiffness or compliance, hardness, damping, residual stresses, acoustics, electrical and 
+magnetic properties (such as resistivity, permeability and dielectric constants). ARL seeks 
+37
+research proposals that will investigate, identify, quantify, or correlate more reliable methods 
+to detect damage much earlier in service life. Proposals are also sought to design and develop 
+advanced structural materials (such as self-healing or stress strengthening materials) and 
+concepts to advance extremely lightweight, adaptive, durable, and damage tolerant structures. 
+While fault detection sensing capabilities and tailored signal processing algorithms have 
+advanced, challenges also remain to efficiently detect damage when platforms are not in 
+operation as well as real time when platforms are under complex operational loads. Research 
+proposals in these areas are also of interest. 
+ARL seeks proposals to reliably detect damage earlier, advance vehicle materials and 
+structures, and develop health and usage monitoring system (HUMS) technologies. 
+Fundamental understanding and models for damage progression are needed to reliably detect 
+damage early and predict progression in complex multi-axial/multi-scale environments. 
+Vehicle structure improvements are needed to reduce size and weight; improve reliability and 
+affordability; reduce maintenance burdens; and sense early structural damage. As structural 
+damage indicator research advances, concepts will also be sought to mitigate damage 
+progression via real-time HUMS, risk assessments, and vehicle adaptive maneuvers. 
+TPOC: Mulugeta Haile, (410) 278-5289, mulugeta.a.haile.civ@mail.mil, Asha Hall, (410) 
+278-2384, asha.j.hall.civ@mail.mil, Mark Bundy, (410) 278-4318, 
+mark.l.bundy2.civ@mail.mil, and Jaret Riddick, (703) 693-9141, jaret.c.riddick.civ@mail.mil. 
+g. CCE-ScMVR-4: Mechanics and Dynamics of Complex Systems 
+ARL seeks proposals exploring directions for the mechanics and dynamics of complex ground 
+and air systems scaled from microsystems to manned and optionally manned platforms. 
+Primary areas of interest include fluid structure dynamics, mechanisms and actuation, and 
+platform concepts. 
+To achieve technology developments, research in fluid structure dynamics is critical to 
+understand aero-elastic stability characteristics of advanced rotor structures. Modeling, 
+simulation, and experimentation can be applied to understand fundamental aspects necessary to 
+further develop, advance, and evaluate passive and active technologies for stability 
+augmentation. ARL seeks proposals for understanding and predicting aero-elasticity of 
+advanced platforms, and for developing passive and active technologies for improved platform 
+aero-elasticity stability performance. From a dynamics perspective, research will advance 
+mathematical treatments and decomposition techniques of complex fluid and coupled fluid
+structure phenomena that go beyond energy based methods. Approaches will enable 
+theoretical, numerical, and experimental modeling and control research in fluids and fluid
+structure interaction problems that limit maneuver capabilities. 
+Rotor blade-mounted aerodynamic actuators provide a means for individual blade control and 
+have potential to reduce vibratory loads, reduce noise and improve performance for vertical 
+flight vehicles. Blade-mounted actuation methods include both mechanical devices (such as 
+38
+circulation control and servo-flaps) and electrical control devices (such as piezo-electric or 
+smart materials) which provide sufficient control authority under various operating conditions 
+and environments. ARL seeks proposals to develop actuation mechanisms to achieve 
+swashplate-less rotor systems as an enabler for high-speed vertical lift platforms. Additionally, 
+proposals are also desired for M&S methods to evaluate such technologies are desired. 
+ARL also seeks proposals that provide underpinning S&T that will allow the Army to detect, 
+diagnosis, visualize, and model interactions from the component level up to the system-of
+systems level for complex mobility systems being developed for the future. ARL anticipates 
+that data informed design and decision making environment will be fully collaborative, 
+multidisciplinary, real-time, and immersive by 2030. Capabilities stemming from proposals in 
+this area are expected to allow technology developers, in interactive and tactile environments, 
+to see how their technology integrates with a system, the effects of internal and external 
+interactions on the system during operation, and probabilistic impacts on measures of 
+effectiveness--all before any components of the system are manufactured. Research under this 
+core capability enabler is also expected to enable the Army to determine where gaps exist in its 
+technology development portfolio and help inform decisions and investments. 
+Proposals addressing novel mathematical treatments of nonlinear dynamics and complex 
+systems are also of interest to ARL. Proposed research is expected to be inherently 
+interdisciplinary and should not be application driven. Theoretical underpinnings are 
+particularly emphasized here rather than development of numerical methods. Examples of 
+current areas of interest include spectral operator based approaches to reduced order modeling 
+of multi-scale dynamical systems and fractional calculus perspectives on complex systems with 
+emphasis on physical interpretations. Applicants need not be limited to these two examples. 
+Furthermore, combined experimental and theoretical mechanics advances are encouraged in a 
+variety of areas ranging from non-equilibrium phenomena and active matter, nanocomposites 
+with engineered interfaces, self-assemblies, as well as novel solutions for overcoming 
+pervasive challenges in aeromechanics (such as flow control or structural damping). 
+TPOC: Hao Kang, (410) 278-6811, hao.kang2.civ@mail.mil, Eric Spero, (410) 278-8743, 
+eric.spero.civ@mail.mil, and Bryan Glaz, (410) 278-8037, bryan.j.glaz.civ@mail.mil. 
+Sciences for Maneuver (ScMVR) Related Topic: 
+h. Maneuver System Trade Space Methodology and Tools 
+ARL seeks proposals to model and examine the maneuver trade space of novel and evolving 
+technologies for Army air and ground vehicles, both manned and unmanned. Quantitative 
+approaches are sought to assess the benefits of emerging and existing technologies to inform 
+strategic research directions. Proposals are needed to provide scientific understanding and 
+technical foundation to develop maneuver concepts to achieve next generation capabilities. 
+Proposals are sought in these areas: 
+39
+i. Methods to create and explore technology development trade space, including, but not 
+limited to, manufacture, materials, integration, maneuverability, reliability, sustainment needs, 
+and maintenance costs. 
+ii. Methods to explore the design space and visualize multidimensional tradeoffs, beyond 
+two-dimensional Pareto front and three-dimensional Pareto surface. 
+iii. Methods to increase confidence that technology trade spaces are sufficiently bounded 
+and populated. 
+iv. Methods to estimate robust and reliable subsystem- and system-level optima based on 
+technology uncertainties at the component level. 
+v. Methods to predict long-term technology reliability and maintainability that 
+component-level reliability improvements can have at subsystems, systems and fleets. 
+vi. Methods to analyze the sensitivity of system capabilities to changes in design variables, 
+requirements, and technologies. 
+vii. Removal or reduction in subjectivity associated with weightings on measures of 
+performance and effectiveness, as well as assessments of the sensitivity of stakeholder desires 
+to system capability. 
+TPOC: Eric Spero, (410) 278-8743, eric.spero.civ@mail.mil. 
+4. INFORMATION SCIENCES (IS) CAMPAIGN 
+The IS Campaign focuses on gaining a greater understanding of emerging technology 
+opportunities that support intelligent information systems that perform acquisition, analysis, 
+reasoning, decision-making, collaborative communication, and assurance of information and 
+knowledge. Understanding gained through these research efforts will lead to technological 
+developments that make it possible to manage and utilize information flows in the battlespace. 
+Technologies resulting from these efforts will have a direct impact on the Information 
+Supremacy of the Army of 2030. 
+The IS Campaign has developed four KCIs, five CCEs, and one related IS topic that are 
+integrated to form a robust foundation to understand and overcome complex fundamental 
+challenges associated with Sensing and Effecting; Systems Intelligence and Intelligent 
+Systems; Human and Information Interaction; Networks and Communications; and Cyber 
+Security. The campaign builds on fundamental pillars of networks; advanced decision support 
+aids; M&S of complex environments; and HPC to conduct research in areas including 
+Intelligent Agents; Enhanced Tactical Networks; Effective Decision Support Aids; Knowledge 
+40
+Exploitation; and Cyber Defense and Forensics. Discoveries and innovations made in this area 
+will exert a significant impact on the Army of the future. 
+a. KCI-IS-1: Cyber Fire and Maneuver in Tactical Battle 
+This research effort will focus on developing the models, methods, and understanding to 
+overcome existing barriers to realization of effective cyber fires and maneuvers in a tactical 
+environment. The goals of this work are to pursue near-autonomous detection and 
+identification of malicious activity directed at friendly networks; methods to rapidly respond to 
+adversarial activities; predictive characterization of network vulnerabilities; and a robust 
+framework to assess networks. In addition, this research program will focus on realization of 
+methodologies for the reliable reconfiguration of friendly cyber assets to evade or recover from 
+attack; covert means for collection and predictive analysis of enemy actions; and 
+methodologies to degrade or destroy adversarial cyber assets with high certainty and 
+predictable probabilities of kill. 
+TPOC: Jerry Clarke, (301) 394-1685, jerry.a.clarke4.civ@mail.mil. 
+b. KCI-IS-2: Taming the Flash-Floods of Networked Battlefield Information 
+This research effort will focus on developing the models and methods to overcome existing 
+barriers to realization of analytical approaches to better understand the dynamics that 
+characterize complex, multi-genre networks and the data generated by these networks. The 
+goals of this work are to pursue quantitative models of information semantics trust and quality; 
+methodologies to creating coherent information networks from distributed information sources; 
+approaches to partially centralized and semi-autonomous control of large complex networks; 
+and approaches to autonomously recognizing, modeling, and anticipating dynamic changes in 
+network processes. 
+TPOC: Brian Rivera, (301) 394-2298, brian.m.rivera.civ@mail.mil, and Stephen M. Russell, 
+(301) 394-1017, stephen.m.russell8.civ@mail.mil. 
+c. KCI-IS-3: Acting Intelligently in a Dynamic Battlefield of Information, Agents, and 
+Humans 
+This research effort will focus on developing the models, methods, and understanding to 
+overcome existing barriers for the realization of robust and reliable teams of intelligent agents 
+and Soldiers in a squad. The goals of this work are to pursue concepts for processing largescale text and speech of low-resource languages; concepts for determining visual saliency in 
+large scale imagery and video data sets; militarily-relevant pattern recognition and mapping 
+methodologies; techniques to enable real-time decision-making; approaches to develop new 
+world-models of recently encountered spaces; algorithms to infer relationships between 
+disparate elements and events; and approaches to autonomously recognize, model, and 
+anticipate dynamic changes in information processes. 
+41
+TPOC: David G. Baran, (301) 394-5613, and Reginald L. Hobbs, (301) 394-1981, 
+reginald.l.hobbs2.civ@mail.mil. 
+d. KCI-IS-4: Sensing and Information Fusion for Advanced Indications and Warnings 
+This research effort will focus on developing the ability to shift the burden of technological 
+complexity away from the user by relying heavily on making information sources such as 
+sensors, social media, and communications more capable, easily assessable and interconnected. 
+Fusion of multiple information sources, not only sensors, is essential and much of the program 
+will be focused on foundational work aimed at facilitating the correlation of relevant 
+information for display to the user. Fundamental research in the physical phenomenology of 
+acoustic, electro-optic, electromagnetic, and seismic wave propagation is critical since it will 
+lead to new sensing opportunities and sources of information, enable full exploitation of sensor 
+data, and lead to realization of new sensors which can provide more robust input to fusion 
+algorithms. 
+TPOC: Raghuveer M. Rao, (301) 394-0860, raghuveer.m.rao.civ@mail.mi, Tom Walker, (301) 
+394-0756, and Sandra Collier, (301) 394 2641, sandra.l.collier4.civ@mail.mil. 
+e. CCE-IS-1: Networking and Communications in Contested and Austere Environments 
+The IS CCE on Networking and Communications in Contested and Austere Environments 
+addresses the increasingly complex battlefields, in which the Army must be able to 
+communicate; a highly dynamic, wireless, mobile networking environment populated by 
+hundreds to thousands of networked nodes. Often, these environments are austere in terms of 
+availability of resources for supporting and servicing the networking equipment. They are 
+highly congested by multiple conflicting demands on bandwidth, and severely contested by a 
+capable adversary. Research in networking and communications will address these multiple 
+and complex challenges by pursuing the following overarching goals: 
+i. Diverse, effective channels – traditional and non-traditional – will be available for
+creating heterogeneous networks rapidly, predictably, and in a manner optimized for specific 
+requirements and constraints of mission and environment, adapting intelligently to challenges 
+of terrain, atmospheric conditions, local bandwidth congestion, and ensuring high performance 
+along with energy efficiency and minimized probability of detection and interception by the 
+adversary. 
+ii. The networks will be driven, largely autonomously, but with appropriate degree of 
+human control, by protocols and algorithms for control and processing of signal and 
+information, as well as for self-organization of the network, that ensure persistent high 
+performance of the network, consistent with dynamically changing missions, supportive of 
+rapid reorganization and mobility of friendly forces, and highly robust against strong 
+disruptions. 
+42
+iii. Survivability and defensive properties will be integral to the future network, making it 
+inherently secure and survivable against disruptions by adversarial attacks such as jamming 
+and other forms of interference, in part by minimizing probability of the communications and 
+networks detection, interception, penetration and information exfiltration, as well as by 
+responding to adversary actions by agile maneuver and recovery. 
+The IS CCE on Networking and Communications in Contested and Austere Environments will 
+provide underpinning technology for KCIs where it is critical to ensure communications 
+remain reliable, robust and resilient in the face of disruptive effects such as task reorganization, 
+mobility of friendly forces, and adversarial attacks on friendly networks in future tactical 
+environments. 
+TPOC: Dr. Brian Rivera, (301) 394-2298, brian.m.rivera.civ@mail.mil. 
+f. CCE-IS-2: Natural Language Processing (NLP) and Multi-Lingual Computing 
+The IS CCE on NLP and Multi-Lingual Computing objective is to provide foundational 
+understanding and applied theoretical methods to enable the rapid and precise automated 
+translation and IE from documents regardless of language, dialect, or medium. Research in this 
+area will address the issues such as: (1) Should one translate Arabic dialects to English directly 
+or pivot through Modern Standard Arabic? (2) Is it easier to differentiate between Arabic 
+dialects if they are written in Roman script or Arabic script? (3) Can crowd-sourced workers 
+produce accurate dependency parse annotations with minimal training? (4) When building 
+statistical machine translation (MT) systems for polysynthetic languages what degree of 
+decomposition of words into morphemes is most effective? (5) To what extent do IE 
+algorithms developed for English require fundamental changes to be successfully applied to 
+Arabic due to inherent differences in language structure? (6) How do we develop an event 
+ontology that will aid in detecting higher-order event-event relations? (7) How can we 
+overcome the noise and special features of social media data without over-fitting our 
+approaches to a particular media source (e.g., Twitter)? The strategic approach to these 
+focuses include: 
+i. MT of polysynthetic languages (e.g., Inuktitut) into English, Information Extraction 
+(IE) algorithms for Arabic temporal expressions, events, and relations, protest domain ontology 
+based on language of Twitter and adaptation of traditional IE software to language of social 
+media. 
+ii. Temporal and spatial linguistic cues and modified dialog management systems to 
+support natural language communication between human and robots in a collaborative task. 
+Event ontologies and NLP components to incorporate social media artifacts and document 
+summarization for situational awareness. 
+iii. A common multilingual semantic representation of a 3,000 word subset of spoken 
+language frequently used by Soldiers in cross-lingual, cross-cultural encounters while enabling 
+43
+Soldiers and robots to collaborate effectively with spoken natural language communications 
+comprising 80% of their interactions. 
+NLP and Multilingual Computing supports KCIs by addressing underpinning science for 
+information gathering and management, human-intelligent system interactions and intelligence 
+and mission support tools. 
+TPOC: Reginald L. Hobbs, (301) 394-1981, reginald.l.hobbs2.civ@mail.mil. 
+g. CCE-IS-3: Text and Video Analytics 
+The IS CCE on Text and Video Analytics addresses how traditional video analytic methods is 
+improved by introducing semantic cues using textual class-based attributes. This research 
+addresses a large gap, namely how can text-based information be combined with video 
+analysis. We propose to develop a new approach that incorporates textual class-based attributes 
+to impact the accuracy of methods when traditional low-level video features do not perform as 
+well as expected, as in action recognition. The convergence of text and video from a range of 
+sources holds promise for allowing warfighters to exploit the incredibly large and growing 
+sources of information streaming in, an understanding of which can be critical to decision 
+making, and therefore safety and mission success. This exploratory research will make use of 
+an event ontology to structure relationships between attributes, actions, events, and larger 
+sequences of events. Three research foci will be emphasized: 
+i. Leverage text within video for object recognition. 
+ii. Transition these findings into the activity recognition. 
+iii. Expand into highly complex sequences of actions to be able to infer implicit 
+information which may not be explicit. 
+The IS CCE on Text and Video Analytics will support KCIs by creating a path towards 
+developing a deeper semantic representation of unstructured data, including reasoning for 
+improved scene understanding using real-world knowledge that can make it easy for human 
+analysts to quickly recognize important factors and relationships. 
+TPOC: Clare Voss, (301) 394-5615, clare.r.voss.civ@mail.mil, and Heesung Kwon, (301) 394-
+2501, heesung.kwon.civ@mail.mil. 
+h. CCE-IS-4: Atmospheric Boundary Layer Exploitation 
+The purpose of the IS CCE on Atmospheric Boundary Layer Exploitation is to advance the 
+ability to accurately sense and forecast weather events that can significantly deviate from 
+44
+expected climatic norms, and to assess and mitigate their effects on Army personnel, systems, 
+and operations. The following goals address this critical requirement: 
+i. Establish capability to characterize near-surface heat, moisture, and momentum fluxes in 
+rugged, complex terrain. Essential atmospheric data will be quickly, accurately, and 
+automatically collected from a wide variety of ground- and air-based platforms. These data will 
+be incorporated as new parameterizations into fine-scale Numerical Weather Prediction (NWP) 
+models to provide high-resolution temporal and spatial predictions. 
+ii. Characterize interactions of hazardous aerosols with naturally-occurring atmospheric 
+constituents. Develop low SWaP (Size, Weight, and Power) LiDAR/RADAR prototype systems 
+capable of remotely-characterizing atmospheric parameters (i.e., wind, temperature, moisture, 
+etc.) and aerosol composition. 
+iii. Ingest atmospheric data seamlessly via “machine to machine” (M2M) interfaces into 
+advanced modeling systems hosted on powerful, tactical-sized, high performance computer 
+systems, even down to the smallest of mobile, Soldier-hosted hand-held devices. These models 
+will be fully validated with quantified metrics to assess their accuracy. Apply Machine Learning 
+techniques to fully exploit/data mine large atmospheric data sets.
+iv. Translate weather forecasts from NWP models into highly-intuitive decision support 
+guidance products tailored to meet a variety of mission requirements, depicting weather impacts 
+on personnel, operations, and systems. 
+The Atmospheric Boundary Layer Exploitation CCE provides information and intelligence 
+tools to be used as a force multiplier in intelligence and mission command decision support 
+tools, artillery accuracy, Soldier health and performance, communications, sensing and imaging, 
+and intelligent systems’ maneuvers. The underpinning science supports KCIs by providing 
+environmentally context-aware, mission-relevant information. Friendly forces leveraging this 
+technology will have vastly superior knowledge, when compared to our enemies, of the current 
+and future atmospheric state, as well as its potential effects on personnel, systems, and 
+operations. This work will provide strategic and tactical information for the Army of the future 
+by providing Army-scale atmospheric predictions in complex, dynamic terrain and “megacity” 
+dense-urban environments. This information will guide mission planning and execution in the 
+field and inform intelligent systems, including smart energy systems, autonomous systems 
+(ground and air), smart routing, and others, for real-time adjustments and maneuver capability. 
+TPOC: Dr. Robb Randall, (575) 678-3123, robb.m.randall.civ@mail.mil.
+i. CCE-IS-5: Sensors, Sensor Phenomenology, and Algorithms 
+This CCE seeks to develop underpinning technologies that will provide the Army with a high 
+degree of situational understanding against ground and airborne threats while operating in 
+45
+complex environments against adaptive enemy forces. The main objectives are to develop the 
+necessary models, signal processing, prototype sensors and subsystems to support the next 
+generation of situational awareness, air defense, and tactical sensing RADAR technologies. 
+Research areas include: 
+ 
+i. Forward looking synthetic aperture radar (SAR) for degraded visual environments 
+(DVE). Research will develop laboratory-grade hardware, RADAR signal processing 
+algorithms and physics-based computational models to demonstrate technologies associated 
+with forward looking SAR concepts at the millimeter wave band for helicopters operating in 
+DVE conditions to ensure situational understanding, navigation, and safe landing.
+ii. Affordable COTS-based RADARs for Degraded Visual Environment (DVE): Research 
+uses an affordable COTS framework to perform field measurements and analysis in order to 
+define appropriate metrics for the multifunction DVE helicopter mission. The warfighter will 
+benefit with situational awareness in environments obscured by weather (brownout and 
+whiteout conditions) and other nearby obstacles. 
+iii. Multi-band air defense RADAR: Research will focus on designing, developing, and 
+assessing cognitive and adaptive RADAR architectures and components for Air Defense and 
+Counter-Rockets, Artillery, and Mortar (C-RAM) missions. Other major applications include 
+detecting small UAS using Doppler and micro-Doppler signature-based techniques. 
+iv. Cognitive RADAR: Research will investigate various hardware and algorithmic 
+approaches to develop techniques that enable continued RADAR operations in congested RF 
+environments. Spectrum sensing, waveform design, machine learning, artificial intelligence, 
+and agile and adaptive hardware solutions across multiple frequency bands are key research 
+areas. 
+TPOC: Anders Sullivan, (301) 394-0838, anders.j.sullivan.civ@mail.mil.
+Information Sciences (IS) Related Topics: 
+j. Electric and Magnetic Field Sensor Technology 
+Research proposals are desired that are related to small, rugged, low-power electric- and 
+magnetic-field sensors that can be deployed on a battlefield using artillery-based delivery 
+systems, or scattered from air or ground vehicles, or emplaced by individual soldiers. These 
+sensors should be passive or semi-active (i.e., with no local field-generating element), and may 
+operate at low frequencies in the quasi-static zone (or "near field"), where the electric and 
+magnetic fields are not coupled. These sensors should be characterized by exceptionally low 
+power, size, weight, and cost, and/or by exceptionally high sensitivity and low noise (i.e., with 
+performance limited by the background environment). Sensor bandwidth generally falls 
+between DC and ~1 MHz, but may be further limited for specific applications: e.g., 0.001-10 
+46
+Hz for anomaly detection; 30-3000 Hz for electric-power sensing; 3-30 kHz for very low 
+frequency (VLF) sensing.
+Sensors should operate in an unattended mode, and should be able to detect, classify, identify, 
+localize, and/or track tactically-significant targets, including ground vehicles (tanks and other 
+tracked vehicles, and wheeled vehicles), air vehicles (fixed-wing, rotary-wing, unmanned aerial 
+vehicles (UAV) / manned aerial vehicles (MAV), etc.), and/or other targets and events at 
+tactically-useful distances. These other targets include, but are not limited to, armed individual 
+soldiers, underground facilities, power and telephone lines, RF transmitters; other events 
+including gunshots, mortar and artillery launches, and explosions. 
+These sensors may be used individually or as part of a wide-area sensor array for surveillance, 
+target acquisition, and/or engagement. While individual sensors may or may not have 
+exceptional individual performance, their low size, power, weight, and cost should permit them 
+to be used on the battlefield in ways not previously contemplated. Moreover, arrays and/or 
+networks of such sensors are expected to provide new sensing capabilities and levels of 
+performance simply not available today. 
+Unattended surveillance sensors may be stationary or mounted on robotic platforms; these 
+sensors will be integrated with local and networked signal processing and communications 
+capabilities. They should operate unattended for weeks or months after deployment, and 
+indefinitely with energy harvesting. The sensor output should be quantitative: e.g., analog 
+voltage level(s) or digital word(s); it should contain target information, and possibly a 
+confidence level, suitable for low-bandwidth transmission and/or inter-sensor fusion. 
+Proposals will be accepted in seven areas: 
+i. Research on novel electric- and magnetic-field sensor concepts leading to quantification 
+of detection distance(s), classification, identification, localization, and/or tracking of various 
+classes of targets. High-performance sensors should have exceptional sensitivity (limited by 
+environmental noise), frequency and phase response, dynamic range (60 to 120+ dB), linearity, 
+total harmonic distortion, hysteresis, cross-axis sensitivity, cross-modality sensitivity, etc. 
+Arrays of sensors should be characterized by exceptional performance matching. Low-SWaPC sensing elements (field transducers), processors, and communication elements should each 
+be chip-scale, use 1 nW to ~1 mW of power, and cost on the order of a few dollars.
+ii. Research directed at environmental and/or platform noise reduction, and/or reduction of 
+sensor front-end noise (particularly 1/f noise). 
+iii. Research related to filtering and/or signal processing techniques, which are expected to 
+improve the detectability of targets in a battlefield environment. Array processing, in-situ 
+"imaging", and multi-modal processing are of particular interest.
+47
+iv. Computer-based modeling of targets and sensors that can provide a capability to 
+perform trade-off analyses of sensor concepts during prototype design. 
+v. Algorithms that can provide improved detection, classification, and/or identification of 
+targets of interest in real-world environments. Proposed algorithms should be low-SWaP-C, 
+portable to the Internet of Battlefield Things (IoBT), and usable in the Future Army Network.
+vi. Resilient processing with performance that gracefully degrades in the presence of 
+intermittent power, intermittent and/or unreliable networking, information assurance attacks, 
+memory failures, and cosmic rays, etc.
+vii. Proof-of-concept prototype design(s) of individual electric and magnetic-field sensors 
+suitable for detecting tactically significant targets in battlefield environment. 
+TPOC: Mr. David M. Hull, (301) 394-3140, david.m.hull6.civ@mail.mil. 
+k. Artificial Intelligence and Machine Learning
+The Government currently collects more data than it can meaningfully process. This includes 
+image and video data, structured data sets for a variety of combat and non-combat missions 
+(e.g. health, maintenance, logistics, and operations), and various, stove-piped, unstructured, 
+massive data sets that exist primarily in the form of text documents. The vast scale of data 
+collection challenges human-driven/human-only solutions to collection and processing.
+The goals of this work are to increase the government’s capacity to process that data by 
+assisting and augmenting analysts through the application of artificial intelligence (AI) and 
+machine learning (ML) algorithms, to include deep learning algorithms. Research will focus on 
+experimental investigation and prototype development of AI/ML algorithms and capabilities. In 
+addition, this research program will focus on helping analysts perceive and understand dynamic 
+and unknown environments. Another research focus area includes the creation comprehensive 
+models of real-world environments in which AI/ML entities facilitate course of action 
+development by displaying intuition and improvisation characteristics in real-time, dynamic 
+scenarios.
+Elements of this research effort include new frameworks and tools for the creation of 
+algorithms; tailored algorithms to perform discrete tasks, particularly in the fields of computer
+vision and language; innovative AI/ML computational environments; new labeling techniques 
+to generate massive scale annotated data for supervised deep learning techniques; new methods 
+of edge computation to bring deep learning algorithms to constrained computational 
+environments; methods to evaluate and determine the effectiveness of algorithmic approaches; 
+interfaces for the display, search, and interaction with algorithmically derived metadata and 
+tabular structured algorithmic output; new techniques, hardware, software, and tools for the 
+training, testing, and validating of algorithms; and storage and indexing capabilities for local 
+algorithmically-produced data

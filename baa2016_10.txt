@@ -1,0 +1,550 @@
+(d) Names of each investigator's own graduate or post-graduate advisors and advisees. 
+NOTE: The information provided in (c) and (d) is used to help identify potential 
+conflicts or bias in the selection of reviewers. 
+(3) For the personnel categories of postdoctoral associates, other professionals, and students 
+(research assistants), the proposal may include information on exceptional qualifications of 
+these individuals that merit consideration in the evaluation of the proposal. 
+(4) The biographical sketches are limited to three (3) pages per investigator and other individuals 
+that merit consideration. 
+viii. BIBLIOGRAPHY: A bibliography of pertinent literature is required. Citations must be 
+complete (including full name of author(s), title, and location in the literature). 
+ix. CURRENT AND PENDING 
+SUPPORT: 
+(1) All project support from whatever source must be listed. The list must include all projects 
+requiring a portion of the PI's and other key personnel's time, even if they receive no salary 
+support from the project(s). 
+(2) The information should include, as a minimum: (i) the project/proposal title and brief 
+description, (ii) the name and location of the organization or agency presently funding the work 
+or requested to fund such work, (iii) the award amount or annual dollar volume of the effort, (iv) 
+the period of performance, and (v) a breakdown of the time required of the PI and/or other key 
+personnel. 
+x. FACILITIES, EQUIPMENT, and OTHER RESOURCES: The applicant should include in 
+the proposal a listing of facilities, equipment, and other resources already available to perform 
+the research proposed. 
+xi. PROPOSAL BUDGET (including DD Form 1861): 
+(1) Each proposal must contain a budget for each year of support requested and a cumulative 
+budget for the full term of requested support. Each budget year and the cumulative budget for 
+the full term must be documented on ARO Form 99. ARO Form 99 may be reproduced, but you 
+may not make substitutions in prescribed budget categories nor alter or rearrange the cost 
+categories as they appear on the form. The proposal may request funds under any of the 
+categories listed so long as the item is considered necessary to perform the proposed work and is 
+not precluded by applicable cost principles. In addition to the forms, the budget proposal should 
+include budget justification for each year. 
+(2) A signed summary budget page must be included. The documentation pages should be 
+titled "Budget Explanation Page" and numbered chronologically starting with the budget form. 
+The need for each item should be explained clearly. 
+90
+(3) All cost data must be current and complete. Costs proposed must conform to the 
+following principles and procedures: 
+Institutions of Higher Education: 2 CFR Part 200 
+ Nonprofit Organizations: 2 CFR Part 200 
+For-Profit/Commercial Organizations: FAR Part 31, DFARS Part 231, FAR Subsection 
+15.403-5, and DFARS Subsection 215.403-5. 
+* For those nonprofit organizations specifically exempt from the provisions of Subpart E of 2 
+CFR Part 200 (see 2 CFR 200.401(c)), FAR Part 31 and DFARS Part 231 shall apply. 
+(4) Sample itemized budgets and the information they must include for a contract and for 
+grants and cooperative agreements can be found at Section II.H of this BAA (Other 
+Information). Before award of a cost-type contract or assistance instrument it must be 
+established that an approved accounting system and financial management system exist. 
+xii. APPENDICES: Some situations require that special information and supporting documents 
+be included in the proposal before funding can be approved. Such information and 
+documentation should be included by appendix to the proposal. 
+(1) To evaluate compliance with Title IX of the Education Amendments of 1972 (20 U.S.C. 
+A Section 1681 Et. Seq.), the Department of Defense is collecting certain demographic 
+and career information to be able to assess the success rates of women who are proposed 
+for key roles in applications in STEM disciplines. To enable this assessment, each 
+application must include the following forms completed as indicated.
+(A)Research and Related Senior/Key Person Profile (Expanded) form:
+The Degree Type and Degree Year fields on the Research and Related Senior/Key Person 
+Profile (Expanded) form will be used by DoD as the source for career information. In 
+addition to the required fields on the form, applicants must complete these two fields for all 
+individuals that are identified as having the project role of PD/PI or Co-PD/PI on the form. 
+Additional senior/key persons can be added by selecting the “Next Person” button.
+(B) Research and Related Personal Data form: 
+This form will be used by DoD as the source of demographic information, such as gender, 
+race, ethnicity, and disability information for the Project Director/Principal Investigator and 
+all other persons identified as Co-Project Director(s)/Co-Principal Investigator(s). Each 
+application must include this form with the name fields of the Project Director/Principal 
+Investigator or any Co-Project Director(s)/Co-Principal Investigator(s) completed; however, 
+provision of the demographic information in the form is voluntary. If completing the form 
+for multiple individuals, each Co-Project Director/Co-Principal Investigator can be added by 
+selecting the “Next Person” button. The demographic information, if provided, will be used 
+for statistical purposed only and will not be made available to merit reviewers. Applicants 
+91
+who do not wish to provide some or all of the information should check or select the “Do 
+not wish to provide” option. 
+f. Submission of Proposals
+Proposals must be submitted by email (only when a contract is requested) or through
+Grants.gov. Proposals must be submitted through the applicant’s organizational office having 
+responsibility for Government business relations. All signatures must be that of an official 
+authorized to commit the organization in business and financial affairs. 
+Proposal content requirements remain the same for both email and Grants.gov submission. 
+i. EMAIL SUBMISSION (only when a Contract is the requested form of agreement): 
+(1) Proposals requesting a Contract may be emailed directly to:
+usarmy.rtp.aro.mbx.baa@mail.mil. Do not email full proposals to the TPOC. All emailed 
+proposals must adhere to the format requirements and contain the information outlined in 
+Section II.D.2.e of this BAA. 
+(2) The applicant must include with its proposal submission the representations required by 
+Section II.F.2.a.i of this BAA. The representations must include applicant point of contact 
+(POC) information and be signed by an authorized representative. Note: If the applicant’s 
+SAM Representations and Certifications include its response to the representations a hard copy 
+representation is not required with proposal submission. 
+(3) All forms requiring signature must be completed, printed, signed, and scanned into a PDF 
+document. All documents must be combined into a single PDF formatted file to be attached to 
+the email. 
+(4) Proposal documents (excluding required forms) must use the following format: 
+• Page Size – 8 ½ x 11 inches 
+• Margins – 1 inch 
+• Spacing – single 
+• Font – Times New Roman, 12 point, single-sided pages 
+ii. GRANTS.GOV SUBMISSION (For all proposals requesting Assistance. Proposals 
+requesting a Contract may be submitted either via Grants.gov or email) 
+(1) Grants.gov Registration (See Section II.D.2.g below) must be accomplished prior to 
+application submission in Grants.gov. 
+NOTE: All web links referenced in this section are subject to change by Grants.gov and may not 
+be updated here. 
+92
+(2) Specific forms are required for submission of a proposal. The forms are contained in the 
+Application Package available through the Grants.gov application process. To access these 
+materials, go to http://www.grants.gov, select "Apply for Grants,” and then select " Get 
+Application Package." A Grant Application Package and Application Instructions are 
+available through the Grants.Gov Apply portal under CFDA Number 12.431/Funding 
+Opportunity Number W911NF-17-S-0003. Select “Apply” and then “Apply Now Using 
+Workspace.” 
+*NOTE: Effective 31 December 2017, the legacy PDF application package on Grants.gov will be 
+retired and applicants must apply online at Grants.gov using the application Workspace. For 
+access to complete instructions on how to apply for opportunities using Workspace refer to:
+https://www.grants.gov/web/grants/applicants/workspace-overview.html. 
+The following documents are mandatory: (1) Application for Federal Assistance (R&R) (SF 424 
+(R&R)), and (4) Attachments form. 
+(3) The SF 424 (R&R) form is to be used as the cover page for all proposals submitted via 
+Grants.gov. The SF 424 (R&R) must be fully completed. Authorized Organization 
+Representative (AOR) usernames and passwords serve as “electronic signatures” when your 
+organization submits applications through Grants.gov. By using the SF 424 (R&R), proposers 
+are providing the certification required by 32 CFR Part 28 regarding lobbying (see Section 
+II.F.2.a.ii of this BAA). Block 11, “Descriptive Title of Applicant’s Project,” must reference the 
+research topic area being addressed in the effort by identifying the specific paragraph from 
+Section II.A of this BAA. 
+(4) The Attachments form must contain the documents outlined in Section II.D.2.e.ii entitled 
+“Table of Contents”. All documents must be combined into separate and single PDF 
+formatted files using the Table of Contents names. Include “W911NF-17-S-0003” in the title 
+so the proposal will be distinguished from other BAA submissions and upload each document 
+to the mandatory Attachments form. 
+(5) The applicant must include with its proposal submission the representations required by 
+Section II.F.2.a.ii of this BAA. The representations must include applicant POC information 
+and be signed by an authorized representative. Attach the representations document to an 
+available field within the Attachments form. Note: If the applicant’s SAM Representations 
+and Certifications include its response to the representations a hard copy representation is not 
+required with proposal submission. 
+(6) The Grants.gov User Guide at: 
+http://www.grants.gov/help/html/help/index.htm?callingApp=custom#t=Get_Started%2FGet_
+Sta rted.htm will assist AORs in the application process. Remember that you must open and 
+complete the Application for Federal Assistance (R&R) (SF 424 (R&R)) first, as this form 
+will automatically populate data fields in other forms. If you encounter any problems, contact 
+customer support at 1-800-518-4726 or at support@grants.gov. If you forget your user name 
+93
+or password, follow the instructions provided in the Credential Provider tutorial. Tutorials 
+may be printed by right-clicking on the tutorial and selecting “Print”. 
+(7) As it is possible for Grants.gov to reject the proposal during this process, it is strongly 
+recommended that proposals be uploaded at least two days before any established deadline in 
+the BAA so that they will not be received late and be ineligible for award consideration. It is 
+also recommended to start uploading proposals at least two days before the deadline to plan 
+ahead for any potential technical and/or input problems involving the applicant’s own 
+equipment. 
+g. Grants.gov Registration
+i. Each organization that desires to submit applications via Grants.Gov must complete a onetime registration. There are several one-time actions your organization must complete in order to 
+submit applications through Grants.gov (e.g., obtain a Unique Entity Identifier, register with the 
+SAM, register with the credential provider, register with Grants.gov and obtain approval for an 
+AOR to submit applications on behalf of the organization). To register please see:
+http://www.grants.gov/web/grants/applicants/organization-registration.html
+ii. Please note the registration process for an Organization or an Individual can take between 
+three to five business days or as long as four weeks if all steps are not completed in a timely 
+manner. 
+iii. Questions relating to the registration process, system requirements, how an application 
+form works, or the submittal process should be directed to Grants.gov at 1-800-518-4726 or 
+support@grants.gov. 
+3. Unique Entity Identifier and System for Award Management (SAM)
+a. Each applicant (unless the applicant is an individual or Federal awarding agency that is 
+exempt from those requirements under 2 CFR 25.110(b) or (c), or has an exemption approved 
+by the Federal awarding agency under 2 CFR 25.110(d)) is required to: 
+i. Be registered in SAM prior to submitting its application; ii. Provide a valid 
+unique entity identifier (formerly DUNS) in its application; and iii. Maintain an 
+active SAM registration with current information at all times during which it has an 
+active Federal award or an application or plan under consideration by a Federal 
+awarding agency. 
+b. The Federal awarding agency may not make a Federal award to an applicant until the 
+applicant has complied with all applicable unique entity identifier and SAM requirements. If an 
+applicant has not fully complied with the requirements by the time the Federal awarding agency 
+is ready to make a Federal award, the Federal awarding agency may determine that the 
+applicant is not qualified to receive a Federal award and use that determination as a basis for 
+making a Federal award to another applicant. 
+94
+4. Submission Dates and Times 
+a. Proposals 
+Proposals will be considered until and including the closing date of this announcement (see cover 
+page of this announcement for opening/closing dates), except for special programs identified in 
+this BAA that may announce specific opening/closing dates. Proposals submitted after the 
+closing date will not be considered by the Government. 
+b. Proposal Receipt Notices
+i. Grants.gov: After a proposal is submitted to Grants.gov, the AOR will receive a series of 
+three emails from Grants.gov. The first two emails will be received within 24 to 48 hours after 
+submission. The first email will confirm time of receipt of the proposal by the Grants.gov system 
+and the second will indicate that the proposal has either been successfully validated by the 
+system prior to transmission to the grantor agency or has been rejected due to errors. A third 
+email will be received once the grantor agency has confirmed receipt of the proposal. Reference 
+the Grants.gov User Guide at:
+http://www.grants.gov/help/html/help/index.htm?callingApp=custom#t=Get_Started%2FGet_Sta
+r ted.htm for information on how to track your application package. 
+For the purposes of this BAA, an applicant’s proposal is not considered received by ARL until 
+the AOR receives email #3. 
+ii. Email Submission: After a proposal is submitted to usarmy.rtp.aro.mbx.baa@mail.mil, 
+the AOR will receive an email confirming time of receipt of the proposal by the grantor agency. 
+For the purposes of this BAA, an applicant’s proposal is not considered received by the grantor 
+agency until the AOR receives the email confirming receipt of the proposal. 
+ 
+5. Intergovernmental Review
+Not Applicable 
+6. Funding Restrictions
+There are no specific funding restrictions associated with this BAA (e.g. direct costs, indirect 
+costs, etc.). 
+7. Other Submission Requirements
+a. Information to Be Requested from Successful Applicants: Applicants whose proposals 
+are accepted for funding will be contacted before award to provide additional information 
+required for award. The required information may include requests to clarifying budget 
+explanations, representations, certifications, and some technical aspects. 
+95
+b. For Contracts Only: Performance Work Statements (PWS). Prior to award the 
+Contracting Officer may request that the contractor submit a PWS for the effort to be 
+performed, which will be incorporated into the contract at the time of award. 
+(End of Section) 
+E. Application Review Information
+1. Criteria
+Proposals submitted in response to this BAA will be evaluated using the factors listed below (in 
+descending order of importance): 
+a. The overall scientific and/or technical merits of the proposal. 
+b. The potential contributions of the effort to the Army mission and the extent to which the 
+research effort will contribute to balancing the overall ARL research program. 
+c. The applicant's capabilities, related experience, facilities, techniques, or unique combinations 
+of these, which are integral factors for achieving the proposed objectives. 
+d. The qualifications, capabilities, and experience of the proposed PI, team leader, or other key 
+personnel who are critical to achievement of the proposed objectives. 
+e. The applicant's record of past performance. 
+**NOTE: Cost sharing will not be considered in the evaluation. 
+2. Review and Selection Process
+a. Upon receipt of a proposal, the ARL staff will perform an initial review of its scientific 
+merit and potential contribution to the Army mission, and also determine if funds are expected to 
+be available for the effort. Proposals not considered having sufficient scientific merit or relevance 
+to the Army's needs, or those in areas for which funds are not expected to be available, may not 
+receive further review. 
+b. All proposals are treated as procurement sensitive and are disclosed only for the purpose 
+of evaluation. Proposals not declined as a result of an initial review will be subject to a peer 
+review by highly qualified scientists. While the applicant may restrict the evaluation to scientists 
+from within the Government, to do so may prevent review of the proposal by those most 
+qualified in the field of research covered by the proposal. The applicant must indicate on the 
+96
+appropriate proposal form (Form 52 or 52A) any limitation to be placed on disclosure of 
+information contained in the proposal. 
+c. Each proposal will be evaluated based on all the evaluation criteria in Section II.E.1 of 
+this BAA rather than against other proposals for research in the same general area. 
+d. Upon completion of an evaluation against the criteria in Section II.E.1, a proposal 
+selected for possible award will be analyzed for the realism and reasonableness of costs. 
+Proposal costs must be determined reasonable and realistic before the Government can make an 
+award. 
+3. Recipient Qualification
+a. Grant, Cooperative Agreement, and TIA Proposals: 
+i. The Grants Officer is responsible for determining a recipient’s qualification prior to 
+award. In general, a Grants Officer will award grants or cooperative agreements only to 
+qualified recipients that meet the standards at 32 CFR 22.415. To be qualified, a potential 
+recipient must: 
+(1) Have the management capability and adequate financial and technical resources, given 
+those that would be made available through the grant or cooperative agreement, to 
+execute the program of activities envisioned under the grant or cooperative agreement; 
+(2) Have a satisfactory record of executing such programs or activities (if a prior recipient 
+of an award); 
+(3) Have a satisfactory record of integrity and business ethics; and 
+(4) Be otherwise qualified and eligible to receive a grant or cooperative agreement under 
+applicable laws and regulations. 
+Applicants are requested to provide information with proposal submissions to assist the Grants 
+Officer’s evaluation of recipient qualification. 
+ii. In accordance with Office of Management and Budget (OMB) guidance in parts 180 
+and 200 of Title 2, CFR, it is DoD policy that DoD Components must report and use integrity 
+and performance information in the Federal Awardee Performance and Integrity Information 
+System (FAPIIS), or any successor system designated by OMB, concerning grants, cooperative 
+agreements, and TIAs as follows: 
+If the total Federal share will be greater than the simplified acquisition threshold on any Federal 
+award under a notice of funding opportunity (see 2 CFR 200.88 Simplified Acquisition 
+Threshold): 
+97
+(1) The Federal awarding agency, prior to making a Federal award with a total amount of 
+Federal share greater than the simplified acquisition threshold, will review and 
+consider any information about the applicant that is in the designated integrity and 
+performance system accessible through SAM (currently FAPIIS) (see 41 U.S.C. 
+2313); 
+(2) An applicant, at its option, may review information in the designated integrity and 
+performance systems accessible through SAM and comment on any information about 
+itself that a Federal awarding agency previously entered and is currently in the 
+designated integrity and performance system accessible through SAM; 
+(3) The Federal awarding agency will consider any comments by the applicant, in 
+addition to the other information in the designated integrity and performance system, 
+in making a judgment about the applicant's integrity, business ethics, and record of 
+performance under Federal awards when completing the review of risk posed by 
+applicants as described in 2 CFR 200.205 Federal awarding agency review of risk 
+posed by applicants. 
+b. Contract Proposals: 
+i. Contracts shall be awarded to responsible prospective contractors only. See FAR 
+9.104-1 for a listing of the general standards against which an applicant will be assessed to 
+determine responsibility. 
+Applicants are requested to provide information with proposal submission to assist the 
+Contracting Officer’s evaluation of responsibility. 
+ii. FAPIIS will be checked prior to making an award. The web address is: 
+https://www.fapiis.gov/fapiis/index.action. The applicant representing the entity may 
+comment in this system on any information about the entity that a federal government official 
+entered. The information in FAPIIS will be used in making a judgment about the entity’s 
+integrity, business ethics, and record of performance under Federal awards that may affect the 
+official’s determination that the applicant is qualified to receive an award. 
+(End of Section) 
+F. Award Administration Information
+1. Award Notices
+Applicants whose proposals are recommended for award may be contacted by a Contract/Grant 
+Specialist to discuss additional information required for award. This may include representations 
+98
+and certifications, revised budgets or budget explanations, certificate of current cost or pricing 
+data, subcontracting plan for small businesses, and/or other information as applicable to the 
+proposed award. The anticipated start date will be determined at that time. 
+The notification email must not be regarded as an authorization to commit or expend funds. The 
+Government is not obligated to provide any funding until a Government Contracting/ Grants 
+Officer signs the award document. 
+The award document signed by the Government Contracting/Grants Officer is the official and 
+authorizing award instrument. The authorizing award instrument, signed by the Contracting/ 
+Grants Officer, will be emailed to the PI and AOR. 
+2. Administrative and National Policy Requirements
+a. Required Representations and Certifications: 
+i. Contract Proposals:
+(1) Representations and certifications shall be completed by successful applicants prior to award. 
+FAR Online Representations and Certifications are to be completed through SAM at 
+https://www.SAM.gov. As appropriate, DFARS and contract-specific certification packages 
+will be provided to the contractor for completion prior to award. 
+(2) FAR 52.203-18, PROHIBITION ON CONTRACTING WITH ENTITIES THAT REQUIRE 
+CERTAIN CONFIDENTIALITY AGREEMENTS OR STATEMENTS—REPRESENTATION 
+(JAN 2017) 
+(a) Definition. As used in this provision--
+“Internal confidentiality agreement or statement”, “subcontract”, and “subcontractor”, are 
+defined in the clause at 52.203-19, Prohibition on Requiring Certain Internal Confidentiality 
+Agreements or Statements. 
+(b) In accordance with section 743 of Division E, Title VII, of the Consolidated and Further 
+Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in 
+subsequent appropriations acts (and as extended in continuing resolutions), Government 
+agencies are not permitted to use funds appropriated (or otherwise made available) for 
+contracts with an entity that requires employees or subcontractors of such entity seeking to 
+report waste, fraud, or abuse to sign internal confidentiality agreements or statements 
+prohibiting or otherwise restricting such employees or subcontractors from lawfully 
+reporting such waste, fraud, or abuse to a designated investigative or law enforcement 
+representative of a Federal department or agency authorized to receive such information. 
+(c) The prohibition in paragraph (b) of this provision does not contravene requirements 
+applicable to SF 312, (Classified Information Nondisclosure Agreement), Form 4414 
+99
+(Sensitive Compartmented Information Nondisclosure Agreement), or any other form 
+issued by a Federal department or agency governing the nondisclosure of classified 
+information. 
+(d) Representation. By submission of its offer, the applicant represents that it will not require 
+its employees or subcontractors to sign or comply with internal confidentiality agreements 
+or statements prohibiting or otherwise restricting such employees or subcontractors from 
+lawfully reporting waste, fraud, or abuse related to the performance of a Government 
+contract to a designated investigative or law enforcement representative of a Federal 
+department or agency authorized to receive such information (e.g., agency Office of the 
+Inspector General). 
+(3) FAR 52.209-11, REPRESENTATION BY CORPORATIONS REGARDING 
+DELINQUENT TAX LIABILITY OR A FELONY CONVICTION UNDER FEDERAL LAW 
+(FEB 2016) 
+As required by sections 744 and 745 of Division E of the Consolidated and Further 
+Continuing Appropriations Act, 2015 (Pub. L 113-235), and similar provisions, if 
+contained in subsequent appropriations acts, the Government will not enter into a contract 
+with any corporation that--
+Has any unpaid Federal tax liability that has been assessed, for which all judicial 
+and administrative remedies have been exhausted or have lapsed, and that is not 
+being paid in a timely manner pursuant to an agreement with the authority 
+responsible for collecting the tax liability, where the awarding agency is aware of 
+the unpaid tax liability, unless an agency has considered suspension or debarment of 
+the corporation and made a determination that suspension or debarment is not 
+necessary to protect the interests of the Government; or 
+Was convicted of a felony criminal violation under any Federal law within the 
+preceding 24 months, where the awarding agency is aware of the conviction, 
+unless an agency has considered suspension or debarment of the corporation and 
+made a determination that this action is not necessary to protect the interests of the 
+Government. 
+The applicant represents that—
+It is [ ] is not [ ] a corporation that has any unpaid Federal tax liability that has 
+been assessed, for which all judicial and administrative remedies have been 
+exhausted or have lapsed, and that is not being paid in a timely manner pursuant to 
+an agreement with the authority responsible for collecting the tax liability; and 
+It is [ ] is not [ ] a corporation that was convicted of a felony criminal violation 
+under a Federal law within the preceding 24 months.
+100
+ii. Grant and Cooperative Agreement Proposals: 
+(1) Grant awards greater than $100,000 require a certification of compliance with a national 
+policy mandate concerning lobbying. Statutes and Government-wide regulations require the 
+certification to be submitted prior to award. When submitting your grant through Grants.gov, by 
+completing blocks 18 and 19 of the SF 424 (R&R) Form, the grant applicant is providing the 
+certification on lobbying required by 32 CFR Part 28; otherwise a copy signed by the AOR must 
+be provided. Below is the required certification: 
+CERTIFICATION AT APPENDIX A TO 32 CFR PART 28 REGARDING 
+LOBBYING: Certification for Contracts, Grants, Loans, and Cooperative Agreements the 
+undersigned certifies, to the best of his or her knowledge and belief, that: 
+(1) No Federal appropriated funds have been paid or will be paid, by or on behalf of 
+the undersigned, to any person for influencing or attempting to influence an officer or 
+employee of an agency, a Member of Congress, an officer or employee of Congress, 
+or an employee of a Member of Congress in connection with the awarding of any 
+Federal contract, the making of any Federal grant, the making of any Federal loan, the 
+entering into of any cooperative agreement, and the extension, continuation, renewal, 
+amendment, or modification of any Federal contract, grant, loan, or cooperative 
+agreement. 
+(2) If any funds other than Federal appropriated funds have been paid or will be paid 
+to any person for influencing or attempting to influence an officer or employee of any 
+agency, a Member of Congress, an officer or employee of Congress, or an employee 
+of a Member of Congress in connection with this Federal contract, grant, loan, or 
+cooperative agreement, the undersigned shall complete and submit SF-LLL, 
+"Disclosure Form to Report Lobbying," in accordance with its instructions. 
+(3) The undersigned shall require that the language of this certification be included in 
+the award documents for all sub-awards at all tiers (including subcontracts, sub-grants, 
+and contracts under grants, loans, and cooperative agreements) and that all subrecipients shall certify and disclose accordingly. 
+This certification is a material representation of fact upon which reliance was placed when 
+this transaction was made or entered into. Submission of this certification is a prerequisite 
+for making or entering into this transaction imposed by 31 U.S.C. 1352. Any person who 
+fails to file the required certification shall be subject to a civil penalty of not less than 
+$10,000 and not more than $100,000 for each such failure. 
+(2) In accordance with Continuing Appropriations Act, 2017 (Pub. L. 114-223), or any other 
+Act that extends to fiscal year (FY) 2017 funds the same prohibitions as contained in section 743, 
+division E, title VII, of the Consolidated Appropriations Act, 2016 (Pub. L. 114-113), none of the 
+funds appropriated or otherwise made available by that or any other Act may be made available 
+for a grant or cooperative agreement with an entity that requires its employees or contractors 
+101
+seeking to report fraud, waste, or abuse to sign internal confidentiality agreements or statements 
+prohibiting or otherwise restricting those employees or contractors from lawfully reporting that 
+waste, fraud, or abuse to a designated investigative or law enforcement representative of a 
+Federal department or agency authorized to receive the information.
+PROHIBITION ON CONTRACTING WITH ENTITIES THAT REQUIRED CERTAIN 
+INTERNAL CONFIDENTIALITY AGREEMENTS – REPRESENTATION 
+Agreement with the representation below will be affirmed by checking the “I agree” 
+box in block 17 of the SF424 (R&R) as part of the electronic proposal submitted via 
+Grants.gov. The representation reads as follows: 
+By submission of its proposal or application, the applicant represents that it does not 
+require any of its employees, contractors, or sub-recipients seeking to report fraud, 
+waste, or abuse to sign or comply with internal confidentiality agreements or 
+statements prohibiting or otherwise restricting those employees, contractors, subrecipients from lawfully reporting that waste, fraud, or abuse to a designated 
+investigative or law enforcement representative of a Federal department or agency 
+authorized to receive such information. 
+*Note that: Section 743 states that it does not contravene requirements applicable to SF 
+312, Form 4414, or any other form issued by a Federal department or agency governing 
+the nondisclosure of classified information. 
+(3) Recipients are required to submit the following representation with the application package 
+IAW the instructions at Section II.D.2.f.ii of this BAA: 
+REPRESENTATIONS UNDER DOD ASSISTANCE AGREEMENTS: 
+APPROPRIATIONS PROVISIONS ON TAX DELINQUENCY AND FELONY 
+CONVICTIONS 
+The applicant is ( ) is not ( ) a “Corporation” meaning any entity, including any 
+institution of higher education, other nonprofit organization, or for-profit entity that has 
+filed articles of incorporation. 
+If the applicant is a “Corporation” please complete the following representations: 
+(a) The applicant represents that it is ( ) is not ( ) a corporation that has any unpaid 
+Federal tax liability that has been assessed, for which all judicial and administrative 
+remedies have been exhausted or have lapsed, and that is not being paid in a timely 
+manner pursuant to an agreement with the authority responsible for collecting the tax 
+liability. 
+102
+(b) The applicant represents that it is ( ) is not ( ) is not a corporation that was 
+convicted of a criminal violation under any Federal law within the preceding 24 
+months. 
+NOTE: If an applicant responds in the affirmative to either of the above representations, 
+the applicant is ineligible to receive an award unless the agency suspension and 
+debarment official (SDO) has considered suspension or debarment and determined that 
+further action is not required to protect the Government’s interests. The applicant 
+therefore should provide information about its tax liability or conviction to the agency’s 
+SDO as soon as it can do so, to facilitate completion of the required considerations 
+before award decisions are made. 
+b. Policy Requirements: 
+The following list provides notable national policy requirements that may be applicable to an 
+award. NOTE: The following is not an all-inclusive list of policy requirements. For assistance 
+awards, refer to the DoD Research and Development General Terms and Conditions at 
+http://www.onr.navy.mil/Contracts-Grants/submit-proposal/grants-proposal/grantstermsconditions.aspx for additional national policy requirements that may apply. For contract 
+awards, appropriate clauses will be added to award documents. 
+i. PROTECTION OF HUMAN SUBJECTS: 
+(1) Assistance Instruments: 
+(a) The recipient must protect the rights and welfare of individuals who participate as human 
+subjects in research under this award and comply with the requirements at 32 CFR part 219, 
+Department of Defense Instruction (DoDI) 3216.02, 10 U.S.C. 980, and when applicable, Food 
+and Drug Administration (FDA) regulations. 
+ 
+(b) The recipient must not begin performance of research involving human subjects, also 
+known as human subjects research (HSR), that is covered under 32 CFR part 219, or that meets 
+exemption criteria under 32 CFR 219.101(b), until you receive a formal notification of approval 
+from a DoD Human Research Protection Official (HRPO). Approval to perform HSR under this 
+award is received after the HRPO has performed a review of the recipient’s documentation of 
+planned HSR activities and has officially furnished a concurrence with the recipient’s 
+determination as presented in the documentation. 
+(c) In order for the HRPO to accomplish this concurrence review, the recipient must provide 
+sufficient documentation to enable his or her assessment as follows: 
+(i) If the HSR meets an exemption criteria under 32 CFR 219.101(b), the documentation 
+must include a citation of the exemption category under 32 CFR 219.101(b) and a rationale 
+statement. 
+103
+(ii) If the recipient’s activity is determined as “non-exempt research involving human 
+subjects”, the documentation must include: 
+- Assurance of Compliance (i.e., Department of Health and Human Services Office for 
+Human Research Protections (OHRP) Federal Wide Assurance (FWA)) appropriate for the 
+scope of work or program plan; and 
+- Institutional Review Board (IRB) approval, as well as all documentation reviewed by the 
+IRB to make their determination. 
+(d) The HRPO retains final judgment on what activities constitute HSR, whether an exempt 
+category applies, whether the risk determination is appropriate, and whether the planned HSR 
+activities comply with the requirements in paragraph (a) of this section. 
+(e) The recipient must notify the HRPO immediately of any suspensions or terminations of the 
+Assurance of Compliance. 
+(f) DoD staff, consultants, and advisory groups may independently review and inspect the 
+recipient’s research and research procedures involving human subjects and, based on such 
+findings, DoD may prohibit research that presents unacceptable hazards or otherwise fails to 
+comply with DoD requirements. 
+(g) Definitions for terms used in this article are found in DoDI 3216.02. 
+(2) Contracts: The appropriate clauses shall be added to the award. 
+ii. ANIMAL USE: 
+(1) Assistance Instruments: 
+(a) Prior to initiating any animal work under the award, the recipient must: 
+ 
+(i) Register the recipient’s research, development, test, and evaluation or training facility with 
+the Secretary of Agriculture in accordance with 7 U.S.C. 2136 and 9 CFR section 2.30, 
+unless otherwise exempt from this requirement by meeting the conditions in 7 U.S.C. 2136 
+and 9 CFR parts 1-4 for the duration of the activity. 
+(ii) Have the recipient’s proposed animal use approved in accordance with DoDI 3216.01, Use 
+of Animals in DoD Programs by a DoD Component Headquarters Oversight Office. 
+(iii) Furnish evidence of such registration and approval to the grants officer. 
+(b) The recipient must make the animals on which the research is being conducted, and all 
+premises, facilities, vehicles, equipment, and records that support animal care and use 
+104
+available during business hours and at other times mutually agreeable to the recipient, the 
+United States 
+Department of Agriculture Office of Animal and Plant Health Inspection Service 
+(USDA/APHIS) representative, personnel representing the DoD component oversight offices, as 
+well as the grants officer, to ascertain that the recipient is compliant with 7 U.S.C. 2131 et seq., 9 
+CFR parts 1-4, and DoDI 3216.01. 
+(c) The recipient’s care and use of animals must conform with the pertinent laws of the United 
+States, regulations of the Department of Agriculture, and regulations, policies, and procedures 
+of the DoD (see 7 U.S.C. 2131 et seq., 9 CFR parts 1-4, and DoDI 3216.01). 
+(d) The recipient must acquire animals in accordance with DoDI 3216.01. 
+(2) Contracts: The appropriate clauses shall be added to the award. 
+iii. BIOLOGICAL SAFETY PROGRAM REQUIREMENTS: 
+(1) Assistance Instruments and Contracts: Awards may be subject to biological safety program 
+requirements IAW: 
+(a) Army Regulation (AR) 385-10, Chapter 20 
+http://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r385_10.pdf
+(b) Department of Army (DA) PAM 385-69 
+http://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/p385_69.pdf
+(c) DoD Manual 6055.18-M, Enclosure 4, Section 13 
+http://www.dtic.mil/whs/directives/corres/pdf/605518m.pdf
+(d) DoD Executive Agent List (see item 3) 
+http://www.oaa.army.mil/aea_functions.aspx
+iv. MILITARY RECRUITING: 
+(1) Assistance Instruments: This is to notify potential applicants that each grant or cooperative 
+agreement awarded under this announcement to an institution of higher education must include 
+the following term and condition: 
+(a) As a condition for receiving funds available to the DoD under this award, you agree that you 
+are not an institution of higher education (as defined in 32 CFR part 216) that has a policy or 
+practice that either prohibits, or in effect prevents:

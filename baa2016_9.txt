@@ -1,0 +1,483 @@
+i. Space – Like many commercial interests, the Army is interested in exploiting space 
+assets to solve a range of problems. Research is needed to improve space-based capabilities in 
+the following areas: 
+i. Concepts enabling persistent, high-resolution sensing of ground-based features, 
+environments, and targets
+ii. Concepts enabling low-cost access to space
+j. Internet of Things (IOT) – The Army needs to better integrate a wide range of 
+capabilities and equipment and capitalize on commercial developments in the industrial IOT.
+The Army’s interested is driven in part by the fact that the amount of usable communication 
+bandwidth on the battlefield will be dynamic, and as such automated reallocation of 
+communication resources and information sharing strategies are more challenging than 
+commercial ones. Research is needed to improve Army IOT in the following areas: 
+i. New concepts, quantitative models and technical approaches enabling automated 
+management of IoT. 
+ii. New machine learning techniques that accelerate decision making are needed to address 
+the scale/volume of IoT information and advance the science. 
+iii. New approaches, low-complexity algorithms, and methods to enable IoT be secure, 
+resilient, and to automatically manage and effect risk and uncertainty in a highly deceptive,
+mixed cooperative/adversarial, information-centric environment. 
+iv. Novel IoT approaches to enable improved training
+k. Quantum Technologies – The Army needs to better employ quantum sciences in a 
+number of areas to improve the performance and security of its future systems. Research is 
+needed in the following areas: 
+i. Quantum computing to solve highly complex problems I n real time
+ii. Quantum sensing to achieve highly sensitive sensors and enable highly accurate 
+navigation
+iii. Quantum communications, and networking to enable highly secure and efficient 
+information flow
+l. Signature reduction – The Army needs to protect its Soldiers by making them harder 
+to detect and locate. Research is needed to manage and reduce Army capability signatures in 
+the following areas:
+i. Technologies, methodologies and concepts to reduce the external signatures of Soldiers 
+and of all Army platforms and equipment
+ii. Capabilities to reduce RF, optical, thermal, acoustic, magnetic and any other signatures
+m. Protection – The Army faces a number of current and future threats which it must 
+address to protect it Soldiers. Research is needed to enhance Army capabilities for survival in 
+the following areas:
+i. Sensors to detect chemical, biological, radiological, nuclear, and explosive threats
+ii. Lightweight, easy to manufacture armor
+iii. Cyber protection technologies, methodologies, and concepts to protect Army systems 
+including Soldiers, platforms, networks, and munitions
+76
+n. Human Performance – The Soldier is the foundation of all Army capabilities. 
+Technologies that reduce their mental or physical burden, allow them to react faster than their 
+adversaries, to manage Research is needed to enhance Soldier capabilities in the following 
+areas:
+i. Human-machine interaction to insure autonomous platforms are efficiently managed 
+and exploited
+ii. Measuring effectiveness of and enhancing training tools and techniques
+iii. Methodologies and approaches for effective augmentation of Soldiers in areas of 
+cognition, perception, and physical performance 
+o. Underpinning Methodologies - Methodologies, frameworks, tools, facilities,
+techniques, and experimentation concepts, which underpin and enable advanced research and 
+development in all of the areas of the TRIAD concept are of interest including those which 
+enhance the abilities to:
+i. Collect, standardize, transform, and maintain data to focus research and validate 
+concepts
+ii. Rapid model, develop and assess technologies across widely distributed research teams
+iii. Integrate innovative technology applications into current or future warfighting systems, 
+applications, and analysis systems to assess the potential operational effectiveness of novel 
+new technology elements
+iv. Automated data analytics tools and approaches that enhance discovery, development 
+and transition management of technologies that address Army capability gaps
+Questions regarding this topic must be submitted to the following address: 
+usarmy.adelphi.rdecom-arl.mbx.aal-baa-questions@mail.mil.
+(End of Section) 
+B. Federal Award Information 
+The ACC-APG-RTP Division has the authority to award a variety of instruments on behalf of 
+ARL. Anticipated awards will be made in the form of contracts, grants, cooperative 
+agreements, technology investment agreements (TIAs), or other transactions for prototypes 
+(OTAs). The ACC-APG-RTP Division reserves the right to select the type of instrument most 
+appropriate for the effort proposed. Applicants should familiarize themselves with these 
+instrument types and the applicable regulations before submitting a proposal. Following are 
+brief descriptions of the possible award instruments: 
+1. Procurement Contract. A legal instrument, consistent with 31 U.S.C. 6303, which reflects a 
+relationship between the Federal Government and a state government, a local government, or 
+other entity/contractor when the principal purpose of the instrument is to acquire property or 
+services for the direct benefit or use of the Federal Government. 
+77
+Contracts are primarily governed by the following regulations: 
+a. Federal Acquisition Regulation (FAR) 
+b. Defense Federal Acquisition Regulation Supplement (DFARS) 
+c. Army Federal Acquisition Regulation Supplement (AFARS) 
+2. Grant. A legal instrument that, consistent with 31 U.S.C. 6304, is used to enter into a 
+relationship: 
+a. The principal purpose of which is to transfer a thing of value to the recipient to carry 
+out a public purpose of support or stimulation authorized by a law or the United States, 
+rather than to acquire property or services for the Federal Government’s direct benefit 
+or use. 
+b. In which substantial involvement is not expected between the Federal 
+Government and the recipient when carrying out the activity contemplated by the grant. 
+c. No fee or profit is allowed. 
+3. Cooperative Agreement. A legal instrument which, consistent with 31 U.S.C. 6305, is used 
+to enter into the same kind of relationship as a grant (see definition "grant"), except that 
+substantial involvement is expected between the Federal Government and the recipient when 
+carrying out the activity contemplated by the cooperative agreement. The term does not 
+include "cooperative R&D agreements" as defined in 15 U.S.C. 3710a. No fee or profit is 
+allowed. 
+4. Technology Investment Agreement (TIA). Assistance transaction other than a Grant or 
+Cooperative Agreement (see 32 CFR Part 37). A legal instrument, consistent with 10 U.S.C. 
+2371, which may be used when the use of a contract, grant, or cooperative agreement is not 
+feasible or appropriate for basic, applied, and advanced research projects. The research 
+covered under a TIA shall not be duplicative of research being conducted under an existing 
+DoD program. To the maximum extent practicable, TIA’s shall provide for a 50/50 cost 
+share between the government and the applicant. An applicant's cost share may take the form 
+of cash, independent research and development (IR&D), foregone intellectual property 
+rights, equipment, access to unique facilities, and/or other means. Due to the extent of cost 
+share, and the fact that a TIA does not qualify as a "funding agreement" as defined at 37 
+CFR 401.2(a), the intellectual property provisions of a TIA can be negotiated to provide 
+expanded protection to an applicant's intellectual property. No fee or profit is allowed on 
+TIAs. 
+5. Other Transaction for Prototype (OTA). A legal instrument, consistent with 10 U.S.C. 237
+1b., which may be used when the use of a contract, grant, or cooperative agreement is not 
+feasible or appropriate for prototype projects directly relevant to enhancing the mission
+effectiveness of military personnel and the supporting platforms, systems, components, or 
+78
+materials proposed to be acquired or developed by the DoD, or to improvement of platforms, 
+systems, components, or materials in use by the armed forces. The effort covered under an 
+OTA shall not be duplicative of effort being conducted under an existing DoD program 
+(please refer to the “Other Transactions” OT Guide for Prototype Projects dated January 
+2017 (Version 1.2.0)). This document, along with other OTA resources, may be accessed 
+at the following link: http://www.acq.osd.mil/dpap/cpic/cp/10USC2371bOTs.html.
+6. Grants and cooperative agreements for institutions of higher education, nonprofit 
+organizations, foreign organizations, and foreign public entities are primarily governed by 
+the following: 
+a. Federal statutes 
+b. Federal regulations 
+c. 2 CFR Part 200, as modified and supplemented by DoD's interim implementation found 
+at 2 CFR Part 1103 
+d. 32 CFR Parts 21, 22, 26, and 28 
+e. DoD Research and Development General Terms and Conditions 
+f. Agency-specific Research Terms and Conditions 
+7. Grants and cooperative agreements for for-profit and nonprofit organizations exempted from 
+Subpart E—Cost Principles of 2 CFR Part 200, are primarily governed by the following: 
+a. Federal statutes 
+b. Federal regulations 
+c. 32 CFR Part 34 - Administrative Requirements for Grants and Agreements with ForProfit Organizations 
+d. 32 CFR Parts 21, 22, 26, and 28 
+e. DoD Research and Development General Terms and Conditions 
+f. Agency-specific Research Terms and Conditions 
+8. TIAs are primarily governed by the following: 
+a. Federal statutes 
+b. Federal regulations 
+c. 32 CFR Part 37 – Technology Investment Agreements 
+d. DoD Research and Development General Terms and Conditions 
+e. Agency-specific Research Terms and Conditions 
+9. OTAs are primarily governed by the following: 
+a. Federal statutes 
+b. Federal regulations 
+c. Office of Secretary of Defense implementation guidance titled Other Transactions (OT) 
+Guide for Prototype Projects 
+10. The following websites may be accessed to obtain an electronic copy of the governing 
+regulations and terms and conditions: 
+79
+a. FAR, DFARS, and AFARS: http://farsite.hill.af.mil/
+b. Code of Federal Regulations: http://www.ecfr.gov 
+c. DoD Research and Development General Terms and Conditions: 
+https://www.onr.navy.mil/Contracts-Grants/submit-proposal/grantsproposal/grantsterms-conditions.aspx 
+d. Agency-specific Research Terms and Conditions: 
+http://www.arl.army.mil/www/default.cfm?page=8 
+(End of Section) 
+C. Eligibility Information
+1. Eligible Applicants
+Eligible applicants under this BAA include institutions of higher education, nonprofit 
+organizations, state and local governments, foreign organizations, foreign public entities, and 
+for-profit organizations (i.e. large and small businesses) for scientific research in mechanical 
+sciences, mathematical sciences, electronics, computing science, physics, chemistry, life 
+sciences, materials science, network science, and environmental sciences. Whitepapers and 
+proposals will be evaluated only if they are for fundamental scientific study and 
+experimentation directed toward advancing the scientific state of the art or increasing basic 
+knowledge and understanding. Whitepapers and proposals focused on specific devices or 
+components are beyond the scope of this BAA.
+For foreign public entities or foreign organizations, see Section II.C.3.a below for further 
+information. There is no restriction on the place of performance for awards issued under this 
+BAA. 
+2. Cost Sharing or Matching
+Generally, there is no requirement for cost sharing, matching, or cost participation to be 
+eligible for award under this BAA. Cost sharing and matching is not an evaluation factor used 
+under this BAA. Exceptions may exist if the applicant is proposing the use of a TIA or an 
+OTA as an award instrument. Cost-sharing requirements may be found at 32 CFR 37 for TIAs. 
+Cost-sharing requirements for OTAs may be found at Section C2.16 COST SHARING in the 
+January 2017 document titled “Other Transactions” OT Guide for Prototype Projects. 
+In addition, if cost sharing is proposed on a grant or cooperative agreement proposal submitted 
+by a nonprofit or institution of higher education, the award will be subject to the restrictions at 
+2 CFR 200.306. If cost sharing is proposed on a contract proposal, the award will be subject to 
+the restrictions at FAR 35.003. 
+80
+3. Other 
+a. Foreign public entities or foreign organizations are advised that security restrictions 
+may apply that could preclude their participation under this BAA. 
+b. Pursuant to the policy of FAR 35.017 and supplements, selected Federally Funded 
+Research and Development Centers (FFRDC) may propose under this BAA as allowed by 
+their sponsoring agency and in accordance with their sponsoring agency policy. 
+(End of Section) 
+D. Application and Submission Information
+1. Address to View Broad Agency Announcement
+This BAA may be accessed via the following websites: 
+a. Grants.gov (www.grants.gov) 
+b. Federal Business Opportunities (www.fbo.gov) 
+c. ARL website http://www.arl.army.mil/www/default.cfm?Action=6&Page=8. 
+Amendments to this BAA, if any, will be posted to these websites when they occur. 
+Interested parties are encouraged to periodically check these websites for updates and 
+amendments. 
+The following information is for those wishing to respond to the BAA: 
+2. Content and Form of Application Submission
+a. General Information
+i. Preliminary Inquiries: The ARL receives several hundred research proposals annually. 
+Because of financial constraints, we are able to provide support for only a limited number of 
+the proposals received. We realize the preparation of a research proposal often represents a 
+substantial investment of time and effort by the applicant. Therefore, in an attempt to minimize 
+this burden, we strongly encourage applicants interested in submitting proposals to make 
+preliminary inquiries as to the general need for the type of research effort contemplated, before 
+expending extensive effort in preparing a whitepaper and/or detailed proposal or submitting 
+proprietary information. The TPOC names, telephone numbers, and email addresses are listed 
+immediately after each research area of interest and they should be contacted, as appropriate, 
+prior to the submission of whitepapers or proposals. 
+81
+*NOTE: The Government will not be obligated by any discussion that arises out of preliminary 
+inquiries. 
+ii. Classified Submissions: Classified proposals are not expected. However, in an unusual 
+circumstance the applicant may be notified that access to classified information and/or 
+controlled unclassified information will occur under the work proposed. In those instances 
+where a contract is awarded requiring access to classified information and/or controlled 
+unclassified information, clause FAR 52.204-2 shall be in effect, as well as a DD254, if issued. 
+For questions regarding the potential for access to classified information and/or controlled 
+unclassified information, please coordinate with the TPOC for that topic area prior to proposal 
+submission. 
+iii. Use of Color in Proposals: All proposals received will be stored as electronic images. 
+Electronic color images require a significantly larger amount of storage space than black-and
+white images. As a result, applicants' use of color in proposals should be minimal and used 
+only when necessary for details. Do not use color if it is not necessary. 
+iv. Post-Employment Conflict of Interest: There are certain post-employment restrictions 
+on former federal employees, including special government employees (18 U.S.C. 207). If a 
+prospective applicant believes a conflict of interest may exist, the situation should be discussed 
+with the TPOC listed in the BAA for their area of scientific research who will then coordinate 
+with appropriate ARL legal counsel prior to the applicant expending time and effort in 
+preparing a proposal. 
+v. Statement of Disclosure Preference: In accordance with Section II.D.2.e.iii of this BAA, 
+Form 52 or 52A shall be completed stating your preference for release of information 
+contained in your proposal. Copies of these forms may be downloaded from the ARO web site 
+at: http://www.arl.army.mil/www/default.cfm?page=29, under "For the Researcher" (Forms, 
+ARO BAA Forms). 
+NOTE: Proposals may be handled for administrative purposes by support contractors. These 
+support contractors are prohibited from submitting proposals under this BAA and are bound by 
+non-disclosure and/or conflict of interest requirements as deemed appropriate. 
+vi. Equipment (see instrument-specific regulations provided in Section II.B of this BAA): 
+Normally, title to equipment or other tangible property purchased with Government funds vests 
+with nonprofit institutions of higher education or with nonprofit organizations whose primary 
+purpose is conducting scientific research if vesting will facilitate scientific research performed 
+for the Government. For-profit organizations are expected to possess the necessary plant and 
+equipment to conduct the proposed research. Deviations may be made on a case-by-case basis 
+to allow for-profit organizations to purchase equipment but regulatory disposition instructions 
+must be followed. 
+82
+b. The Application Process 
+The application process is in three stages as follows: 
+i. Stage 1- Verify the accuracy of your Unique Entity Identifier (formerly DUNS) at the 
+Dun and Bradstreet (D&B) website http://fedgov.dnb.com/webform before registering with the 
+System for Award Management System (SAM) at https://www.sam.gov. Prospective 
+applicants must be registered in SAM prior to submitting an application or plan. The SAM 
+obtains Legal Business Name, Doing Business Name (DBA), Physical Address, and Postal 
+Code/ Zip+4 data fields from D&B. If corrections are required, registrants will not be able to 
+enter/modify these fields in SAM; they will be pre-populated using D&B Unique Entity 
+Identifier record data. When D&B confirms the correction has been made, the registrant must 
+then re-visit sam.gov and click a “yes”' to D&B's changes. Only at this point will the D&B data 
+be accepted into the SAM record. Allow a minimum of two (2) business days for D&B to send 
+the modified data to SAM. 
+ii. Stage 2 - Prospective proposers are requested to submit whitepapers prior to the 
+submission of a complete, more detailed proposal. The purpose of whitepapers is to minimize 
+the labor and cost associated with the production of detailed proposals that have very little 
+chance of being selected for funding. Based on assessment of the whitepapers, feedback will be 
+provided to the proposers to encourage or discourage them from submitting proposals. 
+Whitepapers should present the effort in sufficient detail to allow evaluation of the concept's 
+scientific merit and its potential contributions of the effort to the Army mission. 
+iii. Stage 3 - Interested applicants are required to submit proposals. All proposals 
+submitted under the terms and conditions cited in this BAA will be reviewed regardless of the 
+feedback on, or lack of submission of, a whitepaper. If applicants have not submitted 
+whitepapers, proposals may still be submitted for funding consideration. Proposals must be 
+submitted in order for the applicant to be considered for funding. 
+All proposals for Assistance Instruments must be submitted electronically through Grants.gov 
+using Workspace. Proposals for Contracts may be submitted via either Grants.gov or email to:
+usarmy.rtp.aro.mbx.baa@mail.mil. See Section II.D.f of this BAA for information on the 
+proposal submission process.
+Requests for waiver of electronic submission requirements may be submitted via email to: 
+usarmy.rtp.aro.mbx.baa@mail.mil or regular mail: 
+Army Research Office 
+ATTN: RDRL-RO (Proposal Processing) 
+P.O. Box 12211 
+RTP, NC 27709-2211 
+83
+All required forms for proposals may be downloaded from the ARO web site at:
+http://www.arl.army.mil/www/default.cfm?page=29, under "For the Researcher" (Forms, ARO 
+BAA Forms). 
+c. Whitepaper Preparation 
+i. Whitepapers should focus on describing details of the proposed research, including how it is 
+innovative, how it could substantially increase the scientific state of the art, Army 
+relevance, and potential impact. 
+ii. Whitepapers are limited to seven (7) total pages; five (5) pages for whitepaper technical 
+content, one (1) cover page and a one (1) page addendum as discussed below. Evaluators 
+will only review the whitepaper cover page, up to five whitepaper technical content pages, 
+and the one-page addendum. 
+Whitepapers must be in the following format but do not require any special forms: 
+• Page Size: 8 ½ x 11 inches 
+• Margins – 1 inch 
+• Spacing – single 
+• Font – Times New Roman, 12 point 
+iii. Combine all files and forms into a single PDF before submitting. 
+iv. Format and content of whitepapers: 
+(1) COVER PAGE (not to exceed one page): 
+The whitepaper cover page shall include at a minimum: Title of the whitepaper, name of the 
+individual and organization submitting the whitepaper, the research area and number against 
+which the whitepaper is submitted, and the TPOC name. 
+(2) TECHNICAL CONTENT (not to exceed five pages): 
+(a) A detailed discussion of the effort's scientific research objective, approach, 
+relationship to similar research, and level of effort shall be submitted. Also include the nature 
+and extent of the anticipated results and, if known, the manner in which the work will 
+contribute to the accomplishment of the Army's mission and how this contribution would be 
+demonstrated. 
+(b) The type of support, if any, the applicant requests of the Government, such as 
+facilities, equipment, demonstration sites, test ranges, software, personnel or materials, shall 
+be identified as government furnished equipment (GFE), government furnished information 
+(GFI), government furnished property (GFP), or government furnished data (GFD). 
+Applicants shall indicate any Government coordination that may be required for obtaining 
+84
+equipment or facilities necessary to perform any simulations or exercises that would 
+demonstrate the proposed capability. 
+(c) The cost portion of the whitepaper shall contain a brief cost estimate revealing all the 
+component parts of the proposal, including research hours, burden, material costs, travel, etc. 
+(3) ADDENDUM (not to exceed one page): 
+Include biographical sketches of the key personnel who will perform the research, highlighting 
+their qualifications and experience. 
+v. RESTRICTIVE MARKINGS ON WHITEPAPERS: 
+(1) Any proprietary data that the applicant intends to be used only by the Government 
+for evaluation purposes must be clearly marked. The applicant must also identify any 
+technical data or computer software contained in the whitepaper that is to be treated by the 
+Government as limited rights in technical data and restricted rights in computer software. 
+In the absence of such identification, the Government will conclude there are no 
+limitations or restrictions on technical data or computer software included in the 
+whitepaper. Records or data bearing a restrictive legend may be included in the 
+whitepaper. It is the intent of the Army to treat all whitepapers as procurement sensitive 
+before award and to disclose their contents only for the purpose of evaluation. 
+Care must be exercised to ensure that classified, sensitive, and critical technologies are not 
+included in a whitepaper. If such information is required, appropriate restrictive markings and 
+procedures should be applied prior to submission of the whitepaper. 
+(2) Applicants are cautioned, however, that portions of the whitepapers may be subject to 
+release under terms of the Freedom of Information Act, 5 U.S.C. 552, as amended.
+vi. EVALUATION AND DISPOSITION OF WHITEPAPERS: 
+(1) Evaluation Process: Applicants are advised that invitations for proposals will be made 
+based on the whitepaper submission and the availability of funding. The whitepaper will be 
+evaluated for the concept's scientific merit and potential contributions of the effort to the 
+Army mission. Applicants whose whitepapers are evaluated as having significant scientific 
+merit may be invited to submit a proposal. However, an applicant may submit a proposal 
+despite not submitting a whitepaper or receiving a proposal invite from the Government. 
+(2) Disposition Process: The applicant will be notified in writing after completion of the 
+evaluation. Whitepapers will not be returned to applicants. 
+d. Whitepaper Submission 
+85
+All whitepapers must be emailed directly to the TPOC. In the email subject line, include the 
+phrase “Whitepaper Submission,” the BAA number W911NF-17-S-0003, and the research 
+topic number from Section II.A of this BAA. Whitepapers submitted via email must be in a 
+single PDF formatted file as an email attachment. 
+e. Preparation of Proposals
+i. COVER PAGE: 
+(1) A Cover Page is required. For contract proposals submitted by email, use ARO Form 51. 
+For all Assistance instruments and contract proposals submitted via Grants.gov, use the 
+Standard Form (SF) 424 (Research and Related (R&R)) Form. Proposals will not be processed 
+without either: (1) a signed Cover Page, ARO Form 51, or (2) a SF 424 (R&R) Form. 
+(2) Should the project be carried out at a branch campus or other component of the applicant, 
+that branch campus or component should be identified in the space provided (Block 11 on 
+the ARO Form 51 and Block 12 on the SF 424 (R&R) Form). 
+(3) The title of the proposed project should be brief, scientifically representative, intelligible to 
+a scientifically-literate reader, and suitable for use in the public domain. 
+(4) The proposed duration for which support is requested should be consistent with the nature 
+and complexity of the proposed activity. Applicants shall discuss the preferred 
+performance period with the TPOC. 
+(5) Specification of a desired starting date for the project is important and helpful; however, 
+requested effective dates cannot be guaranteed. 
+(6) Pursuant to 31 U.S.C. 7701, as amended by the Debt Collection Improvement Act of 1996 
+[Section 31001(I)(1), Public Law 104-134] and implemented by 32 CFR 22.420(d), federal 
+agencies shall obtain each awardees’ Taxpayer Identification Number (TIN). The TIN is 
+being obtained for purposes of collecting and reporting on any delinquent amounts that 
+may arise out of an awardees’ relationship with the Government. 
+(7) Applicants shall provide their organization's Unique Entity Identifier (formerly DUNS). 
+This number is a nine-digit number assigned by D&B Information Services. See Section 
+II.D.3 of this BAA for requirements pertaining to the Unique Entity Identifier. 
+(8) Applicants shall provide their assigned Commercial and Government Entity (CAGE) 
+Code. The CAGE Code is a 5-character code assigned and maintained by the Defense 
+Logistics Service Center (DLSC) to identify a commercial plant or establishment. 
+86
+ii. TABLE OF CONTENTS: 
+Use the following format for the Table of Contents. Forms are available at 
+http://www.arl.army.mil/www/default.cfm?page=29 under "For the Researcher" (Forms, ARO 
+BAA Forms). 
+SECTION PAGE NUMBER 
+Table of Contents A-1 
+Statement of Disclosure Preference (Form 52 or 52A) B-1 
+Research and Related Other Project Information B-2 
+Project Abstract C-1 
+Project Description (Technical Proposal) D-1 - D-
+Biographical Sketch E-1 - E-
+Bibliography F-1 - F-
+Current and Pending Support G-1 - G-
+Facilities, Equipment, and Other Resources H-1 - H-
+Proposal Budget I-1 - I-
+Contract Facilities Capital Cost of Money(FCCM) (DD Form 1861) J-1 
+Appendices K-
+List Appendix Items: 
+This format applies to all proposals submitted via email and via Grants.gov. Applicants' 
+should show the location of each section of the proposal, as well as major subdivisions of the 
+project description. 
+iii. STATEMENT OF DISCLOSURE PREFERENCE (FORM 52 OR 52A): Complete and 
+sign ARO Form 52 (Industrial Contractors) or ARO Form 52A (Educational and Nonprofit 
+Organizations). 
+87
+iv. RESEARCH AND RELATED OTHER PROJECT INFORMATION: Must be completed 
+and signed by all applicants. 
+v. PROJECT ABSTRACT: 
+(1) The project abstract shall be completed on the form entitled “Publicly Releasable Project 
+Abstract” found at the following website: 
+http://www.arl.army.mil/www/default.cfm?page=218. 
+(2) Unless otherwise instructed in this BAA, the project abstract shall include a concise 
+statement of work and basic approaches to be used in the proposed effort. The abstract 
+should include a statement of scientific objectives, methods to be employed, and the 
+significance of the proposed effort to the advancement of scientific knowledge. 
+(3) The abstract should be no longer than one (1) page (maximum 4,000 characters). 
+(4) The project abstract shall be marked by the applicant as publically releasable. By 
+submission of the project abstract, the applicant confirms that the abstract is releasable to the 
+public. For a proposal that results in a grant award, the project abstract will be posted to a 
+searchable website available to the general public to meet the requirements of Section 8123 
+of the DoD Appropriations Act, 2015. The website address is:
+https://dodgrantawards.dtic.mil/grants. 
+vi. PROJECT DESCRIPTION (TECHNICAL PROPOSAL): The technical portion of the 
+proposal shall contain the following: 
+(1) A complete discussion stating the background and objectives of the proposed work, 
+the scientific approaches to be considered, the relationship to competing or related research, 
+and the level of effort to be employed. Include also the nature and extent of the anticipated 
+results and how they will significantly advance the scientific state-of-the-art. Also, if 
+known, include the manner in which the work will contribute to the accomplishment of the 
+Army's mission. Ensure the proposal identifies any scientific uncertainties and describes 
+specific approaches for the resolution or mitigation of the uncertainties. 
+(2) A brief description of your organization. If the applicant has extensive government 
+contracting experience and has previously provided the information to the ARL, the 
+information need not be provided again. A statement setting forth this condition should be 
+made. 
+(3) The names of other federal, state, local agencies, or other parties receiving the 
+proposal and/or funding the proposed effort. If none, state so. Concurrent or later 
+submission of the proposal to other organizations will not prejudice its review by the ARL 
+if we are kept informed of the situation. 
+88
+(4) A statement regarding possible impact, if any, of the proposed effort on the 
+environment, considering as a minimum its effect upon water, atmosphere, natural 
+resources, human resources, and any other values. 
+(5) A statement regarding the use of Class I and Class II ozone- depleting substances. 
+Ozone depleting substances are any substance designated as Class I by EPA, including but 
+not limited to chlorofluorocarbons, halons, carbon tetrachloride, and methyl chloroform, 
+and any substance designated as Class II by EPA, including but not limited to 
+hydrochlorofluorocarbons. See 40 CFR Part 82 for detailed information. If Class I or II 
+substances are to be utilized, a list shall be provided as part of the applicant's proposal. If 
+none, state so. 
+(6) The type of support, if any, requested by the applicant (e.g., facilities, equipment, and 
+materials). 
+vii. BIOGRAPHICAL SKETCH: 
+(1) This section shall contain the biographical sketches for key personnel only. 
+(a) Primary Principal Investigator (PI): The Primary PI provides a single or initial point of 
+communication between the ARL and the awardee organization(s) about scientific 
+matters. If not otherwise designated, the first PI listed will serve as the Primary PI. This 
+individual can be changed with notification to ARL. ARL does not infer any additional 
+scientific stature to this role among collaborating investigators. 
+(b) Co-Principal Investigators: The individual(s) a research organization designates as 
+having an appropriate level of authority and responsibility for the proper conduct of the 
+research and submission of required reports to ARL. When an organization designates 
+more than one PI, it identifies them as individuals who share the authority and 
+responsibility for leading and directing the research, intellectually and logistically. 
+ARL does not infer any distinction among multiple PIs. 
+(2) The following information is required: 
+(a) Relevant experience and employment history including a description of any prior 
+Federal employment within one year preceding the date of proposal submission. 
+(b) List of up to five publications most closely related to the proposed project and up to five 
+other significant publications, including those being printed. Patents, copyrights, or 
+software systems developed may be substituted for publications. 
+(c) List of persons, other than those cited in the publications list, who have collaborated on 
+a project or a book, article, report or paper within the last four years. Include pending 
+publications and submissions. Otherwise, state "None."

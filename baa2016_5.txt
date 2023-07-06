@@ -1,0 +1,358 @@
+vision) or other signals of opportunity; flexible and distributed anti-jam antenna solutions; and 
+non-RF long range transmission of secure timing solutions. Also of interest are free-space time 
+transfer via optical links, or RF links, chip-scale photonic based precision long-holding 
+oscillator/clocks that may incorporate micro-resonators, integrated optical frequency comb, 
+environmental insensitive cavities, as well as quantum/atomic based devices. The goal is to 
+enable innovative solutions providing precision state-estimation, PNT solutions for GPSdenied and contested environments and extremely size, weight, power, and processing 
+constrained systems to generate leap-ahead technologies by pursuing non-traditional materials, 
+integration methods, and system architectures. 
+TPOC: William Nothwang, (301) 394-1163, william.d.nothwang.civ@mail.mil, and Weimin 
+Zhou, (301)394-1435, weimin.zhou.civ@mail.mil.
+l. Energy and Power 
+i. Wide Band-Gap Power Devices. ARL is seeking proposals for research of wide band gap 
+devices in the following areas: 
+(1) Device design and fabrication of monolithic and hybrid voltage-controlled SiC or GaN
+high-temperature high-field power devices. 
+(2) High-temperature high-field insulator materials for use as gate dielectric and field 
+passivation layers for application to SiC and/or GaN power devices. 
+(3) Advanced Technology Computer-Aided Design (TCAD) modeling methods, techniques 
+and/or material models that advance computational efficiency or accuracy. 
+TPOC: Ivan C. Lee, (301) 394-0039, ivan.c.lee2.civ@mail.mil, Aivars Lelis, (301) 394-5426, 
+aivars.j.lelis.civ@mail.mil, and Bruce Geil, (301) 394-3190, bruce.r.geil.civ@mail.mil. 
+ii. Heat Transfer and Thermal Management. Research and modeling in materials and 
+techniques to remove high heat fluxes from power electronics, cool sensor components, 
+improve efficiency of small energy converters, recuperate & repurpose waste heat energy, 
+improve thermal system packaging, improve environmental control units, and understand 
+multi-phase heat transfer fundamental mechanisms. 
+TPOC: Ivan C. Lee, (301) 394-0039, ivan.c.lee2.civ@mail.mil. 
+iii. Microsystems power components and conversion: research in high power density, 
+multifunctional components and sub-systems for capturing, transforming, converting and 
+delivering power to compact systems or wearable technologies. 
+TPOC: Ivan C. Lee, (301) 394-0039, ivan.c.lee2.civ@mail.mil. 
+27
+iv. Energy Science: R&D of novel materials and routes to energy. These could include 
+development of alternative routes to fuel such as direct photoelectrolytic routes to hydrogen or 
+energy, photovoltaic devices that have very high efficiency for development of devices suitable 
+for portable power, can also include metamaterials that could be used in catalysis, high 
+efficiency solar or waste heat to energy. Other routes for waste heat to energy include 
+thermoelectric, pyroelectric, and thermo-photovoltaic devices. 
+TPOC: Ivan C. Lee, (301) 394-0039, ivan.c.lee2.civ@mail.mil, and Cynthia Lundgren, (301) 
+394-2541, cynthia.a.lundgren2.civ@mail.mil. 
+v. Nuclear Detection and Sensors: Develop and study approaches that include compact 
+sensors that can be arrayed for large area survey and data fusion. Investigate sensor element 
+architectures that enhance system energy efficiency supporting 100 microwatt power level 
+sources and increased performance of compact devices. 
+TPOC: Marc S. Litz, (301) 394-5556, marc.s.litz.civ@mail.mil, and James Carroll, (301) 
+3941411, james.j.carroll99.civ@mail.mil. 
+m. Biologically Derived Sensor, Power, Device and Materials Research (MR) 
+This effort is characterized by three main core competencies: the study of biological systems, 
+synthetic biomaterials and biotic/abiotic interface science. These areas are used to build future 
+technologies designed to increase situational awareness, reduce logistic loads and provide new 
+capabilities in extreme operational environments. Goals include the development of 
+revolutionary biological, photonic, electronic and organic- electronic hybrid devices and 
+sensors. In an effort to capitalize on these advances, targeted investigations will be conducted 
+in the following areas: 
+ 
+i. Biosensors to either sense biology or sense with biology. 
+ii. Synthetic recognition discovery tools including engineered biomolecular scaffolds through 
+low cost cell sorting technologies. 
+iii. Natural and synthetic metabolic network analysis including metabolomics, regulation, tools 
+for building synthetic networks and predictive modeling. 
+iv. Photonic and electronic devices that utilize or harness biology to function. 
+v. Biologically derived power generation and storage. 
+vi. Biological waste-to-energy / waste-to-commodity chemical conversion. 
+vii. Biological / Bio-Hybrid / Bio-electronic materials that are built from biological 
+structures or assembled/enabled by biological structures. 
+28
+viii. Bio/Abio Interface Science: Developing integrated bio-/abio materials and systems for 
+organism / hardware interactions. 
+ix. Computational Biology: Fundamental understanding of atomic and molecular properties and 
+interactions (as bioinformatics and computational systems biology) enabling biological, biohybrid, and bio-mimetic materials and devices. 
+x. Synthetic Biology: Engineer and construct modified biological systems to achieve 
+unprecedented function and performance. This includes an effort in Living Materials to 
+explore the novel concept of responsive materials imparting living functions for operation in 
+Army relevant environments thus enabling disruptive capabilities, such as self-healing, 
+adaptation, protection, and situational awareness. Interests include research to enable 
+design and synthesis of materials both enabled by and including biological entities to 
+provide these living functions. 
+TPOC: James J. Sumner, (301) 394-0252, james.j.sumner4.civ@mail.mil. 
+n. RF-to-THz Devices and Integrated Circuit Technology 
+ARL is interested in research on innovative electronic substrate and epitaxial materials, devices, 
+and monolithic circuits; and integration techniques for digital, mixed-signal, and RF, 
+millimeter-wave to Terahertz (THz) applications, including radar, communications, EW, and 
+sensor systems. Research should involve materials, devices, integrated circuits, and 
+subsystems, built upon advanced Si-based, III–V, III-nitride, and II-VI materials, ultra-wide 
+bandgap (i.e. diamond), novel device structures, nano-technology innovative circuit topology, 
+and multi-level, and/or heterogeneous integration technology. The research may also include
+related device, circuit, subsystem, and system level CAD modeling and analysis to achieve 
+optimal performance.
+TPOC: Ali Darwish, (301) 394-2532, Tony Ivanov, (301) 394-3568, 
+tony.g.ivanov.civ@mail.mil, and Ed Viveiros, (301) 394-0930, 
+edward.a.viveiros2.civ@mail.mil.
+3. SCIENCES FOR MANEUVER (ScMVR) CAMPAIGN 
+The ScMVR Campaign focuses on gaining a greater fundamental understanding of advanced 
+mobility technologies that enable innovative vehicles configurations and subsystems 
+architectures – critical to the future Army’s movement, sustainment, and maneuverability. 
+Knowledge gained through these research efforts will lead to technologies for the design, 
+fabrication, integration, control, and platforms support that will significantly improve Army 
+power projection superiority. 
+29
+The ScMVR Campaign has developed three KCIs, four CCEs, and one ScMVR-related topic 
+that are integrated to form a robust foundation to understand and overcome complex 
+fundamental challenges associated with Energy and Propulsion; Platform Mechanics; Vehicle 
+Intelligence; and Logistics and Sustainability. The campaign builds on fundamental pillars of 
+science and engineering to conduct research in manned and unmanned Army air and ground 
+vehicles. Discoveries and innovations made in this area will exert a significant impact on the 
+Army of the future. 
+a. KCI-ScMVR-1: Force Projection and Augmentation through Intelligent Vehicles 
+ARL research is focused on developing fundamental understanding through greatly improved 
+vehicle perceptual, learning, reasoning, communication and physical capabilities that will 
+enable future unmanned vehicle systems operating in the air, on the ground, or in maritime 
+environments. ARL’s goal is to facilitate effective intelligent vehicle interactions with Soldiers 
+and the local populace that engender trust essential to forming efficient teams. Technological 
+advances are envisioned to create the potential for affordable, interoperable autonomous and 
+semi-autonomous systems that improve the effectiveness of Soldiers and units. Intelligent 
+vehicles are expected to deploy as force multipliers at all echelons from squads to brigade 
+combat teams. Future intelligent vehicles are expected to augment Soldiers and increase unit 
+capabilities, situational awareness, mobility, and speed of action. ARL research is creating 
+machine cognition as well as reasoning, learning and communication behaviors that can, in 
+certain scenarios, replace the operator (driver or pilot) for future unmanned vehicles. Robust 
+capabilities to analyze and assess research developments are also critical to inform research. 
+ARL seeks proposals to further its technical goals which include, but are not limited to: 
+i. Cognition architecture and supporting technologies to model the world in semantic terms, 
+permit reasoning based on abstractions, and allow interactive communication with Soldiers 
+using structural language; 
+ii. Semantic labeling of an increasingly larger vocabulary of objects and behaviors to permit a 
+richer, more detailed description of the environment (including determination of critical 
+scene elements, actions and relationships to be remembered for future use in machine 
+planning, learning and reasoning; recognition of changes in the physical and tactical 
+environment as a cue to significant activity requiring reaction; and incorporation of 
+contextual information and life-long learning into reasoning; 
+iii. Capabilities to infer purpose from the relationships among objects in the environment and 
+behaviors (activities) exhibited by people (teammates, adversaries, and non-combatants) and 
+place objects and behaviors into context; 
+iv. Enhanced capabilities to generalize and rapidly learn from a limited number of exemplars: 
+monitor execution, identify conditions requiring reconsideration of plans and modifications 
+of behaviors, and autonomously initiate re-planning processes; 
+30
+v. Enable machines to explain knowledge, actions and predicted outcomes to enable rapid 
+redistribution of tasks between Soldier and robot, enhancing transparency and engendering 
+trust by human collaborators; 
+vi. Interactions with the physical world applicable to a broad range of scales, from 
+Microsystems through larger tactical vehicles, which includes the ability to pick up and move 
+objects, either upon semantic direction or their own initiative, and to maneuver in three 
+dimensional space/terrain while negotiating obstacles in spaces that Soldiers cannot travel; and 
+vii. Representative test-bed vehicles, both air and ground, on which to integrate, exercise 
+and explore integrated component technologies at appropriate scales in relevant, 
+reconfigurable environments. 
+TPOC: Raghuveer M. Rao, (301) 394-0860, raghuveer.m.rao.civ@mail.mil, Mary Anne Fields, 
+(410) 278-6675, mary.a.fields22.civ@mail.mil, Harris Edge, (410) 
+278-4317, harris.l.edge.civ@mail.mil, Marshal Childers, (410) 278-7996, 
+marshal.a.childers.civ@mail.mil, Christopher Kroninger, (410) 278-5690, 
+christopher.m.kroninger.civ@mail.mil, Stuart Young, (301) 394-5618, and David Baran, (301) 
+394-5613, david.baran2.civ@mail.mil. 
+b. KCI-ScMVR-2: Advanced, Electrical Power Technologies and Components 
+With the demand for higher efficiency and performance, the Army has traditionally migrated 
+from mechanical systems to electronic systems. In the future, this evolution will be even more 
+attractive and necessary as networked power management holds the promise of enabling 
+additional capabilities, benefits and cost savings. The Advanced, Electrical Power 
+Technologies and Components effort addresses the development of a broad spectrum of 
+materiel and devices that will be required by Army systems developers in the coming years. Of 
+special focus are high-voltage components that will accelerate the realization of compact, high
+energy (sub-) systems. 
+This research effort is expected to have the following Army impacts: 
+• Improving mission effectiveness of Army platforms through the development of 
+necessary energy and power underpinning devices and circuits that are required to 
+enable electric-based component technologies. 
+• Reducing logistics burdens through the development of more efficient electrical power 
+generation, distribution, and conversion components and systems. 
+This research effort will focus on pursuing advanced, electrical power technologies and 
+components to enable efficient Army platforms. The goals of this work are to overcome 
+barriers to realization of intelligent, solid-state alternatives to selected electromechanical 
+components; components and techniques for improved thermal management of transient 
+31
+heating events in electronic systems; high voltage components based on advanced wide 
+bandgap semiconductors; intelligent power conditioning modules and interfaces for power 
+conversion and inversion; and induction-based, electrical energy storage devices that approach 
+20 J/cc capacities. 
+Specific research areas include: 
+i. Power Conditioning. The Army is searching for innovative technologies and 
+techniques for reducing the size, weight, cost, and logistics footprint of power conditioning 
+systems across the full range of mobile and stationary Army applications incorporating energy 
+networks. High efficiency and high temperature operation (for reduced cooling) are also 
+critical requirements. Some specific areas of interest include: 
+(1) Novel power converters. 
+(2) Novel materials and designs for high-temperature power conditioning capacitors and 
+inductors. 
+(3) High performance components such as switches and capacitors. 
+(4) Pulse-Forming Network (PFNs) and power conversion technology for lethality, 
+survivability and directed energy capabilities and future high power and high voltage loads. 
+TPOC: Bruce Geil, (301) 394-3190, bruce.r.geil.civ@mail.mil, and Morris Berman, (301) 394-
+4188, morris.s.berman.civ@mail.mil. 
+ii. Energy Materials and Components. Tactical Energy Networks. 
+(1) Power lines sensing technologies are sought to determine types and specifications of 
+loads and sources that cannot or do not provide the information directly Primary interest areas 
+are sensors to collect information from a power line; techniques to analyze power line data; and 
+methods to interrogate loads and sources through passive or active methods. 
+(2) Advanced cognitive techniques are desired to allow real time adaptive operation and 
+longer term predictive modeling to provide energy-informed operation of energy networks. 
+Primary interest areas are technologies to enable machine-based decisions for stationary energy 
+networks that utilize heuristics and cognitive techniques. A key goal is to provide learned 
+behavior with input from external sources such as operational data, weather, maintenance and 
+other factors. 
+(3) Novel power conditioning components and control research in technologies are needed 
+to allow efficient conversion of power between frequencies and voltages with the ability to 
+scale system power levels based on needs. 
+32
+(4) Research in tactical energy communications and control technologies is also desired to 
+include layered architectures comprising physical, data, and communication; exploration of 
+technologies that interact between the information, energy, and warfighter domains. Key areas 
+to include interfaces for micro-grids; hardware and distribution boxes; and M&S of operation 
+and performance in multiple domains. 
+TPOC: Bruce Geil, (301)394-3190, bruce.r.geil.civ@mail.mil, and Morris Berman, (301) 394-
+4188, morris.s.berman.civ@mail.mil. 
+iii. Power Electronics Packaging. 
+(1) High performance packaging materials, methods and systems are needed that enable the 
+full performance level of wide bandgap power electronics. This includes high temperature (Tj 
+> 200° C), high voltage ( > 10 kV), and high frequency (Mhz range) operation. 
+(2) Integrated design techniques and modeling are sought that utilize co-engineering and/or 
+co-design to improve power packaging by understanding the trade-offs among power density, 
+reliability, thermal performance, and electrical performance. 
+(3) Novel applications of standard additive manufacturing techniques as well as novel 
+additive manufacturing techniques are desired to enable advanced and high performance power 
+packaging. In addition, techniques and methods to functionalize structural, aerodynamic 
+and/or other structures by integrating power electronics features are of interest. 
+TPOC: Bruce Geil, (301) 394-3190, bruce.r.geil.civ@mail.mil, and Morris Berman, (301) 
+3944188, morris.s.berman.civ@mail.mil. 
+c. KCI-ScMVR-3: Discover and Advance Vertical Takeoff and Landing (VTOL) 
+Innovations, Novel Concepts, and Ideas 
+Innovative capabilities are needed to achieve higher vehicle speeds, improved hover efficiency, 
+greater vehicle ranges, increased payload, and reduced maintenance to achieve performance 
+attributes for future VTOL platforms. ARL conducts foundational aeromechanics research to 
+enable future Army rotorcraft with performance capabilities that are currently infeasible. In 
+addition, analytical and experimental capabilities to support development of advanced 
+numerical methods and computational codes for assessing aero-elastic, aeromechanical, and 
+structural dynamics performance are of interest. Technologies are sought to enhance 
+maneuverability in complex environments at higher operating speeds without degrading hover 
+efficiency. Fundamental technology analysis capabilities are also needed to model vehicles 
+and their components. Research tools are also needed for understanding and developing 
+capabilities that couple physics-based analyses to examine performance in full-spectrum 
+military operations. 
+33
+ARL seeks proposals to (a) develop algorithms, methods, and tools for flight mechanics, 
+dynamics predictions, performance assessment, and design space exploration of VTOL 
+vehicles for sizes ranging from small unmanned aerial systems (UAS) to large vehicles; (b) 
+develop new technologies to achieve revolutionary improvements in vehicle performance (such 
+as active flow control and active structural shape control) to achieve revolutionary vehicle 
+performance improvements across different flight regimes; and (c) explore innovative vehicle 
+concepts for large VTOL platforms and micro/small autonomous air vehicles. Vehicle 
+concepts may also exploit advances in the electric hybrid propulsion, multi-copter, and 
+reconfigurable structure technologies. Novel proposal concepts from structural dynamics, 
+aerodynamic performance, coupled fluids/structures, and/or nonlinear dynamics theoretic 
+perspectives are relevant. 
+ARL also seeks proposals exploring advanced actuation to achieve locomotion and flight, 
+including associated methods of control. Advancements for actuators, mechanism fabrication, 
+and new/novel materials are of interest. Actuated structures using such advancements may 
+explore highly complex systems employing energy efficient mobility techniques (such as 
+impedance matched actuation, variably tuned compliance, and adaptive morphologies). 
+Proposals focusing on complex networked and distributed actuation techniques integrated into 
+structures that provide multiple functions such as mobility, actuation, dexterity, structure, 
+kinetic energy (KE) dissipation, or redirection are also of interest. Lastly, increasing system 
+complexity paired with dynamic environmental operating contexts requires a transformation in 
+engineering design theory, methods, and tools. Existing design engineering approaches are 
+often inadequate to detect interaction complexities early in design, as they assume that a 
+system can be described as a sum of its parts. 
+TPOC: Rajneesh Singh, (410) 278-4022, rajneesh.k.singh.civ@mail.mil, Hao Kang, (410) 278-
+6811, hao.kang2.civ@mail.mil, and Christopher Kroninger, (410) 278-5690, 
+christopher.m.kroninger.civ@mail.mil. 
+d. CCE-ScMVR-1: Advanced Switching and Control for Power Electronics 
+The ScMVR CCE in Advanced Switching and Control for Power Electronics offers the 
+opportunity to develop electrical power systems that provide the Army efficient electrical 
+switching technology with advanced capabilities. This effort will be supported by the analysis 
+and characterization of devices, improved understanding of wide band gap device performance 
+and reliability, and advances in circuit topologies and control algorithms. The ScMVR CCE on 
+Advanced Switching and Control for Power Electronics Research will focus on four areas: 
+i. Advanced circuit simulation tools and methods that enable topology and device trade-off 
+analyses for the design of extreme and/or novel power conversion and motor-control 
+circuits in future Army applications. 
+ii. Highly efficient circuit design for power electronics applications at voltage, temperature 
+and power extremes. 
+34
+iii. Adaptive and predictive algorithms for motor control and power conversion. 
+iv. Exploitation of extreme and/or novel operating modes of advanced wide band gap devices 
+that result in performance gains and/or new capabilities. 
+ 
+TPOC: Bruce Geil, (301) 394-3190, bruce.r.geil.civ@mail.mil, and Wes Tipton, (301) 394-
+5209, charles.w.tipton6.civ@mail.mil. 
+e. CCE-ScMVR-2: High-Power-Density and Energy-Efficient Engine and Drivetrain 
+Technologies 
+ARL advances fundamental sciences in engine and powertrain technologies to improve the 
+performance, operational capabilities, and sustainment of Army vehicles. Power density and 
+fuel efficiency are key engine parameters that directly influence vehicle capabilities in speed, 
+range, and payload. Efficient and robust distribution of propulsive power enhances the 
+mobility and survivability of military vehicles. ARL also investigates novel approaches for the 
+efficient distribution of vehicle propulsive power routed from power plants to propulsive 
+devices. Efforts under this core competency enabler include fundamental scientific research in 
+combustion science, tribology and lubrication (including tribological surfaces/coatings, 
+lubricants and manufacturing processes for improved power density and operation under 
+starved lubrication in harsh environments); high temperature propulsion materials; multi-speed 
+transmissions; innovative drive train technologies and concepts; and advanced engine 
+technologies for ground and air applications. 
+i. Fuel Spray and Combustion Science. ARL seeks proposals on fuel spray and 
+combustion science. The Army is interested in technologies to increase engine power density 
+and efficiency, while operating on a single fuel. In order to realize these technologies, it is 
+critical to understand the fundamental physics and chemistry in energy conversion from fuel to 
+mechanical power. The areas of research interest include, but are not limited to, high-resolution 
+optical and laser diagnostics, optically dense spray diagnostics, supercritical sprays, 
+conventional and alternative fuels, and high-fidelity modeling. 
+TPOC: Jacob Temme, (410) 278-9455, jacob.e.temme.civ@mail.mil. 
+ii. Tribology and Lubrication in Power Transfer. ARL seeks research proposals in the area 
+of high performance tribological interfaces transferring power from power-plants to thrust
+producing devices for Army ground and air vehicles. At the fundamental level, interface 
+science probing nanoscale composition, properties and behavior of surfaces and solid interfaces 
+in power transfer devices is of interest. Also of keen interest is power transfer tribology 
+investigating solid, liquid, gas, and mixed phase lubrication and wear phenomena enabling 
+high performance, robust, and reliable mechanical component technologies. Research is 
+sought in novel material systems and treatments applied to mechanical interfaces to provide 
+enhanced life and step-function changes in power density and resistance to damage. 
+35
+TPOC: Brian Dykas, (410) 278-9545, brian.d.dykas.civ@mail.mil, and Stephen Berkebile, 
+(410) 278-9547, stephen.p.berkebile.civ@mail.mil. 
+iii. High Temperature Propulsion MR. ARL seeks research proposals on high-temperature 
+materials and structures for advanced propulsion concepts that will improve engine 
+performance and reliability while reducing weight and cost. Technical challenges include the 
+development of engine and power conversion materials to enable unprecedented maneuver 
+capabilities in degraded environments. Operating conditions for combustion engines include 
+high temperatures (3000⁰F or above) as well as thermomechanical fatigue and creep resistant 
+materials operating in sandy or salt-fog environments. Development of theoretical, physics
+based models, and methods to assess process-structure-property relationships for complex 
+materials (such as ceramic matrix composites, fatigue resistant fiber/metal laminates, and 
+engineered metal alloys) are needed to achieve Army goals. The Army thrust for damage 
+tolerant structures requires high fidelity material state awareness. Research capabilities to 
+detail mechanical, thermal, and chemical behaviors of propulsion materials at high-transient 
+elevated temperatures and harsh environments are in their infancy. High temperature sensors, 
+thermal and chemical damage quantification, and life cycle analyses (including accurate and 
+reliable material life prediction) are lacking. Research efforts toward design, manufacturing 
+and insertion of materials-by-design for high-temperature turbomachinery are sought. 
+TPOC: Muthuvel Murugan, (410) 278-7903, muthuvel.murugan.civ@mail.mil, and Anindya 
+Ghoshal, (410) 278-7358, anindya.ghoshal.civ@mail.mil. 
+iv. Turbomachinery Science. ARL seeks proposals for adaptive turbomachinery 
+component concepts that will enable high efficiency, high power density gas turbine engines 
+for Army rotorcraft. Concepts are also sought for Unmanned Air Vehicle propulsion systems 
+relying on VTOL. Research on smart materials based articulating or adaptive turbomachinery 
+components that can enable improved engine stall stability margin and higher aerothermodynamic efficiency under off-design conditions is also of interest to the Army. 
+TPOC: Waldo Acosta, (216) 433-3393, waldo.a.acosta.civ@mail.mil, Muthuvel Murugan, 
+(410) 278-7903, muthuvel.murugan.civ@mail.mil, and Anindya Ghoshal, (410) 278-7358, 
+anindya.ghoshal.civ@mail.mil. 
+v. Drivetrain Research. ARL seeks proposals for innovative concepts for the distribution 
+and transfer of propulsive power in Army vehicles such as helicopters, ground vehicles, and 
+unconventional or unmanned small aircraft. Improved distribution of shaft work may be 
+accomplished through novel technologies applied to bearings, gears, seals, shafts, splines, 
+couplings, clutches, etc. Also, proposals are desired for hybrid drivetrains, lightweight electric 
+machines and similar approaches that reduce mechanical interfaces for aircraft in power classes 
+and configurations where commercial technology does not currently exist. 
+TPOC: Brian Dykas, (410) 278-9545, brian.d.dykas.civ@mail.mil, and Waldo Acosta, (216) 
+433-3393, waldo.a.acosta.civ@mail.mil. 
+36
+vi. Innovative Engine Technologies. ARL seeks proposals on innovative engine 
+technologies to enable higher power density, higher efficiency, reduced signatures, multi-fue

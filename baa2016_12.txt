@@ -1,0 +1,396 @@
+(a) As stated in Section 3.5(c)(6) of the DoD Cost Proposal guidance, “All 
+subcontractor costs and consultant costs must be detailed at the same level as prime 
+contractor costs in regards to labor, travel, equipment, etc. Provide detailed substantiation 
+of subcontractor costs in your cost proposal.” 
+(b) In accordance with FAR 15.404-3, “the Contracting Officer is responsible for the 
+determination of price reasonableness for the prime contract, including subcontracting 
+costs”. This means that the subcontractor’s quote/proposal may be subject to the same 
+scrutiny by the Contracting Officer as the cost proposal submitted by the prime. The 
+Contracting Officer will need to determine whether the subcontractor has an accepted 
+purchasing system in place and/or conduct appropriate cost or price analyses to establish 
+the reasonableness of proposed subcontract prices. Due to the proprietary nature of cost 
+data, the subcontractor may choose to submit their pricing information directly to the 
+Contracting Officer and not through the prime. This is understood and encouraged. 
+(c) When a subcontractor is selected to provide support under the prime contract due 
+to its specialized experience, the Contracting Officer may request sole source justification 
+from the applicant. 
+“Consultant – John Bowers”: The applicant shall provide a copy of the consultant’s quote to the 
+Contracting Officer as evidence. In this example, the consultant will be charging an hourly rate 
+of $125 an hour for 96 hours of support. The applicant indicates to the Contracting Officer that 
+this particular consultant was used on a previous contract with the Government (provide contract 
+number), and will be charging the same rate. A copy of the consultant’s invoice to the applicant 
+under the prior contract is available as supporting evidence. Since the Government has paid this 
+price for the same services in the past, determination has already been made that the price is fair. 
+“Travel”: The Contracting Officer will require a detailed cost breakdown for travel expenses to 
+determine whether the total cost is reasonable based on Government per diem and mileage rates. 
+This breakdown shall include the number of trips, the destinations, and the number of travelers. 
+It will also need to include the estimated airfare per round trip, estimated car rental, lodging rate 
+per trip, tax on lodging, and per diem rate per trip. The lodging and per diem rates must comply 
+with the Joint Travel Regulations. Please see the following website to determine the appropriate 
+lodging and per diem rates: http://www.defensetravel.dod.mil. Additionally, the applicant must 
+provide why the airfare is fair and reasonable as well. Sufficient back up for both airfare and car 
+rental would include print outs of online research at the various travel search engines (Expedia, 
+Travelocity, etc.), documenting the prices for airfare and car rentals are fair and reasonable. 
+Below is a sample of the travel portion: 
+TRAVEL Unit Trips Travelers Nights Days Unit Cost Total Travel 
+Airfare roundtrip 1 1 $996.00 $996.00 
+Lodging day 1 1 1 $75.00 $75.00
+116
+Tax on 
+Lodging 
+(12%) 
+day 1 1 1 $9.00 $9.00 
+Per Diem day 1 1 2 $44.00 $88.00
+Automobile 
+Rental 
+day 1 1 2 $41.00 $82.00 
+Subtotal 
+Travel 
+$1,250.00 
+Indirect Costs: Indirect costs include elements such as fringe benefits, general and administrative 
+(G&A), overhead, and material handling costs. The applicant shall indicate in the cost proposal 
+both the indirect rates (as a percentage) as well as how those rates are allocated to the costs in the 
+proposal. 
+Below is the indirect portion of our sample proposal: 
+INDIRECTS YEAR 1 YEAR 2 
+Subtotal Direct Labor (DL): $97,280.00 $100,198.40 
+Fringe Benefits, if not included in Overhead, 
+rate (15.0000 %) X DL = $14,592.00 $15,029.76 
+Labor Overhead (rate 45.0000 %) X (DL + 
+Fringe) = $50,342.40 $51,852.67 
+Total Direct Labor (TDL): $162,214.40 $167,080.83 
+In this example, the applicant includes a fringe benefit rate of 15.00% that it allocated to the 
+direct labor costs. The applicant also proposes a labor overhead rate of 45.00% that is allocated 
+to the direct labor costs plus the fringe benefits. 
+All indirect rates and the allocation methods of those rates must be verified by the Contracting 
+Officer. In most cases, DCAA documentation supporting the indirect rates and allocation 
+methods can be obtained through a DCAA field audit or proposal review. Many applicants have 
+already completed such reviews and have this documentation readily available. If an applicant is 
+unable to participate in a DCAA review to substantiate indirect rates, the Contracting Officer 
+may request other accounting data from the applicant to make a determination. 
+iii. FCCM: Cost of money is an imputed cost that is not a form of interest on borrowings (see 
+FAR 31.205-20). FCCM is an “incurred cost” for cost-reimbursement purposes under applicable 
+cost-reimbursement contracts and for progress payment purposes under fixed-price contracts. It 
+refers to (1) FCCM (48 CFR 9904.414) and (2) cost of money as an element of the cost of capital 
+assets under construction (48 CFR 9904.417). If cost of money is proposed in accordance with 
+117
+FAR 31.205-10, a DD Form 1861 is required to be completed and submitted with the applicant’s 
+proposal. 
+iv. Fee/Profit: The proposed fee percentage will be analyzed in accordance with DFARS 
+215.404, the Weighted Guidelines Method. 
+v. Subcontracting Plan: If the total amount of the proposal exceeds $700,000 and the 
+applicant is a large business or an institute of higher education (other than HBCU/MI) and the 
+resultant award is a contract, the applicant shall be prepared to submit a subcontracting plan for
+small business and SDB concerns. A mutually agreeable plan will be included in and made a 
+part of the contract (see Section II.F.2.b.v). 
+2. GRANT and COOPERATIVE AGREEMENT Proposals
+Before award it must be established that an approved accounting system and financial 
+management system exist. 
+a. Direct Labor: Show the current and projected salary amounts in terms of man-hours, manmonths, or annual salary to be charged by the PI(s), faculty, research associates, postdoctoral 
+associates, graduate and undergraduate students, secretarial, clerical, and other technical 
+personnel either by personnel or position. State the number of man-hours used to calculate a 
+man-month or man-year. For proposals from universities, research during the academic term 
+is deemed part of regular academic duties, not an extra function for which additional 
+compensation or compensation at a higher rate is warranted. Consequently, academic term 
+salaries shall not be augmented either in rate or in total amount for research performed during 
+the academic term. Rates of compensation for research conducted during non-academic 
+(summer) terms shall not exceed the rate for the academic terms. When part or all of a 
+person's services are to be charged as project costs, it is expected that the person will be 
+relieved of an equal part or all of his or her regular teaching or other obligations. For each 
+person or position, provide the following information: 
+i. The basis for the direct labor hours or percentage of effort (e.g., historical hours or 
+estimates); 
+ii. The basis for the direct labor rates or salaries. Labor costs should be predicted upon 
+current labor rates or salaries. These rates may be adjusted upward for forecast salary or 
+wage cost-of-living increases that will occur during the agreement period. The cost 
+proposal should separately identify the rationale applied to base salary/wage for cost-of
+living adjustments and merit increases. Each must be fully explained; 
+iii. The portion of time to be devoted to the proposed research, divided between academic 
+and non-academic (summer) terms, when applicable; 
+iv. The total annual salary charged to the research project; and 
+118
+v. Any details that may affect the salary during the project, such as plans for leave and/or 
+remuneration while on leave. 
+Note: There is no page limitation for budget proposals or budget justifications. 
+b. Fringe Benefits and Indirect Costs (Overhead, G&A, and Other): The most recent rates, dates 
+of negotiation, the base(s) and periods to which the rates apply must be disclosed and a 
+statement included identifying whether the proposed rates are provisional or fixed. If the rates 
+have been negotiated by a Government agency, state when and by which agency. A copy of 
+the negotiation memorandum should be provided. If negotiated forecast rates do not exist, 
+applicants must provide sufficient detail to enable a determination to be made that the costs 
+included in the forecast rate are allocable according to applicable cost provisions. Applicants' 
+disclosure should be sufficient to permit a full understanding of the content of the rate(s) and 
+how it was established. As a minimum, the submission should identify: 
+i. All individual cost elements included in the forecast rate(s); 
+ii. Basis used to prorate indirect expenses to cost pools, if any; 
+iii. How the rate(s) was calculated; 
+iv. Distribution basis of the developed rate(s); 
+v. Basis on which the overhead rate is calculated, such as "salaries and wages" or "total 
+costs;" and 
+vi. The period of the applicant's FY. 
+c. Permanent Equipment: If facilities or equipment are required, a justification why this property 
+should be furnished by the Government must be submitted. State the organization's inability 
+or unwillingness to furnish the facilities or equipment. Applicants must provide an itemized 
+list of permanent equipment showing the cost for each item. Permanent equipment is any 
+article or tangible nonexpendable property having a useful life of more than one year and an 
+acquisition cost of $5,000 or more per unit. The basis for the cost of each item of permanent 
+equipment included in the budget must be disclosed, such as: 
+i. Vendor Quote: Show name of vendor, number of quotes received and justification, if 
+intended award is to other than lowest bidder. 
+ii. Historical Cost: Identify vendor, date of purchase, and whether or not cost represents 
+lowest bid. Include reason(s) for not soliciting current quotes. 
+iii. Engineering Estimate: Include rationale for quote and reason for not soliciting current 
+quotes. 
+119
+If applicable, the following additional information shall be disclosed in the applicant’s cost 
+proposal: 
+iv. Special test equipment to be fabricated by the awardee for specific research purposes 
+and its cost. 
+v. Standard equipment to be acquired and modified to meet specific requirements, 
+including acquisition and modification costs, listed separately. 
+vi. Existing equipment to be modified to meet specific research requirements, including 
+modification costs. Do not include equipment the organization will purchase with its 
+funds if the equipment will be capitalized for Federal income tax purposes. Proposed 
+permanent equipment purchases during the final year of an award shall be limited and 
+fully justified. 
+vii.Grants and cooperative agreements may convey title to an institution for equipment 
+purchased with project funds. At the discretion of the Contracting/Grants Officer, the 
+agreement may provide for retention of the title by the Government or may impose 
+conditions governing the equipment conveyed to the organization per the governing 
+laws and regulations. 
+d. Travel: Forecasts of travel expenditures (domestic and foreign) that identify the destination 
+and the various cost elements (airfare, mileage, per diem rates, etc.) must be submitted. The 
+costs should be in sufficient detail to determine the reasonableness of such costs. Allowance 
+for air travel normally will not exceed the cost of round-trip, economy air accommodations. 
+Specify the type of travel and its relationship to the research project. Requests for domestic 
+travel must not exceed $3,000 per year per PI. Separate, prior approval by the ARL is 
+required for all foreign travel (i.e., travel outside the continental U.S., its possessions and 
+Canada). Foreign travel requests must not exceed $1,800 each per year per PI. Special 
+justification will be required for travel requests in excess of the amounts stated above and for 
+travel by individuals other than the PI(s). Individuals other than the PI(s) are considered 
+postdoctoral associates, research associates, graduate and undergraduate students, secretarial, 
+clerical, and other technical personnel. 
+Additional travel may be requested for travel to Army laboratories and facilities to enhance 
+agreement objectives and to achieve technology transfer.
+(1) Participant Support Costs: This budget category refers to costs of transportation, per 
+diem, stipends, and other related costs for participants or trainees (but not employees) in 
+connection with ARO-sponsored conferences, meetings, symposia, training activities,
+apprenticeships and workshops (see the “Other Programs” section as described earlier in this 
+BAA). Generally, indirect costs are not allowed on participant support costs. The number of 
+participants to be supported should be entered in the parentheses on the budget form. These 
+costs should also be justified in the budget justification page(s) attached to the cost proposal.
+120
+(2) Materials, Supplies, and Consumables: A general description and total estimated 
+cost of expendable equipment and supplies are required. The basis for developing the cost 
+estimate (vendor quotes, invoice prices, engineering estimate, purchase order history, etc.) 
+must be included. If possible, provide a material list.
+(3) Publication, Documentation, and Dissemination: The budget may request funds for the 
+costs of preparing, publishing, or otherwise making available to others the findings and
+products of the work conducted under an agreement, including costs of reports, reprints, page 
+charges, or other journal costs (except costs for prior or early publication); necessary 
+illustrations, cleanup, documentation, storage, and indexing of data and databases; and 
+development, documentation, and debugging ofsoftware.
+(4) Consultant Costs: Applicants normally are expected to utilize the services of their own 
+staff to the maximum extent possible in managing and performing the project's effort. If the 
+need for consultant services is anticipated, the nature of proposed consultant services should be 
+justified and included in the technical proposal narrative. The cost proposal should include the 
+names of consultant(s), primary organizational affiliation, each individual's expertise, daily 
+compensation rate, number of days of expected service, and estimated travel and per diem
+costs.
+(5) Computer Services: The cost of computer services, including computer-based retrieval of 
+scientific, technical, and educational information, may be requested. A justification/explanation 
+based on the established computer service rates at the proposing organization should be 
+included. The budget also may request costs, which must be shown to be reasonable, for leasing 
+automatic data processing equipment. The purchase of computers or associated hardware and 
+software should be requested as items of equipment.
+(6) Sub-awards (Subcontracts or Sub-grants): A precise description of services or materials 
+that are to be awarded by a sub-award must be provided. For sub-awards totaling $10,000 or 
+more, provide the following specific information:
+• A clear description of the work to be performed;
+• If known, the identification of the proposed sub-awardee and an explanation of why and how the 
+sub-awardee was selected or will be selected;
+i. The identification of the type of award to be used (cost reimbursement, fixed price, 
+etc.); 
+ii. Whether or not the award will be competitive and, if noncompetitive, rationale to 
+justify the absence of competition; and 
+iii. A detailed cost summary.
+121
+e. ODCs: Itemize and provide the basis for proposed costs for other anticipated direct costs such 
+as communications, transportation, insurance, and rental of equipment other than computer 
+related items. Unusual or expensive items must be fully explained and justified. 
+f. Profit/ Fee: Profit/fee is not allowed for the recipient of or sub-award to an assistance 
+instrument, where the principal purpose of the activity to be carried out is to stimulate or 
+support a public purpose (i.e., to provide assistance), rather than acquisition (i.e., to acquire 
+goods and services for the direct benefit of the Government). A sub-award is an award of 
+financial assistance in the form of money, or property in lieu of money, made under a DoD 
+grant or cooperative agreement by a recipient to an eligible sub-recipient. The term includes 
+financial assistance for substantive program performance by the sub-recipient of a portion of 
+the program for which the DoD grant or cooperative agreement was made. It does not include 
+the recipient's procurement of goods and services needed to carry out the program. 
+g. Subcontracting Plan: Subcontracting plans do not apply to assistance instruments. 
+h. FCCM: If cost of money is proposed, a completed FCCM (DD Form 1861) is required. 
+(End of Section) 
+APPENDIX 1: TABLE OF ACRONYMS 
+AA Assessment and Analysis 
+ACC Army Contracting Command 
+AEM Anion Exchange Membrane 
+AFARS Army Federal Acquisition Regulation Supplement 
+ALD Atomic Layer Deposition 
+AMC Army Materiel Command 
+AOR Authorized Organization Representative 
+APG Aberdeen Proving Ground 
+AR Army Regulation 
+ARL Army Research Laboratory 
+ARO Army Research Office 
+ASA(ALT) Assistant Secretary of the Army for Acquisition, Logistics, and Technology 
+BAA Broad Agency Announcement 
+CAGE Commercial and Government Entity 
+CCE Core Campaign Enablers 
+CCM Computational Chemistry and Materials 
+CE Chemical Energy 
+CEA Computational Electromagnetics and Acoustics 
+122
+CFD Computational Fluid Dynamics 
+CFR Code of Federal Regulations 
+C4ISR Command, Control, Communications, Computers, Intelligence, Surveillance, 
+and Reconnaissance 
+CFDA Catalog of Federal Domestic Assistance 
+COTS Commercial Off the Shelf 
+CPFF Cost Plus Fixed Fee 
+C-RAM Counter-Rockets, Artillery, and Mortar 
+C-UAS Counter Unmanned Aerial System 
+CS Computational Sciences 
+CSA Chief of Staff of the Army 
+CSM Computational Structural Mechanics 
+DA Department of Army 
+D&B Dun and Bradstreet 
+DBA Doing Business Name 
+DCAA Defense Contract Audit Agency 
+DCMA Defense Contract Management Agency 
+DES Discrete Event Simulation 
+DFARS Defense Federal Acquisition Regulation Supplement 
+DLSC Defense Logistics Service Center 
+DoD Department of Defense 
+DoDI Department of Defense Instruction 
+DoE Design of Experiments 
+DSL Doman Specific Language 
+DVE Degraded Visual Environment 
+EA Electronic Attack 
+ECM Energy Coupled to Matter 
+EDWOSB Economically-Disadvantaged Woman-Owned Small Business 
+EME Electromagnetic Environment 
+ET Embedded Training 
+EW Electronic Warfare 
+FAPIIS Federal Awardee Performance and Integrity Information System 
+FAR Federal Acquisition Regulation 
+FCCM Facilities Capital Cost of Money 
+FFRDC Federally Funded Research and Development Center 
+FSC Federal Service Code 
+FWA Federal Wide Assurance 
+FY Fiscal Year 
+G&A General and Administrative 
+123
+GCS Ground Combat System 
+GFD Government Furnished Data 
+GFE Government Furnished Equipment 
+GFI Government Furnished Information 
+GFP Government Furnished Property 
+GSA General Service Administration 
+HBCU/MI Historically Black Colleges and Universities and Minority-Serving 
+Institutions 
+HSI Human Systems Integration 
+HPC High Performance Computing 
+HRPO Human Research Protection Official 
+HS Human Sciences 
+HSATS Human Systems Analytic Tool Suite 
+HSR Human Subjects Research 
+HUBZone Historically Underutilized Business Zone 
+HWIL Hardware in the Loop 
+IE Information Extraction 
+IED Improvised Explosive Device 
+IMU Inertial Measurement Unit 
+IR&D Independent Research and Development 
+IRB Institutional Review Board 
+IS Information Sciences 
+IT Information Technology 
+ITAR International Traffic in Arms Regulation 
+KCI Key Campaign Initiative 
+KE Kinetic Energy 
+LED Light Emitting Diodes 
+MAR Mixed Augmented Reality 
+MAV Manned Aerial Vehicle 
+MBE Molecular Beam Epitaxy 
+MEMS Microelectromechanical Systems 
+METT-TC Mission, Enemy, Terrain and Weather, Troops and Support Available, Time 
+Available, Civil Considerations 
+M2M Machine to Machine 
+MOCVD Metal Organic Chemical Vapor Deposition 
+MR Materials Research 
+M&S Modeling and Simulation 
+MSC Major Subordinate Command 
+MT Machine Translation 
+124
+MTF Modulation Transfer Function 
+NLOS Non Line of Sight 
+NLP Natural Language Processing 
+ODC Other Direct Cost 
+OMB Office of Management and Budget 
+OHRP Office for Human Research Protections 
+OTA Other Transaction for Prototype 
+PAM Pamphlet 
+PDF Portable Document Format 
+PE Programming Environments 
+PFN Pulse-Forming Network 
+PI Principal Investigator 
+PIC Photonic Integrated Circuit 
+PNT Position, Navigation, and Timing 
+POC Point of Contact 
+PPE Personal Protective Equipment 
+PWS Performance Work Statement 
+R&D Research and Development 
+RDECOM Research, Development, and Engineering Command 
+ROTC Reserve Officer Training Corps 
+R&R Research and Related 
+RTP Research Triangle Park 
+SAM System for Award Management 
+SBS Stimulated Brillouin Scattering 
+SbT/MgC Subterranean and Megacity 
+ScL/P Sciences for Lethality and Protection 
+ScMVR Sciences for Maneuver 
+SDB Small Disadvantaged Business 
+SDO Suspension and Debarment Official 
+SDN Software Defined Network 
+SDVOSB Service-Disabled Veteran-Owned Small Business 
+SF Standard Form 
+SLV Survivability, Lethality, and Vulnerability 
+S&T Science & Technology 
+STTW Sensing Through the Wall 
+TBI Traumatic Brain Injury 
+TCAD Technology Computer-Aided Design 
+T&E Test & Evaluation 
+TIA Technology Investment Agreement 
+TIC Toxic Industrial Chemical 
+125
+TIM Toxic Industrial Material 
+TIN Taxpayer Identification Number 
+TPOC Technical Point of Contact 
+TRADOC Training and Doctrine Command 
+TTP Tactics, Techniques, and Procedures 
+UAS Unmanned Aerial System 
+UAV Unmanned Aerial Vehicle 
+UB Underbody Blast 
+UIC Unit Identification Code 
+UQ Uncertainty Quantification 
+U.S.C. United States Code 
+USDA/APHIS Department of Agriculture Office of Animal and Plant Health Inspection 
+Service 
+USML United States Munition List 
+UWB Ultra-Wideband 
+UXO Unexploded Ordinance 
+VCSEL Vertical Cavity Surface Emitting Laser 
+VOSB Veteran-Owned Small Business 
+VRAMS Virtual Risk-Informed Agile Maneuver Sustainment 
+VSP Visiting Scientist Program 
+VTOL Vertical Takeoff and Landing 
+WOSB Woman-Owned Small Business 
+(End Section)

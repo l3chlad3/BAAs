@@ -1,0 +1,329 @@
+b. KCI-MR-2: Energy Efficient Electronics and Photonics 
+ARL aims to discover, design and develop future electronic devices, circuits, materials, 
+microelectromechanical systems (MEMS), on-chip energetic materials, and heterogeneous 
+integration techniques that enable order of magnitude reductions in the power-draw of systems 
+for Soldier and small platforms while maintaining or increasing functionality. Novel circuit 
+topologies combined via heterogeneous integration with emerging electronic and photonic 
+devices on conventional substrates such as silicon will enable new energy efficient front ends 
+that result in longer mission lifetime for Army systems. Advanced wideband gap devices will 
+be critical for smart power management as well as highly efficient radio frequency power 
+amplifiers for assured communications and electronic warfare (EW) applications. Advanced 
+electronic materials work may comprise: two dimensional materials; active heterogeneous 
+interfaces; photonics sources and detectors and topological phases of matter to reduce the 
+power demand of future electronic and photonic systems. MEMS offer alternative ways to 
+enhance electronic devices and extend their capabilities to offer novel power management 
+approaches, no or lower-power overall power solutions for electronics devices, and enable 
+energy efficient system level approaches for highly adaptable, tunable, and reconfigurable 
+electronics. On-chip energetics offer a way to generate energy at the chip level reducing overall 
+system size, weight, and power requirements as well as adding new functionality not available 
+via traditional electronics. Ultimately, the heterogeneous integration of novel electronic and 
+photonic materials with conventional substrates such as silicon will open up a new paradigm 
+for Army systems. 
+TPOC: James Wilson, (301) 394-0328, james.e.wilson889.civ@mail.mil. 
+c. KCI-MR-3: Agile Expedient Manufacturing 
+The objective of the Agile Expedient Manufacturing KCI is to enable adaptive, rapid, and low 
+cost fabrication of replaceable parts that are certified for service through the development of 
+novel synthesis and processing methods. The subject KCI’s objectives includes 2D and 3D 
+hybrid electronics assembly and packaging concepts for sensors and systems. Manufacturing 
+capabilities developed through this effort are expected to enable 3D additive approaches that 
+facilitate alloying-by-design concurrent with (near-) net-shape fabrication with reduced time 
+from raw material to finished component. Research contributing to this goal includes the 
+system thermodynamics and kinetics within a meta-stable environment of rapid heating, 
+material melting, alloy mixing, cooling and solidification, and solid state transformation 
+throughout the entire 3D additive manufacturing process. Materials (commercial off-the-shelf 
+(COTS), bio-derived, indigenous, and specialty materials) of varying length-scale and 
+morphology (nano, multi-phase, 2D/3D composites, and coatings) and various material classes 
+(metallics, ceramics, glasses, polymers, and composites) are the basis from which property 
+datasets are established for component design. Designing and producing the precursor 
+materials is a key component of this effort. Further, this work is focused on developing a 
+better understanding of the preconditioning, and tailoring of precursor materials for 
+thermomechanical processing to achieve the designed properties and performance. The 2D and 
+18
+3D hybrid electronics shall support the development of additive processes for flexible 
+electronics and 3D hybrid electronics and research in components sensors that include, but are 
+not limited to, Soldier health monitoring, asset monitoring, communications, antennas and 
+navigation, and soft robotics. Related topics that engage education and workforce development 
+are also of interest.
+A second objective of the Agile Expedient Manufacturing KCI is to develop a multi-material 
+2D/3D composites capability for fabrication, characterization, and printing of polymer/ceramic 
+composite electromagnetic and conductive materials for antennas and other radio frequency 
+devices. Increased versatility of additive manufacturing (AM) in the RF design space requires 
+high dielectric substrates. AM filaments with dielectric constants greater than 6 are not 
+commercially available. Research investigating methods for extruding high dielectric AM 
+filaments through a robust and repeatable method that allows for the printing of AM substrates 
+with a given value of dielectric constant is paramount. Furthermore, characterization of 
+complex dielectric constant from ultra-high frequency (UHF) through Ka-band will be 
+required. A final need for 2D/3D composites is research in the area of conductive inks. 
+Conductive inks can achieve conductivity of five to ten times less than bulk copper, but require 
+sintering at temperatures above 175 degrees Celsius. 2D/3D composites printed from polymer 
+based filaments will melt at these temperatures, preventing the goal of hybrid 3D printing of 
+RF components and antennas. Alternative methods, such as localized laser sintering or flash 
+annealing are examples of research methods hoping to achieve high conductivity in the 
+presence of 3D printed polymer substrates. 
+TPOC: Robert Dowding, (410) 306-0632, robert.j.dowding.civ@mail.mil, Gregory Mitchell, 
+(301) 394-2322, Eric Forsythe, (301) 394-0606, eric.w.forsythe.civ@mail.mil, and Harvey 
+Tsang, (301) 394-5734, harvey.h.tsang.civ@mail.mil.
+d. KCI-MR-4: Quantum Sciences 
+Over the past century, the quantum principles of superposition, electronic structure, and 
+uncertainty relations gave us tremendous advances in a number of applications relevant to the 
+military, including atomic clocks, magnetometry, PNT, and gravimetry. While these areas can 
+still be improved through technological advances, next generation gains in sensing and in 
+secure communications will occur through the concept of quantum entanglement. 
+An ideal approach to investigating entanglement is through exploration of a quantum network, 
+in which quantum information and processing can be stored in quantum memories at multiple 
+nodes. Great advances have been made to increase the fidelity of critical quantum components 
+needed to establish a resilient network of quantum entangled resources in various atomic and 
+solid-state systems. Although several research groups have demonstrated point-to-point 
+quantum teleportation, entanglement distribution, quantum error correction, and quantum 
+memory, no scalable, integrated, modular architecture exists by which one can connect three or 
+more quantum nodes and through which quantum information may be processed. 
+19
+A particularly critical requirement is the establishment of efficient light-matter interfaces, 
+which enable photons to be written into and read from a quantum system. The in-house 
+Quantum Sciences effort working cooperatively with academia and industry will investigate 
+this aspect of an entanglement-based distributed quantum network. Specifically, we will 
+explore both ensemble quantum systems (neutral atom gases and rare-earth stoichiometric 
+crystals) and single qubit systems (ion traps and solid state defects). Examples of approaches 
+to enhanced light-matter interactions are cavity QED and nanophotonic integration. Additional 
+efforts within this program are to explore Army-relevant applications for such distributed 
+entanglement; identify performance limitations of a distributed heterogeneous quantum 
+network that must be overcome or are fundamental. Specific material components include 
+quantum memories, quantum registers, quantum processors, quantum switches, quantum 
+frequency conversion devices, entangled photon sources, single-photon detectors, matterphoton interfaces, quantum sensors, as well as other technologies enabling the realization of 
+integrated, chip-scale and/or modular components for robust, mobile distributed quantum 
+information networks. 
+TPOC: Frederick Fatemi, (301) 394-1531, fredrik.k.fatemi.civ@mail.mil. 
+e. KCI-MR-5: Energy Coupled to Matter (ECM) for Responsive Materials 
+ECM is an emerging technology that goes beyond the traditional process optimization factors 
+of scale, composition, temperature, and pressure. The research focuses on the understanding 
+that energy transfer is non-linear. Design of Experiments (DoE) methodologies are coupled 
+with modeling as one approach to understanding the physics of energy transfer in the synthesis 
+and processing of materials under high and multi-physics fields (e.g. electric, magnetic, 
+acoustic, microwave, radiation, and others). This work pursues innovative physics-based 
+approaches for controlling the thermodynamic behavior of metals, intermetallics, polymers, 
+ceramics and hybrid composite systems. Manipulating transformation pathways in favor of 
+new non-equilibrium alloys, aligned phases, controlled nanoscale architectures, and producing 
+materials with revolutionary, on-demand, permanent or temporary material properties or shape 
+changes will provide an unparalleled opportunity for advanced materials. Additionally, 
+materials developed using ECM principles will have been designed and transitioned for 
+application to enable adaptive ”on-command” protection technologies by diverting, bending, 
+and fracturing ballistic threat projectiles with greater efficiency, thus reducing system weight 
+and volume. Further, higher strength projectiles fabricated through ECM MR will be used as a 
+foundation to design lethal effects for defeating future enemy protection systems. 
+TPOC: Robert Dowding, (410) 306-0632, robert.j.dowding.civ@mail.mil. 
+f. KCI-MR-6: Lightweight Materials 
+This area seeks lightweight materials of all classes on-demand (flexible and affordable 
+manufacturing innovations) and by-design (from atoms to properties) in order to develop and 
+achieve concurrent materials and system design with significant weight reduction. This 
+20
+initiative develops and exploits computational materials models, guided and validated by 
+experiments. These models include realistic materials physics, executed at the appropriate 
+length and time scales, to accurately model material composition, (micro)structure, mechanical 
+and physical properties and system performance. This is expected to enable the discovery, 
+design and synthesis of material systems in concert with fabrication and system design not 
+possible today. The material’s performance in the system is not only based on materials 
+properties, but also includes the component’s functional design as part of the system. Specific 
+research emphasis for discovering new lightweight materials and to quantify their performance 
+in system designs include: a) property-processing-microstructure relationships in lightweight 
+metals (magnesium, aluminum, titanium and high strength-to-weight alloys) within the 
+chemistry, nano-engineering, solidification and thermomechanical processing design space; b) 
+high rate toughening of lightweight armor ceramics that can support vehicular structural loads; 
+and c) common efficient load transfer in hybrid lightweight composites via polymer and hybrid 
+fiber interfacial engineering. 
+TPOC: Robert Dowding, (410) 306-0632, robert.j.dowding.civ@mail.mil. 
+g. CCE-MR-1: Designing Materials 
+The MR CCEs in Designing Materials is a sustained effort to systematically build a science and 
+engineering-based capability to design materials and related devices. Whether this be for 
+electron, photon, phonon, mechanical, chemical, or living matter behavior, it relies on 
+predicting and advancing the physics, chemistry, biology, and related engineering between 
+microstructure and performance to enable the design of model materials and devices for Army 
+relevant applications. 
+Microstructure is the detailed description of materials from the atomistic to the relevant bulk 
+scale for functional and performance purposes. Performance is the material system constitutive 
+behavior in its passive or responsive state detailed by the combined intrinsic and extrinsic 
+physical, biological, and chemical properties. Examples of materials and device performance 
+goals are those identified in MR KCIs in Quantum Science, Energy Efficient Electronics and 
+Photonics, Materials for Soldier and Platform Power Systems, Lightweight Materials, ECM 
+and Responsive Materials, and Agile Expedient Manufacturing. To achieve the ability to 
+design materials, the fundamental scientific requirement is the ability to effectively 
+characterize the material state (microstructure) at the relevant length scales, and accurately 
+predict through physics-based models and mechanisms the resultant properties of the material 
+and even the final component based upon that knowledge alone. The objective of this MR CCE 
+is to achieve the knowledge necessary to provide model materials and devices designed and 
+optimized for predetermined Army-centric performance requirements. 
+i. The MR CCE on Designing Materials investigates and advances mechanisms in organic, 
+inorganic and living material microstructures relevant to three performance challenges: 
+21
+(1) Materials and devices to resist and perform under extreme dynamic, thermal, 
+mechanical, chemical, biological environments; this effort considers all material classes. 
+(2) Materials and devices to absorb, divert, convert, emit, detect, and direct the 
+electromagnetic space. These include photonic, spintronic, and electronic devices, as well as 
+electrochemical energy devices and biology enabled/enhanced devices. 
+(3) Materials and devices to store and control rate-release of energy including device 
+design work-such as on-chip pyrotechnic devices. These include battery materials; fuel cells; 
+and other components. 
+ii. The strategic approach to these focuses include: 
+(1) Application of multi-scale M&S tools for articulation and virtual exploration of 
+scientific mechanisms, bridging the material length and time scales, for a predictive design 
+tool. Integrated materials by design capabilities for structural, electronic, electromagnetic, 
+power and energetic materials for ARL KCIs and Army relevant material challenges. 
+(2) Bio-inspired materials from living matter and systems/synthetic biology to design 
+materials at a high degree of fidelity and unparalleled control. 
+The integrated CCEs in Designing Materials, Materials Synthesis and 
+Processing, and Materials Characterization and Discovery will be the foundation to leap ahead 
+from Integrated Computational Materials Science and Engineering, to Ab Initio Design of 
+materials and devices, to Production for Performance. 
+TPOC: Robert Dowding, (410) 306-0632, robert.j.dowding.civ@mail.mil, and William Benard, 
+(301) 394-1322, william.l.benard.civ@mail.mil. 
+h. CCE-MR-2: Materials Synthesis and Processing 
+The purpose of this MR CCE in Materials Synthesis and Processing is to advance the 
+fundamental sciences in synthesis and processing enabling fabrication of Army relevant 
+materials and devices. New approaches and innovation in material synthesis and processing 
+are necessitated by emerging requirements to explore new material systems, optimize materials 
+for Army applications, and develop new processing methods to realize and transition materials 
+to Army relevant applications. The desired synthesis and processing science will enable 
+fabrication from atomistic-design to engineering bulk material and devices. This knowledge 
+based research will seed synthesis and processing innovations in manipulating organic and 
+inorganic matter to build materials with precision placement of atoms or with biological 
+building blocks from design. 
+In creating and broadening an opportunistic environment in synthesis and processing science 
+for materials by design, three research foci will be emphasized: 
+22
+i. Synthesize, refine and tailor precursor materials’ chemistry and microstructure and 
+subsequent processing methods to achieve the designed material specification as well as using 
+biological systems leading to biologically inspired and/or derived synthesis of materials and 
+devices. 
+ii. Layer and construct materials, including 1 dimensional seeding, 2 dimensional surfaces, 
+up to 3 dimensional bulk or layered element-by-element deposition methods, controlling the 
+progressive material structure and properties systematically. 
+iii. New methods for characterizing material properties for device-level modeling and 
+selectively etching, depositing, and patterning synthesized and deposited materials to realize 
+functional devices. 
+This MR CCE in Synthesis and Processing will provide the underpinning sciences and 
+engineering to deliver tangible materials from model material by design to support all the KCIs 
+where materials are needed on-demand. 
+TPOC: Robert Dowding, (410) 306-0632, robert.j.dowding.civ@mail.mil. 
+i. CCE-MR-3: Materials Characterization and Discovery 
+The R&D of technology that can fully detail atoms-to-meters of materials will enable not just 
+validation of what was predicted, but also discovery of the unexpected and the unknown. This 
+MR CCE in Material Characterization and Discovery, in conjunction with the Materials Design 
+and the Synthesis and Processing MR CCEs, is foundational and the door to future disruptive 
+and un-planned discoveries enabling the MR KCIs in Quantum Science, Efficient Electronics 
+and Photonics, Power for Soldier and Platforms, Lightweight Materials, ECM, and Agile 
+Expedient Manufacturing. 
+Contemporary methods to interrogating materials include a suite of spectroscopy, microscopy, 
+and experimental characterization. Within each of these methods are extensive research and 
+efforts to attain higher fidelity, better resolution, better consistencies, and in less time. The 
+ARL continues to focus on advancing these techniques to explore materials enabling disruptive 
+technologies for the Army. 
+The MR CCE on Materials Characterization and Discovery is grounded on: 
+(1) Designing and developing mechanistic-focused experimentation, 
+ 
+(2) Enhancing and developing novel spectroscopic, microscopic and experimental techniques 
+in conjunction with the other MR CCEs to enable the MR KCIs, and 
+(3) Developing real-time full spectral probing, sensing, analytics and informatics to enable 
+discovery of the unexpected. 
+23
+TPOC: Robert Dowding, (410) 306-0632, robert.j.dowding.civ@mail.mil, and William Benard, 
+(301) 394-1322, william.l.benard.civ@mail.mil. 
+Materials Research (MR) Related Topics:
+j. Photonics 
+i. Novel Solid State Lasers and Laser Materials: The Army is interested in research on 
+innovative gain media, for example laser-quality ceramics with emphasis on engineerable 
+doping and index profile (e.g., gradient doping, sharp-step wave-guiding structures with sub10-micrometer diffusion zone); solid-state materials for high-gain stimulated Brillouin 
+scattering (SBS) and stimulated Raman scattering (SRS); specialty fibers and fiber lasers 
+suitable for high average powers and power scaling (e.g., with compositions for ultra-high SBS 
+threshold; fully crystalline double-clad, i.e., crystalline core/crystalline cladding fibers; noncircular, high aspect ratio, fiber designs with well-developed mode selection mechanisms or 
+self-mode selection); and advanced laser materials for diode-pumped eye-safe lasers (e.g., 
+based on high and ultra-high thermal conductivity hosts, environmentally stable low-phonon 
+hosts, or exceptionally high emission/absorption cross-section laser materials). 
+TPOC: Mark Dubinskiy, (301) 394-1821, mark.dubinskiy.civ@mail.mil. 
+ii. Techniques for Power Scaling of Diode-Pumped Solid State Lasers: The Army also has 
+interest in innovative highly efficient pump-coupling techniques; innovative pump diode and 
+active medium cooling techniques (e.g., cooling via optically transparent highly thermoconductive materials); passive and active laser beam/aperture combining methods; laser 
+wavelength shifting techniques for achieving high average powers with optimum eye-safety; 
+active and passive wave-front distortion compensating/OPD reducing techniques. 
+TPOC: Mark Dubinskiy, (301) 394-1821, mark.dubinskiy.civ@mail.mil. 
+iii. Semiconductor Modeling: ARL has identified a strategic need to foster and accelerate 
+collaborative research related to the modeling of advanced electro-optic semiconductor 
+materials and devices. This Modeling Center will act as a repository of a broad base of 
+modeling knowledge to be shared across the community in order to foster the development of 
+new materials as well as to reduce the timeline between “discovery” and manufacturing. 
+Specific areas of modeling collaboration interest include: 
+(1) Fundamental materials modeling related to semiconductor growth via molecular beam 
+epitaxy (MBE), metal organic chemical vapor deposition (MOCVD), and atomic layer 
+deposition (ALD). Interests lie in probing the parameter space related to developing new or 
+exotic semiconductor alloy materials and structures encompassing II-VI, III-V, and III-VI 
+systems with applications in the UV, IR, and topological and quantum regimes. 
+24
+(2) Electrical properties, including carrier transport and dynamics within semiconductor 
+materials and across interfaces; carrier injection, and device performance metrics such as 
+modulation transfer function (MTF) and noise. 
+TPOC: Gregory Brill, (301) 394-0192, gregory.n.brill.civ@mail.mil, and Meredith Reed, (301) 
+394-0603, meredith.l.reed.civ@mail.mil. 
+iv. Semiconductor Materials and Device Characterization: ARL has an interest in 
+understanding fundamental materials and device properties of a host of semiconductor based 
+alloy systems that encompass IR, UV, plasmonic, and topological applications. Interest lies in 
+performing structural, electrical, optical, and chemical characterization and relating results 
+back to models developed with the goal of significantly enhancing, or creating completely new 
+capabilities. Some specific areas of interest include, time-resolved photoluminescence, pumpprobe measurements, angle resolved photoemission spectroscopy, magneto-transport, and gfactor measurements of topological materials. 
+TPOC: Gregory Brill, (301) 394-0192, gregory.n.brill.civ@mail.mil. 
+iv. Fast optical switching: The Materials Campaign requires research in transparent 
+nonlinear optical (NLO) materials, electro-optical (EO) materials, metamaterials, and in related 
+components and devices that can reduce their optical transmission across the visible, NIR, 
+SWIR, MWIR, and/or LWIR wavelength range passively, or actively when subjected to an 
+incident laser beam within that wavelength range. Orders of magnitude of reduction of 
+transmission are desired. Materials and devices must be highly transmissive in the initial state. 
+Technical areas of interest include, but are not limited to, the following: 
+(1) Development of optical materials with large nonlinearities and a broad wavelength 
+and/or pulse-width response. This can include molecular modeling, material synthesis, and 
+characterization of nonlinear parameters as well as nonlinear transmission studies to determine 
+structure-property relationships to improve performance. 
+(2) Modeling efforts to relate nonlinear material properties to their ability to effectively 
+reduce transmission. Modeling effort should include details on how the nonlinear materials 
+affect the propagation of incoming laser beams. 
+(3) Development of active broadly tunable metamaterial structures and devices including 
+modeling studies and characterization efforts. 
+(4) Novel experimental techniques for characterization of nonlinearities, lifetimes, 
+switching speeds, etc. 
+TPOC: William Shensky, (301) 394-0937, william.m.shensky.civ@mail.mil. 
+25
+vi. Photonic and Integrated Photonics Devices and Modules: Research is encouraged 
+pertaining to active and passive devices as well as fiber based technology for sensing, analog 
+RF signal generation/processing, communication, data and optical signal processing. Active 
+device research includes the development of bulk and integrated sources, modulators, detectors 
+and waveguides, and the development of technologies for their integration into processor 
+architectures. Active interface devices include semiconductor light emitting diodes (LED), 
+lasers, photo detectors, solar cells, modulators, amplifiers and waveguides, with operation in 
+the UV to IR spectral region, as well as integrated drivers and receivers. Also of interests are 
+novel high-bandwidth (10s GHz) photonic devices, components, modules, and subsystems
+which incorporate 𝜺 & 𝝁 near zero, or negative, metamaterials, high-contrast metastructures, 
+photonic crystals, and/or other novel material concepts. Finally, there is strong interest in 
+integrated photonic research to include on-chip processing, layout, mounting, and device 
+cooling for one, two and three dimensional photonic integrated circuits (PICs) for the following 
+applications: chemical specific sensing, laser ranging and imaging, free space optical 
+communications and radio-frequency photonics. 
+TPOC: Weimin Zhou, (301) 394-1435, weimin.zhou.civ@mail.mil, and Holthoff, (301) 394-
+0939, ellen.l.holthoff.civ@mail.mil. 
+vii. Advanced Concepts for Chemical Specific Sensing Applications: ARL is exploring new 
+and enabling detection technologies for human performance and hazardous material sensing 
+applications. The ultimate goal of our research efforts is to develop low SWAP-C point sensors 
+for these field applications. Desirable features of sensor systems include: high specificity in 
+analyte identification, small in size for field portability, low power requirements, low cost, and 
+stability for long periods of time under various environmental conditions. The several key 
+sensor research thrust areas are integrated photonic transduction techniques, direct 
+spectroscopic methodologies, recognition elements (e.g. Molecularly Imprinted Polymers), and 
+health monitoring bio-marker identification. Our current research interests includes 
+development of point and wearable embodiments using mainly optical techniques and 
+technology, including photonic integrated circuits. The desired sensor technologies are not 
+limited to these methods, but may use mechanical or other novel detection methods. Optical 
+technologies include, but are not limited to, new optical sources and detectors for sensors, 
+waveguide structures, optical resonantors, non-linear optics, Raman techniques, and 
+fluorescence with specific emphasis on photonics devices in PIC platforms. 
+TPOC: Ellen Holthoff, (301) 394-0939, ellen.l.holthoff.civ@mail.mil. 
+k. Position, Navigation, and Timing (PNT) 
+Precision Measurements and Control for Constrained Systems and Contested Environments: 
+Research areas include methods, electronics and algorithms to enable robust state-estimation 
+and control from distributed, heterogeneous, omnipresent, multi-aspect sensors; miniature 
+navigation-grade inertial measurement units (IMUs) leveraging MEMS fabrication; sensor 
+fusion architectures for distributed sensing with IMUs with alternative sensing modalities (e.g.,

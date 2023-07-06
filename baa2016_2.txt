@@ -1,0 +1,273 @@
+I. OVERVIEW OF THE FUNDING OPPORTUNITY
+The U.S. Army Research Laboratory (ARL) is the Department of the Army’s corporate laboratory 
+and sole fundamental research laboratory. It is dedicated to scientific discovery, technological 
+innovation, and the transition of knowledge products. ARL is situated within the U.S. Army 
+Research, Development, and Engineering Command (RDECOM) – a U.S. Army Materiel 
+Command (AMC) Major Subordinate Command (MSC). The ARL mission is to “Discover, 
+innovate, and transition Science and Technology (S&T) to ensure dominant strategic land power”. 
+To accomplish its mission, ARL executes fundamental research to address enduring S&T 
+challenges identified by the Assistant Secretary of the Army for Acquisition, Logistics, and 
+Technology [ASA(ALT)] and by priorities articulated by the Chief of Staff of the Army (CSA). 
+In addition, the laboratory conducts research and analysis in emerging fields that may realize 
+novel or vastly improved Army capabilities into the deep future (2030 and beyond). 
+For ease of reference and clarity, the ARL research funding opportunities are organized into two 
+separate funding opportunity announcements: the ARL Broad Agency Announcement (BAA) and 
+the Army Research Office (ARO) BAA. 
+The ARL BAA identifies topics of interest to the ARL Directorates (Computational and 
+Information Sciences Directorate, Human Research and Engineering Directorate, Sensors and 
+Electron Devices Directorate, Survivability/Lethality Analysis Directorate, Vehicle and 
+Technology Directorate, and Weapons and Materials Research Directorate). The Directorates 
+focus on executing in-house research programs, with a significant emphasis on collaborative 
+research with other organizations in an Open Campus setting (Open Campus opportunities are 
+described in detail at http://www.arl.army.mil/www/default.cfm?page=2357). The Directorates 
+fund a modest amount of extramural research in certain specific areas, and those areas are 
+described in this BAA. 
+The ARL BAA seeks proposals from institutions of higher education, nonprofit organizations, 
+state and local governments, foreign organizations, foreign public entities, and for-profit 
+organizations (i.e. large and small businesses) for research based on the following S&T 
+campaigns: Computational Sciences, Materials Research, Sciences for Maneuver, Information 
+Sciences, Sciences for Lethality and Protection, Human Sciences, and Assessment and Analysis. 
+Further details are described in the ARL Technical Strategy and in the ARL S&T Campaigns 
+located at www.arl.army.mil. These documents are subject to periodic refinements which may 
+result in taxonomy inconsistencies. These inconsistencies should not affect the efficacy of the 
+BAA to present a complete portfolio of essential ARL research. 
+The ARL BAA generally conforms to the portfolio structured around mission, enemy, Key 
+Campaign Initiatives (KCIs) and Core Campaign Enablers (CCEs). KCIs are substantive, longlived, primarily in-house technical programs focused on pursuing scientific discoveries, 
+innovations, and knowledge product transitions that are expected to lead to greatly enhanced 
+capabilities for the operational Army of 2030 and beyond. KCIs reflect a robust yet aggressive 
+approach, and are delineated by near-term, mid-term, and long-term trajectories. CCEs are 
+enduring technical thrusts dedicated to a fundamental understanding of new concepts and the 
+2
+maturation of foundational technologies and methodologies. The essence of the ARL technical 
+portfolio is captured in the ARL Technical Strategy and by the ARL S&T Campaign Plans. 
+Proposals are sought for cutting-edge innovative research that could produce discoveries with a 
+significant impact to enable new and improved Army technologies and related operational 
+capabilities and related technologies. The specific research areas and topics of interest described 
+in this document should be viewed as suggestive, rather than limiting. 
+Prospective applicants contemplating submission of a whitepaper or proposal are strongly 
+encouraged to contact the appropriate Technical Point of Contact (TPOC). The TPOCs’ names, 
+telephone numbers, and email addresses are listed immediately after each research area of interest. 
+If requested by the TPOC, a whitepaper should be prepared in accordance with the instructions 
+contained in this BAA. Upon receipt, a whitepaper will be evaluated and the applicant will be 
+advised of the results. Applicants whose whitepapers receive a favorable evaluation may be 
+encouraged to prepare a proposal in accordance with instructions contained in this BAA. The 
+costs of whitepapers and/or proposals in response to this BAA are not considered an allowable 
+direct charge to any award resulting from this BAA or any other award. It may be an allowable 
+expense to the normal bid and proposal indirect costs specified in FAR 31.205-18. Proposals may 
+be submitted at any time during the announcement period. 
+The Army has a long history of advocating and supporting research at Historically Black Colleges 
+and Universities and Minority-Serving Institutions (HBCU/MI). ARL welcomes proposals from 
+HBCUs and MIs in full competition with all applicants who may submit proposals under this 
+BAA. ARL also encourages the inclusion of HBCUs and/or MIs as part of a consortium proposal 
+or as sub-recipients to prime recipients. 
+In accordance with federal statutes, regulations, and Department of Defense (DoD) and Army 
+policies, no person on grounds of race, color, age, sex, national origin, or disability shall be 
+excluded from participation in, be denied the benefits of, or be subjected to discrimination under 
+any program or activity receiving financial assistance from the Army. 
+Applicants submitting proposals are cautioned that only a Contracting or Grants Officer can 
+obligate the Government to any legal instrument involving expenditure of Government funds. 
+This BAA is also used to solicit research proposals for submission to the RDECOM International 
+Technology Centers. 
+All administrative inquiries regarding this BAA shall be submitted via email to: 
+usarmy.rtp.aro.mbx.baa@mail.mil. Scientific and technical questions should be referred to the 
+TPOCs shown following each research area of interest. Interested parties are encouraged to 
+periodically check any of the following websites for updates and amendments to this BAA: 
+www.grants.gov, www.fbo.gov, and the ARL website, www.arl.army.mil/. 
+PHILIP PERCONTI 
+Director, 
+U.S. Army Research Laboratory 
+3
+(End of Section) 
+A. Required Overview Content
+1. Agency Name:
+U.S. Army Research Laboratory 
+Issuing Acquisition Office:
+U.S. Army Contracting Command-Aberdeen Proving Ground, Research Triangle Park 
+(ACCAPG-RTP) Division 
+2. Research Opportunity Title:
+ARL Broad Agency Announcement (BAA) for Basic and Applied Scientific Research for 01 
+April 2017 – 31 March 2022 
+3. Announcement Type: Amended Announcement 
+4. Research Opportunity Number: W911NF-17-S-0003 
+5. Catalog of Federal Domestic Assistance (CFDA) 
+Number and Title:
+12.431 – Basic Scientific Research 
+6. Response Dates:
+This BAA is a continuously open announcement valid throughout the period from the date of 
+issuance through 31 March 2022, unless announced otherwise. This announcement succeeds 
+ARL BAA W911NF-12-R-0011 (including all amendments) dated 15 May 2012. 
+(End of Section) 
+ 
+B. Additional Overview Information 
+This BAA sets forth research areas of interest to the ARL. This BAA is issued under paragraph 
+6.102(d)(2) of the Federal Acquisition Regulation (FAR), which provides for the competitive 
+selection of basic and applied research proposals, and 10 U.S.C. 2358, 10 U.S.C. 2371, and 10 
+U.S.C. 2371b, which provide the authorities for issuing awards under this announcement for 
+basic and applied research. The definitions of basic and applied research may be found at 32 
+Code of Federal Regulations (CFR) 22.105. 
+4
+Proposals submitted in response to this BAA and selected for award are considered to be the 
+result of full and open competition and in full compliance with the provision of Public Law 
+98369, "The Competition in Contracting Act of 1984" and subsequent amendments. 
+The DoD agencies involved in this program reserve the right to select for award all, some, or 
+none of the proposals submitted in response to this announcement. Due to Government budget 
+uncertainties, no specific dollars have been reserved for awards under this BAA. The 
+participating DoD agencies will provide no funding for direct reimbursement of whitepaper or 
+proposal development costs. 
+Whitepapers and technical and cost proposals (or any other material) submitted in response to 
+this BAA will not be returned to the applicant. Unless noted in an applicant's proposal to the 
+contrary, unsuccessful proposals will be retained for six (6) months from declination and then 
+properly destroyed. It is the policy of participating DoD agencies to treat all proposals as 
+sensitive, competitive information and to disclose their contents only for the purposes of 
+evaluation. 
+An applicant may withdraw a proposal at any time before award by written notice or by email 
+sent to the government point of contact identified in Section G of this BAA. 
+(End of Section) 
+5
+II. DETAILED INFORMATION ABOUT THE FUNDING OPPORTUNITY
+A. Program Description
+1. COMPUTATIONAL SCIENCES (CS) CAMPAIGN 
+The CS Campaign focuses on advancing the fundamentals of predictive simulation sciences, 
+data intensive sciences, computing sciences, and emerging computing architectures to 
+transform the future of complex Army applications. Gains made through these underpinning 
+multidisciplinary research efforts and exploiting emerging advanced computing systems will 
+lead to scientific breakthroughs that are expected to have significant impact on Army materiel 
+systems. Technologies resulting from this multidisciplinary research collaboratively with other 
+ARL S&T campaign innovations will have a significant impact on Power Projection 
+Superiority, Information Supremacy, Lethality and Protection Superiority, and Soldier 
+Performance Augmentation for the Army of 2030. 
+Represented in this BAA for the CS Campaign are one KCI and five CS-related topics that are 
+integrated to form a robust advanced computing foundation to understand and overcome 
+complex fundamental challenges simultaneous to improving approaches of importance to the 
+Army, including weapon systems design; materials-by-design; information dominated and 
+networked battle command applications; system-of-systems analyses; human performance 
+modeling; platform maneuverability; and tactical supercomputers. The campaign heavily relies 
+on ARL’s research expertise and facilities devoted to emerging advanced computing 
+architectures, mobile High Performance Computing (HPC), multi-scale and interdisciplinary 
+predictive simulation sciences, multi-dimensional distributed data analytics, and computing 
+sciences. Discoveries and innovations made in this area will exert a significant impact on the 
+Army of the future. There are natural synergies among the challenges facing ARL’s CS 
+Campaign and ARL’s other S&T campaigns. Synergistic advances across all campaigns are 
+expected to enable next generation scientific breakthroughs. 
+a. KCI-CS-1: Tactical High Performance Computing (HPC) 
+This KCI concentrates on understanding and exploiting the fundamental aspects of hardware 
+and associated system software for emergent and future computing architectures for mobile, 
+scientific, and data intensive applications. Computing systems include both mobile and 
+fixed/virtual architectures optimized for fast communications, low power consumption, large 
+hierarchical memory, novel and robust algorithms, high resiliency, and HPC networking. 
+i. Tactical HPC integrates four primary research areas, including 1) advanced computing 
+research to facilitate the efficient use of emerging architectures; new algorithm design and 
+analysis approaches must be developed to boost the computing capacity of fixed and deployed 
+devices; 2) research in provisioning these systems within a distributed computing architecture;
+this work includes novel concepts to schedule computing tasks over friendly networked 
+6
+processors to limit network hop to appropriate resources; 3) dynamic binary translation to limit 
+software re-writes and facilitate optimization in a runtime environment to achieve maximum 
+performance; and 4) power- and architecture-aware computing for enhanced intelligence of 
+provisioning systems to design systems that have greater awareness of their computing 
+capacity and mission appropriateness. The critical, mobile ad hoc networks that will form the 
+connections in tactical cloudlets to the large-scale databases and complex applications that will 
+be performed by these resources make this research uniquely military and Army in nature. 
+Numerous applications are envisioned for this system in the future and include artificial 
+intelligence aids for decision making, processing large-scale datasets (text, video), and 
+navigation systems for autonomous vehicles (HPC-enabled autonomous vehicles providing ondemand processing). 
+ii. Emergent Computing Architectures research focuses on light weight architectures, large 
+scale on-chip parallelism, and exascale performance to support petascale computing with 
+multicore processors. These research efforts are also dedicated to developing novel algorithms 
+and application formulations that facilitate the input and output rates required for petascale 
+computing; and application development and performance optimization for next generation 
+computing architectures. 
+iii. Tactical Computing research is focused on better understanding algorithms and 
+applications which facilitate seamless reach back to large-scale HPC systems and help to 
+supply information to the Soldier at the tactical edge. Research in this area is dedicated to 
+moving beyond optimizing devices in isolation, and embraces the challenges of crossenvironment co-design to address the needs of emerging tactical applications. 
+iv. Next Generation Computing Architectures research is focused on non-traditional 
+computing systems and envisioned to provide disruptive technologies for the Army. Cognitive
+computing, neuro-synaptic computing, and DNA computing are some emerging concepts.
+TPOC: Song Park, (410) 278-5444, song.j.park.civ@mail.mil 
+Computational Sciences (CS) Related Topics: 
+b. Real-Time, Scalable Data Analytics for the Army
+This topic focuses on understanding and exploiting the fundamental aspects of large-scale, real 
+time, multi-variate data analytics. Experiments, observations, and numerical simulations are on 
+the verge of generating extreme quantities of data at ever increasing rates that must be 
+processed for understanding and consumption. These massive amounts of data are distributed 
+across disparate locations and pose a challenge in providing real-time analytics that support 
+U.S. military operations. 
+7
+i. Brain-inspired computing research addresses the fundamental question of how our 
+understanding of neuroscience, brain structure, and function inform the development of 
+computing architectures to address Army research challenges. For instance, current models 
+underlying existing machine learning are based on a 40 year old understanding of the structure 
+and organization of animal brains. This research focuses on the design of neural network 
+structures informed by our current understanding of the repeating micro-structure circuits 
+neuroscience has discovered in brains. The benefits of this research may be the discovery of 
+computing structures that are more powerful and learn more generally than the structures 
+currently used. 
+ii. Science of Large Data research is focused on pursuing theoretical developments and 
+innovations to provide immersion in high dimensional data and very large-scale sets. These 
+efforts are dedicated to discovering, evolving, and maturing analytic algorithms that efficiently 
+scale to facilitate rapid analyses of massive data sets. The primary goal of this research area is 
+to realize Army-relevant, high accuracy, predictive models based on massive data sets, which 
+take advantage of emerging computing architectures. Additional areas of relevant research 
+interest is maturation of methodologies to reduce data set dimensionality prior to modeling,
+thereby greatly shortening computational time. 
+iii. Computational Methods for Large-scale data analytics research is focused on 
+identifying, evolving, and maturing innovative computational algorithms and methodologies to 
+describe, model, simulate, solve, explore, and optimize control and coordination of 
+computational systems impacted through physical events. Dynamic discrete event systems are 
+data intensive and exist in many technological applications relevant to the Army, from 
+communications to system-of-systems, to quantum sciences. 
+iv. Data Intensive Computing Methods include the creation of scalable mathematical 
+algorithms, predictive computational methods, real-time data analytics, model order reduction, 
+human cognition based mathematical approaches, neuro- and biologically-inspired methods, 
+science analyzing large-scale data from wearable electronics/technologies, large-scale data 
+sensing/compression methodologies, large-scale visual analytics, live-virtual methods for 
+training, data mining/learning mathematical algorithms for distributed heterogeneous 
+computing systems. Computational scalable algorithmic research in cognitive behavior, 
+artificial intelligence, human-machine interactions, and autonomous networks is also integral to 
+this work. Novel methods to create systems capable of computing in memory and 
+accommodating large amounts of unstructured data storage are critical to far-term success. 
+v. Machine Learning and Artificial Intelligence research focuses on the development of 
+new methods and algorithms, and how to optimally implement these approaches on emerging 
+and specialized processors. The focus is to allow for novel discovery methods using machine 
+learning and artificial intelligence approaches, and also optimized processing speeds to allow 
+for satisfaction of fixed-time response requirements found in applications such as autonomous 
+maneuver. 
+8
+TPOC: Manuel Vindiola, (410) 278-9151, manuel.m.vindiola.civ@mail.mil. 
+c. Computational Modeling of Complex Systems
+The subject topic concentrates on the fundamental aspects of CS to enable multi-disciplinary 
+and multi-scale modeling and simulation (M&S) to predict, quantify, assess, and optimize the 
+performance and response of complex systems, and system of systems, enabling rapid design, 
+development, and transition particularly in cases where laboratory experimental approaches are 
+costly and difficult to conduct, and/or are not feasible. Proposals are requested for the 
+following areas: 
+i. Computational Mathematics and Algorithms research encompasses a range of 
+disciplines seeking computational methods to solve fundamental equations. Solutions may be 
+sought for existing equations, or new equations may be developed expressly for the purpose of 
+treating problems of interest to the Army. Problems in which the equations can be expressed in 
+the form of partial differential equations stem from the basic science and engineering 
+disciplines spanning characteristic length scales from sub-atomic to continuum, neural signals, 
+stochastic variables, and design theory. Broad classes of problems may also require 
+considerable specialization of solutions based on the platform used to obtain them. 
+ii. Scientific Computing Research seeks understanding of phenomena that pertain to the 
+scientific pursuits in and across traditional scientific disciplines that lack relevant 
+computational capabilities. The problems are interdisciplinary, multi-physics with disparate 
+intrinsic length and time scales. The equations, algorithms, and conceptual representation can 
+change with respect to multi-dimensions (including space and time traversing scales or 
+crossing the boundaries between scientific disciplines). Simulations bridging multi-scale 
+domains are instrumental in discovering and revealing mechanisms and physics-based 
+predictions (e.g., in materials, chemical and biological dispersion; micro-systems; biological 
+ecosystems; and computer and human networks). High fidelity computations at the individual 
+relevant scales, as well as research into mathematics and computational algorithms bridging 
+these scales through innovative and scalable methodologies, including finite element methods, 
+particle methods, and meshless methods applied to Computational Mechanics, Computational 
+Fluid Dynamics (CFD), Computational Structural Mechanics (CSM), Computational 
+Electromagnetics and Acoustics (CEA), and Computational Chemistry and Materials (CCM), 
+are required. 
+iii. Applied Computer Modeling and Analysis is focused on using predictive and reliable 
+computational capabilities and tools to impact the design and deployment of critical Army 
+systems and devices. CS-based enabling tools are required to perform large-scale system 
+analysis from complex model development to detailed analytics. This includes innovative and 
+scalable methods for Discrete Event Simulation (DES) that can be useful to a wide variety of 
+performance and optimization problems in complex Army systems.

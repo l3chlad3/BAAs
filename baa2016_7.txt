@@ -1,0 +1,401 @@
+TPOC: Michael Lander, (301) 394-2367, michael.d.lander2.civ@mail.mil.
+l. Technologies for Spectrum Analysis and Control
+ARL is interested in technologies that enable the use of electromagnetic (EM) energy to control 
+the EM spectrum or attack the adversary while protecting our own EM systems against 
+interference. Embedded in this goal are technologies that include EM spectrum sensing to 
+enable situational understanding. ARL is accepting proposals addressing one or more of the 
+following research areas:
+i. Cognitive/adaptive: Technologies that enable EM capabilities or techniques to outpace 
+an adversary’s tactical options, placing ourselves at a strategic position in the “observe, 
+orient, decide, and act” (OODA) loop.
+ii. Distributed/coordinated: Technologies that enable spatially and temporally diverse 
+awareness, action, and response, leveraging the Army’s large number of low-cost and/or 
+small platforms.
+iii. Pre-emptive/proactive: Technologies that prevent or disrupt the adversary’s ability to 
+engage our forces, by decisively impeding the “find, fix, track, target, engage, assess” 
+process.
+iv. Broadband/multispectral: Technologies including ultra-wideband and multi-band radio 
+frequency front-ends, back-ends, antennas, receivers, and transmitters to enable agnostic 
+detection and prosecution of adversary transceivers.
+v. Interoperable/compatible: Technologies based on software-defined, standardized, nonproprietary interfaces, including waveforms, spectrum management, and protocols.
+vi. Electronic protection: Technologies that ensure blue force protection from jamming and 
+EM interference with minimal impact on system performance, or technologies that 
+enhance system performance in complex congested and contested EM environments.
+TPOC: Dr. Matthew B. Higgins, (301) 394-0849, matthew.b.higgins6.civ@mail.mil.
+5. SCIENCES FOR LETHALITY AND PROTECTION (ScL/P) CAMPAIGN
+The ScL/P Campaign focuses on gaining a greater understanding and discovery of mechanisms 
+and on generating concepts and emerging technologies that support lethality and protection 
+systems, and the mechanisms of injury affecting the warfighter. Knowledge and concepts 
+gained through these research efforts will lead to technologies that enable a broad array of 
+discriminate lethality systems as well as resilient protection systems and reduced incidents and 
+severity of combat casualties. Campaign competencies and knowledge can support the Army 
+through 2025, and the new technologies are essential for Lethality and Protection Superiority 
+of the Army of 2030 and beyond. 
+The ScL/P Campaign has developed five KCIs and two CCEs that are integrated to form a 
+robust foundation to understand and overcome complex fundamental challenges associated 
+with Ballistics and Blast; EW; and Battlefield Injury Mechanisms. Through this campaign, 
+49
+combinations of existing and new innovative technologies will be brought together through 
+partnerships to realize disruptive system advances. These advances are driven by overcoming 
+key learning and technical challenges required to further enable the 
+Army of 2030 and beyond. 
+a. KCI-ScL/P-1: Scalable Lethal Adaptable Weapons Concepts 
+These efforts will provide continued lethal overmatch across the full range of weapons for both 
+direct and indirect fires. Systems will be employed in expanding roles such as light and heavy 
+armor with increased range and fire power as well as new lightweight manned and unmanned 
+combat vehicles/systems and dismounts. New types of gun and missile technologies will be 
+enabled with new launch mechanisms to deliver increased muzzle energies and new lethal 
+mechanisms capable of defeating the toughest targets at reduced energy, reduced caliber, or 
+reduced missile size while working with other research areas to provide necessary standoff 
+range. Futuristic lethal mechanisms will be pursued and validated to provide a range of 
+incapacitation effects against personnel and combat vehicles/systems. Disruptive energetic and 
+propulsive materials will be investigated and tested to provide the Army with weapons with 
+orders of magnitude enhancement in performance. 
+This program will lead to unprecedented enhancements in lethality for the mounted and 
+dismounted soldier against a spectrum of personnel and manned and unmanned ground and 
+aerial combat systems. 
+TPOC: Edward Kennedy, (410) 278-6055, edward.w.kennedy.civ@mail.mil. 
+b. KCI-ScL/P-2: Desired Lethal Effects at Standoff Ranges in Constrained Environments 
+The expected impact that this research will have on the operational Army’s capabilities in the 
+2030 timeframe is significant enhancements in assured delivery of the lethal payload. Assured 
+delivery implies that munitions will be brought to bear on the battlefield more precisely (lower 
+collateral damage, reduced logistics burden), with more mission space (extended range, 
+moving targets, defilade targets, smaller caliber weapons for lighter platforms), in a more 
+complex environment (GPS denied, countermeasures) at low cost. 
+Assured delivery of the lethal payload is underpinned by ballistic launch and flight sciences. 
+Guided delivery is composed of two enabling technologies: maneuverability and navigation. 
+Navigation provides information to understand the dynamic states relating the target and the 
+munition and maneuverability is necessary to deliver the payload to the target. Goals are 
+defined with these sciences and enabling technologies in mind. 
+TPOC: Frank Fresconi, (410) 306-0794, frank.e.fresconi.civ@mail.mil. 
+50
+c. KCI-ScL/P-3: Soldier Lethality and Protection
+Research will enhance our understanding of battlefield injury mechanisms, such as those due to
+blast (e.g., injuries caused by shock waves, including accelerative loading and traumatic brain 
+injury (TBI)), ballistic (e.g., impact of bullets, fragments and spall), and directed energy (e.g., 
+injuries caused by laser and microwave sources). Research efforts in each of these mechanistic 
+areas will yield scientific understanding and lead to new Army concepts. The long-term 
+approach is to obtain a fundamental understanding of human injury and vulnerability deconvolved from the current Army solutions. 
+The goal of this research is to provide a mechanism-based understanding of the human 
+response to ballistic and blast insults that can lead to advances in protection sciences and
+weapons development, thereby increasing Army capabilities. 
+TPOC: Christopher Hoppel, (410) 278-8878, christopher.p.hoppel.civ@mail.mil. 
+d. KCI-ScL/P-4: Adaptive and Cooperative Protection 
+The operational threat environment that our troops face continues to grow in both capability 
+and complexity. From near-peer adversaries to terrorist groups, the landscape is constantly 
+evolving. The ability of our troops to exercise freedom of maneuver under these contested 
+conditions will dictate mission success or failure. Developing a suite of technologies that 
+provide the highest level of protection, in austere conditions, is the goal of this research. These 
+efforts will result in transformational protection capabilities for Army platforms (ground, air, 
+Soldier, and maritime) focused on increased levels of protection and the ability to rapidly adapt 
+to new and unforeseen changes in threat environment at a reduced weight burden. 
+This research effort combines technologies from across numerous disciplines to include 
+technical intelligence, environmental sensing, dynamic threat characteristics, high speed signal 
+processing, signature modification, and counter-measures in addition to conventional armor. 
+All of these elements and combinations are linked through an intelligent agent to provide a 
+real-time response decision that can proactively adapt. This methodology is capable of learning 
+and applying new approaches as it evolves. An optimized combination of hard and soft 
+protection techniques will provide a robust and redundant solution that will reduce inherent 
+susceptibilities of current active protection systems to a variety of counter measures. It will 
+also allow new techniques and responses to be deployed in real-time as dynamic software 
+upgrades. This approach is seen as the only feasible means to maintain pace as the rate of threat 
+evolution and proliferation is accelerated by globally available technologies such as digital 
+design and additive manufacturing. The resulting advantages of this approach include; reduced 
+weight when compared to current methodologies, increased reliability, ability to counter new 
+threats in real-time and the ability to learn, adapt and improve. 
+TPOC: Aaron Bard, (410) 278-4510, aaron.2.bard.civ@mail.mil. 
+51
+e. KCI-ScL/P-5: Disruptive Energetic Materials 
+Improved models, concepts, and new energetic materials for propulsion are expected to provide 
+enhanced range, speed of engagement, and maneuverability while maintaining weapons safety 
+and surety. Additionally, game-changing energetic concepts with an order of magnitude more 
+potential than conventional energetics are being pursued and are expected to enable new 
+approaches to lethality, particularly when partnered with emerging accuracy and precision 
+advances. 
+These efforts will focus on the exploration and maturation of novel energetic and propulsive 
+materials which are expected to provide revolutionary performance capabilities that are 
+unachievable today. Research in this area seeks to understand very high energy density storage 
+and release on desired timescales, methods to balance various parameters in energetic 
+formulations, and prediction of formulation ingredient compatibility. 
+TPOC: Jennifer Ciezak-Jenkins, (410) 278-6169, jennifer.a.ciezak-jenkins.civ@mail.mil. 
+f. CCE-ScL/P-1: Vehicle Protection from Kinetic Threats 
+The ScL/P CCE in Vehicle Protection is a sustained effort to advance ballistic protection 
+utilizing advanced materials, mechanisms, and manufacturing science to dramatically reduce 
+overall vehicle weight while maintaining or improving protection against KE penetrators, 
+Chemical Energy (CE) weapons and Underbody Blast (UB) threats. These CCE elements are 
+closely coupled with the MR Campaign, emphasizing the cross-cutting nature, specifically in 
+the areas of materials and manufacturing. 
+For KE Protection, this CCE will develop new materials, ballistic technology, manufacturing 
+technology, and adaptive technology to dramatically reduce overall vehicle weight while 
+maintaining or improving protection against KE penetrators. For CE Protection, this CCE will 
+develop new ballistic mechanisms; further develop existing ballistic mechanisms; explore new 
+materials, hybrid adaptive techniques, and manufacturing technology to significantly improve 
+vehicle protection against anticipated future threats; or dramatically reduce overall vehicle 
+weight while maintaining protection against existing threats for a diverse range of CE 
+penetrator warheads. In the area of UB Protection, this CCE will build and develop 
+understanding of the driving mechanisms leading to, and mitigating, injury for the warfighter 
+and vehicle platform; establish critical diagnostic capabilities to probe UB threat event 
+phenomena; advance modeling capability for research, design, and analysis; and conceive 
+innovative technologies for the mitigation of these threats. 
+TPOC: Michael Keele, (410) 278-0215, michael.j.keele.civ@mail.mil. 
+52
+g. CCE-ScL/P-2: Terminal Ballistics and Blast Effects 
+The CCE in Terminal Ballistics and Blast Effects is a sustained effort to advance the science 
+base for mechanics and physics of weapon-target interactions. These technical areas include 
+but are not limited to: shock physics and solid dynamics; fracture and failure of materials; 
+interaction of solids with blast, electrical, and magnetic stimuli; detonation physics; and 
+directed energy. To apply the greater understanding of fundamental sciences, which underpin 
+weapon-target interaction, this CCE will develop coupled mesoscale poly-crystal model(s) with 
+inter- and intra-granular mechanisms; develop and incorporate advanced diagnostic methods 
+for relevant penetration experiments; develop and implement algorithms that provide electrical 
+conductivities of low density gases using multiscale methods; apply formal Verification and 
+Validation (V&V) methods and complete Uncertainty Quantification (UQ) assessment on 
+tera/peta-scale simulation methods routinely used for protection technology development; 
+develop and implement new analytical and computational methods for problems involving 
+localization; assess coupling of structural and magnetic fields to protection relevant shock 
+loading; implement robust methods for Modeling and Simulation (M&S) of energetic materials 
+in response to shock stimuli; quantify relationships between structure, properties, and ballistic 
+performance of armor ceramics. 
+TPOC: Scott Kukuck, (410) 278-6026, scott.r.kukuck.civ@mail.mil.
+6. HUMAN SCIENCES (HS) CAMPAIGN 
+The HS Campaign focuses on identifying, creating, and transitioning scientific discoveries and 
+technological innovations underlying Human Behavior; Human Capabilities Enhancement; and 
+Human-System Integration that are critical to the U.S. Army’s future technological superiority. 
+This campaign concentrates on high-risk and high-payoff transformational basic research; 
+critically-focused, promising applied research; and selective advanced technology development 
+that are expected to have revolutionary impacts on the Army’s warfighting capabilities. In 
+addition to significantly improving the Army’s existing warfighting capabilities, it creates 
+disruptive and game changing Soldier-centric technologies for the Army, while also preventing 
+technological surprises from potential adversaries. 
+The HS Campaign has developed three KCIs and four CCEs that are integrated to form a 
+robust foundation to understand and overcome complex fundamental challenges. The campaign 
+builds on fundamental pillars of science and engineering to conduct R&D in human behavior 
+understanding; human performance augmentation; and manned and unmanned teaming. 
+Discoveries and innovations made in this area will exert a significant impact on the Army of 
+the future. 
+53
+a. KCI-HS-1: Robust Human and Machine Hybridization 
+Strengthening the Reciprocal Coupling of Man and Machines integrates empirical and 
+theoretical efforts to understand dynamic, complex human-system interactions and apply 
+that knowledge towards the conceptualization of unique and novel human-system 
+integration technologies. The research has three thrusts 1) examining closed-loop human 
+adaptation to uncertainty with specific goals to develop descriptive, mechanistic, and 
+predictive models of human short- and long-term adaptation within system contexts; 2) 
+investigating robust brain computer interaction technologies with an initial goal to uncover 
+methods and analytic capabilities that enable long-term, sustained performance while 
+minimizing calibration and training requirements; and 3) conceiving of novel human-system 
+interface technologies that increase the flow of information and meaning from intelligent 
+agents system and Soldiers in complex socio-technical environments with an initial focus on 
+novel multimodal interface technologies that enable greater understanding with less effort 
+and training The critical challenge for human-system integration in future technologies will 
+be the design of solutions that adapt their capabilities to maximize the human potential of 
+the future Soldier. This effort seeks to identify general systems principles that operate across 
+levels of analysis, providing a conceptual and modeling framework that captures human 
+adaptation in ways that current models cannot. 
+New methodological and analytical approaches will provide the core for technologies that 
+revolutionize the direct interaction between Soldier and technology; increasing the bandwidth 
+and effectiveness of information transfer, and shared understanding. 
+TPOC: Jeremy Gaston, (410) 278-3644, jeremy.r.gaston.civ@mail.mil.
+b. KCI-HS-2: Multi-Faceted Assessment of Soldier Variability 
+The goal of this research is to provide the foundational elements for future Army systems to 
+generate high-resolution, moment-to-moment, predictions of individual Soldier’s internal and 
+external behavioral and performance variability in mixed agent team and social settings across 
+training and operational environments through the use of multi-faceted sensing systems. This 
+capability will provide the foundation for future Army systems to adapt to the individual 
+Soldier’s states, behaviors, and intentions in real-time, which will provide our Soldier the most 
+favorable conditions to train, engage in operations, and team with intelligent systems and 
+personnel from the U.S. and other nations. Adaptive approaches will provide novel capabilities 
+to decrease time-to-train, augment physical, cognitive, and social performance, and improve 
+human-network interactions by providing robust predictions of Soldier state and intent to 
+integrate with the network and are critical to the emergence of individualization of equipment 
+and maximizing and sustaining both Soldier and unit peak performance during mission critical 
+tasks. The research will focus on enabling high fidelity prediction that can account for 
+continuous changes in Soldier’s physical, cognitive, and social states, such as stress, fatigue, 
+task difficulty, trust, and situational awareness. The goal is to exploit the array of sensors and 
+information streams that will be present in the operational environment of 2030 to predict 
+54
+Soldier variability with sufficient resolution and robustness to adapt systems in manners to 
+directly enhance mission performance. The ultimate consumer of these technologies includes 
+personnel across all three services both in the operational and medical domains. From U.S. 
+Army Training and Doctrine Command (TRADOC) Pamphlet (PAM) 525-3-1: “Investments 
+in maximizing human performance focus on achieving accelerated professional development; 
+increasing cognitive and physical performance; developing Soldiers’ social and interpersonal 
+capabilities; improving the overall health and stamina of personnel; and improving talent 
+management. These efforts will improve the adaptability and endurance of Soldiers operating 
+in a complex environment across the range of military operations.” This research is consistent 
+with the following TRADOC Army Operating Concept for “Human performance” that 
+improves the adaptability and endurance of Soldiers in a range of military operations. In 
+addition, this research feeds several TRADOC Emerging Technology Focus areas: 
+• “Grow Adaptive Army Leaders, Optimize Human Performance” by using continuous 
+Soldier assessment. 
+• “Maintain Overmatch” in the areas of protection, intelligence, and mission command. 
+• “Continuously Upgrade, Protect, and Simplify the Network” by incorporating human 
+state information to enable high degree of situational understanding and greater 
+interoperability. 
+Key research areas include: 
+i. Approaches and algorithms to assess and predict non-linear human states that vary on 
+multiple time scales across training and operational environments. 
+ii. Techniques to leverage information about other individuals, sub-groups of individuals, 
+and groups to improve prediction of an individual. 
+iii. Techniques and fusion algorithms to interpret and predict non-stationary, human actions 
+and behaviors in complex, dynamic, artifact-rich environments. 
+This research will provide the foundational elements for future Army systems to generate high 
+resolution, moment-to-moment, predictions of individual Soldier’s internal and external 
+behavioral and performance dynamics in mixed-agent team and social settings across training 
+and operational environments through the use of multi-faceted systems. 
+TPOC: Amar Marathe, (410) 278-3638, amar.marathe.civ@mail.mil. 
+c. KCI-HS-3: Training Effectiveness Research 
+TRADOC/Army Capabilities Integration Center predicts (Strategic Trends Analysis, May 
+2014) predicts that by 2030 “the speed of events will unfold that will require the Army to 
+rapidly respond (measured in hours and days vs. weeks and months) with an operationally 
+significant force to protect vital national interests. Increased speed of information requires 
+55
+more rapid and discriminate responses to crises. Future crises require increased multinational 
+and whole-of-government approaches; however, partner and interagency capacities may not be 
+sufficient. The environment will be increasingly transparent due to widespread information 
+technology (IT). Mission command must be capable of handling big data. Future land forces 
+will require the capability and capacity to gain situational understanding of complex megacity 
+environments (physical, human, and information). As technology exponentially advances, the 
+Army will need to replace systems more rapidly to equip the future force in an effective and 
+timely manner. “This environment will require a real-time integration and adaptation to rapidly 
+deployed technologies (personally worn exoskeletons, distributed unmanned systems, and 
+cyberwarfare systems). To address these requirements, this research will demonstrate a 
+ubiquitous, reconfigurable, fully adaptive, synthetic training environment that can quickly and 
+accurately assess learning requirements, while reducing time required for Soldiers and their 
+units to attain job domain competency; increasing the rate of knowledge and skill retention; 
+increasing the rate of training transfer for mission readiness; increasing user acceptance; and 
+reducing overall lifecycle sustainment costs. 
+The main goals of this research are to: 1) discover and delineate the relationships among 
+training environment fidelity, level of training immersion, and Soldier/collective performance; 
+2) create models of efficient training evaluation for the Army driven by relationships between 
+training technologies/methods and training effectiveness; 3) determine relationships between 
+training technologies and transfer of acquired knowledge, skills, and abilities to operational 
+contexts, 4) optimize training for autonomous, intelligent systems; 5) determine 
+multidimensional measurement with feedback methods and strategies for individual / unit level 
+simulation-based training; and 6) demonstrate automated individual to unit measurement and 
+feedback tools and technologies. 
+TPOC: Joan Johnston, (407) 384-3980, joan.h.johnston.civ@mail.mil. 
+d. CCE-HS-1: Real World Behavior 
+Understanding human behavior in the real world is a core enabler to the HS Campaign. The 
+Real World Behavior CCE is dedicated to translating laboratory-based research findings to real 
+world contexts and environments. This is especially critical considering the extreme conditions 
+under which Soldiers operate including extreme time pressure; physical stress; cognitive load; 
+interacting individually or as a team with intelligent systems and agents; technical training; and 
+mission preparation. These extremes are difficult, if not impossible, to replicate in a laboratory. 
+Materiel and methodologies to measure and predict human behavior in real world 
+environments will enable enhancements of human capability in real time during training or 
+tactical operations. Understanding behavior in the real world will enable optimized humansystem integration at scales from millisecond-level interactions that are dynamic and reciprocal 
+to social-level interactions with robotic and intelligent systems or agents. Creating this 
+understanding of behavior in the real world will accelerate transition of research findings to the 
+field, thus speeding the delivery of technology, and ultimately, capability to the Army. 
+56
+Core research areas include: 
+i. Real-world complexity in HS research: real-world perceptual and cognitive complexity 
+in the laboratory as a function of the characteristics of simulations that give rise to the specific 
+real world behaviors required for effective interaction across training, analytic, and operational 
+domains for both individuals and teams. 
+ii. Assessing behavior in the real world via reliable and valid biological, neurological, and 
+behavioral sensors that provide stable, computationally tractable data that are descriptive, 
+diagnostic, and differentiating across the full-range of physical, cognitive, social, and 
+organizational behaviors for application of augmentation and human-system integration 
+approaches on multiple time scales. 
+Execution of the research in this CCE includes development of sensors that can reliably detect 
+and capture nuanced actions, gross motor movements, and brain activity outside the laboratory. 
+Fast and efficient computational approaches also must be in place to handle the massive 
+amounts data that will be collected. Finally, the behavioral data must be correlated to the 
+context and to the environment to enable a meaningful and differentiating association to 
+higher-level and militarily-relevant effectiveness measures for training and operations. 
+TPOC: Arwen DeConstanza, (410) 278-5856, arwen.h.decostanza.civ@mail.mil. 
+e. CCE-HS-2: Augmentation 
+Soldier cognition, perception, and physical performance can be augmented, aided, or protected 
+by technology, or technology can impair Soldier performance if it is not designed, developed, 
+and introduced in a way that is consistent with fundamental human capabilities and capacities. 
+The goal is to augment Soldier capabilities such that they can surpass the baseline limits of 
+performance. Through augmentation, a Soldier’s sensing and perceptual abilities can be greatly 
+enhanced, thereby enabling the warfighter to sense and perceive the environment faster, more 
+accurately, and more comprehensively. Augmenting cognitive capabilities that are matched to 
+individual capabilities and tuned to the operational environment will enable greater resilience 
+to the extremes of warfighting and support the attainment and sustainment of situation 
+awareness and ultimately, agile, knowledgeable decision making. Innovations are also 
+expected to enhance warfighter physical capabilities by balancing load, improving protection, 
+and enhancing performance. 
+Core research areas include: 
+i. Perceptual Augmentation: the characterization and augmentation of the perceptual 
+requirements of visual, auditory, and tactile signals in complex, dynamic, militarily-relevant 
+environments derived from laboratory and field studies and forming the basis of guidance 
+principles for the system development community. 
+57
+ii. Physical Augmentation: focus on ‘skin-out’ technology that may augment physical 
+performance, and focus on advanced technology designed to increase the physical strength of 
+the Soldier or increase their endurance. 
+The objectives of this research are to understand and augment fundamental human capabilities 
+across both short and long time scales. Under this CCE, research will be conducted to develop 
+and assess the effects of augmentation technologies or approaches on Soldier performance 
+through the evaluation of performance metrics and prediction of operational benefit for mission 
+tasks ranging from marksmanship and load carriage to communications tasks, driving and 
+navigating, and distributed decision making. Many augmentation technologies constitute a 
+direct approach such as an exoskeleton, but other approaches may be via indirect means such 
+as insertion or manipulation of imagery, symbology, or virtual characters by means of 
+augmented reality techniques. 
+TPOC: Jennifer Neugebauer, (410) 278-5926, jennifer.neugebauer.civ@mail.mil. 
+f. CCE-HS-3: Training 
+The research in this CCE is vital to the investigation, demonstration, and advancement of a 
+broad range of simulation technologies to enhance Army training, and the instantiation of 
+learning methods to enable effective, efficient, and adaptive/tailored instruction at the point of 
+need. 
+This CCE includes a broad-based program of fundamental research and advanced technology 
+development to achieve significant advances in Soldier training and, ultimately, mission 
+effectiveness. The development of future training technologies requires advances in learning 
+sciences, HS, human-system interaction, computer science, engineering and M&S. Execution 
+of the training technology program is intended to produce high-payoff achievements in 
+learning, retention, and transfer of knowledge and skills from the training environment to the 
+operational environment. The end goal is to discover and innovate powerful new tools, 
+technologies, and methods that can accelerate learning, can be applied at the point of need at 
+any time and are affordable. 
+Core research areas include: 
+i. Intelligent and adaptive tutoring systems: Intelligent and adaptive tutoring systems for 
+individuals and units that promote learning of structured and unstructured militarily-relevant 
+domains and contexts. The goal of this research is to enhance the realism, adaptability and 
+decision-making skills of artificially-intelligent computer-based tutors and virtual humans to 
+support one-to-one and one-to-many training experiences, where human support is limited, 
+impractical, or completely unavailable. Technical challenges include: (1) the development and 
+application of intelligent agents that can adapt in complex, (2) ill-defined domains; (3) 
+understanding natural language in multi-sided conversations with trainees; (4) rapid authoring 
+of effective computer-based tutors for individuals and teams, and (5) realistic virtual humans. 
+58
+TPOC: Ben Goldberg, (407) 384-3903, benjamin.s.goldberg.civ@mail.mil. 
+ii. Authoring tools: Simulation technology relies on the underlying scenarios and content 
+to deliver training objectives. In order to generate new scenarios, content, and simulations, 
+authoring tools are needed. Ideally, these tools enable rapid, tailored, and effective training at
+point-of-need. Key areas of research focus on authoring tools that are: (1) low-cost, (2) usable 
+by non-technical personnel, and (3) capable of enhancing extensibility of training systems. 
+TPOC: Matthew Hackett, (407) 384-5349, matthew.g.hackett.civ@mail.mil. 
+iii. Immersive Learning: Immersive learning includes but is not limited to, games and 
+virtual worlds for learning as well as immersive collaboration environments and traditional 
+simulations (otherwise described as virtual environments). We seek advances in virtual 
+environment research that improves the sense of presence and engagement in a virtual 
+environment, improves the realism of a virtual environment and the ability to visualize 
+information, improves the user’s experience and within the environment, and provides the 
+ability for multiple users to edit the environment on-the-fly a user should be able to easily 
+replicate a concept within their mind without platform limitations). Potential display 
+environments include traditional screens, head-mounted displays, large-scale displays, and 
+mobile devices. The user interface should not limit but rather should augment the virtual 
+experience by providing realistic feedback from experiences within the virtual environment. 
+The interface should provide subtle environmental effects to the user and improve the user’s 
+ability to navigate within the environment through natural means. 
+TPOC: Tami Griffith, (407) 384-3636, tamara.s.griffith.civ@mail.mil. 
+iv. Virtual humans: Virtual humans allow for a highly realistic representation of a personto-person interaction, in a risk-free virtual environment. ARL seeks virtual human capabilities 
+that are tailored and effective for supporting a full range of human-simulation interactions, to 
+include one-on-one social interactions, and culture-specific interactions. Specific areas of 
+interest include: (1) high-fidelity avatars; (2) advanced NLP; (3) conversational agents; (4) 
+low-cost tools for creating and authoring virtual patients. 
+TPOC: Roy Wall, (407) 384-3568, roy.f.wall2.civ@mail.mil. 
+v. Live and Embedded Training (ET): ARL seeks research, development, and 
+demonstration of live and ET technology to enhance training realism and effectiveness. Live 
+training areas of interest include updated Non Line of Sight (NLOS) tactical engagement 
+systems, MILES laser engagement systems, and improved indoor position, location, and 
+tracking systems. ET is a capability designed into a Ground Combat System (GCS) and 
+dismounted soldiers that enables the GCS and dismounted soldiers to provide necessary 
+environmental and system feedback to train individuals, crews and units, and enhance 
+operational readiness using the system’s operational equipment. Having a training capability 
+integrated within the system’s operational equipment allows units to train anywhere a

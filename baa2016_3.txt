@@ -1,0 +1,289 @@
+v. Uncertainty Quantification (UQ) research is focused on determining and quantifying 
+simulations performance as intended, considering the range of conditions where models and 
+simulations reproduce observed behavior within acceptable tolerances and established
+confidence levels. UQ research is concerned with novel and efficient concepts and 
+methodologies for high-fidelity assessment on the level of agreement in sets of models relative 
+to input and output data, as well as the variations in interdependent models due to various 
+physics, mathematical, and numerical assumptions. UQ methodologies, integrated with data 
+sciences and machine learning will enable tools for: (1) identifying deficiencies in simulations; 
+(2) setting guidelines for adequacy of computational results; (3) exploring the impact of known 
+variability and uncertainty of input; and (4) control of adaptive algorithms to achieve specified 
+levels of accuracy to aid decisions from design to operational planning. 
+v. Multi-scale Modeling focuses on the development of new systems and models of 
+complex phenomena by significantly reducing development time and evaluation costs. This 
+goal can be achieved with: 1) high-fidelity physical models at multiple scales; and 2) 
+computational methodologies (numerical methods and associated algorithms) to enable rapid 
+creation of new high-fidelity multi-scale computer models of complex systems capable of 
+utilizing modern extreme-scale computing. 
+The success of multi-scale modeling hinges on the ability to combine at-scale models into a 
+multi-scale model. However, few numerical methodologies and associated algorithms have 
+been developed so far to enable such scale-bridging. Moreover, many at-scale models are 
+extremely demanding computationally and render any multi-scale model utilizing them 
+unsuitable for practical applications. While surrogate modeling allows reduction of this 
+computational cost, most methodologies for surrogate modeling are global, and thus are 
+characterized by a relatively high cost. New adaptive, non-local surrogate modeling 
+methodologies are needed, which can bring the computational cost to tractable levels. Finally, 
+at-scale models are frequently endowed with uncertainty due to various sources, such as natural 
+fluctuations, model parameters, or model form. This uncertainty and natural variability must 
+be consistently incorporated into multi-scale computer models in order to enable computational 
+design. 
+(1) Four main areas will be the focus of the effort in multi-scale CS: 
+(a) Hierarchical Multi-scale Framework 
+(b) Discrete Dislocation Dynamics 
+(c) Phonon and Electron Transport 
+(d) Density Functional Theory 
+(2) The strategic approach to these focus areas include: 
+(a) Shortened development time and evaluation costs of novel energetic materials by 
+allowing macro-scale response to be accurately predicted directly from composition and 
+chemical reactivity at the molecular level. 
+10
+(b) Development of novel materials for battery applications through expedited 
+computational evaluation of potential compositions. 
+(c) Advanced Soldier protective equipment and vehicle occupant protection through 
+accurate multi-scale prediction of skeletal fracture in comprehensive analysis and 
+design simulations. 
+(d) Accelerated material development for Army applications enabled by high-fidelity 
+multi-scale simulation methodologies (Materials by Design). 
+vi. Interdisciplinary Sciences research includes the development of fully validated, large-scale 
+parallel software, which will simulate multi-scale, complex systems in multiple technology 
+areas. This software will integrate diverse temporal and spatial scale models, some running 
+concurrently for highly coupled system components, and others sequentially, as dictated by the 
+system functionality. The highly coupled model components may be separate executables, 
+running at different time scales and potentially on different computational platforms. Some of 
+the components may be commercial or third-party software packages where only the 
+executable is available. The data exchange and particulars of the execution would be 
+transparent to the user. Multi-scale analysis and material by design are supported through this 
+scalable computational methodologies and software. The system software would be integrated 
+with optimization algorithms and capabilities for determining design sensitivity and UQ. Use 
+of reduced order models will provide varying levels of computational speed and fidelity for 
+different needs, and will facilitate coupling through reduced data sets across distinct physical 
+representations of system components. 
+TPOC: Ernest Chin, (410) 306-1988, ernest.s.chin.civ@mail.mil, and Jarek Knap, (410) 
+2780420, jaroslaw.knap.civ@mail.mil. 
+d. Computing Sciences for Advanced and Unconventional Computing Architectures 
+Focuses on understanding and exploiting the fundamental aspects of hardware and associated 
+system software for emergent and future computing architectures for mobile, scientific, and 
+data intensive applications. Computing systems include both mobile and fixed/virtual 
+architectures optimized for fast communications, low power consumption, large hierarchical 
+memory, novel and robust algorithms, high resiliency, and HPC networking. Computing 
+science is focused on developing the understanding, tools, techniques, and methodologies to 
+fully exploit emerging computing architectures through realization efficient parallel task 
+algorithms and take advantage of memory hierarchies. These efforts are expected to greatly 
+reduce the time required to re-state algorithms in parallel form and with correct implementation 
+faults and bugs. 
+i. Programming Languages and Processes research is focused on exploring research 
+activities on adaptable operating system, behavioral programming languages, domain specific 
+11
+languages (DSL), and novel libraries. DSL’s will raise the level of abstraction of the codes that 
+programmers write, both to maintain portability across increasingly diverse hardware and to 
+give the language implementation more scope for choosing the best route to map a program on 
+to the most appropriate computing hardware. 
+ii. Programming Environments (PE) research is focused on simplifying HPC processes 
+associated with application analysis and software development. Application enabling and data 
+sharing environments are focused on assisting scientific software developers, scientists and 
+engineers, and software users with ease of using evolving computing systems for data intensive 
+applications. Disparate data from scientific simulations, experimental, sensors, and 
+observations pose research challenges in making seamless integration with evolving computing 
+systems. 
+iii. Software integration is focused on using components of different application software,
+and integrating software modules to achieve a different functionality. One approach to achieve 
+better software, more quickly and at lower cost, is to adopt a design process that is based on 
+systematic software reuse. The evolution of computing infrastructure is creating new 
+challenges, ranging from energy-aware software development to software for massively 
+parallel and distributed systems. 
+iv. Distributed Computing-Based Algorithms for Quantum Networks and Quantum Control 
+addresses one of the key roles of HPC for the Army: rapid processing of data that is obtained 
+from sources distributed over different platforms and locations. Exploiting quantum 
+phenomena has the potential to harness distributed information in powerful new ways, and may 
+also allow distributed processing of such information well beyond present capabilities. The 
+goal of this effort is to: 
+(1) Understand how to design and control quantum networks to harness and process 
+information from distributed sources, and how to do so securely and efficiently. 
+(2) Explore how quantum networks may gain an advantage over traditional parallel 
+processing by applying distributed operations to distributed information. An important enabler 
+for this research is the ability to model and simulate quantum networks. A significant part of 
+this effort is therefore devoted to developing efficient methods for modeling and simulating 
+open quantum systems and networks of these systems. 
+v. Co-Design of Algorithms and Hardware for Unconventional Computing Architectures 
+research addresses the issues associated with advanced computing architectures that are 
+becoming more complex with memory hierarchies, which are laid out as parallel processors 
+with multiple processing cores. To harness the computational capability of these advanced 
+computing architectures, new algorithms and software development paradigms are needed,
+especially for the future Army S&T campaigns. In addition to petascale and beyond capability, 
+there is a need for new architectures and algorithms, such as non-von Neumann systems like 
+neuromorphic and quantum computing. Key goals include the development of algorithms and 
+12
+techniques to address power, performance, portability, and efficiency through the construction 
+of domain specific architectures, scalable algorithms, and programming models. 
+Representative thrust areas include: 
+(1) Threaded message passing to allow for massive on-core RISC (reduced instruction set 
+computer) -based architecture parallelism.
+(2) Compiler-based software deployment, on neuromorphic architectures, focusing on a 
+single control flow construct as a baseline.
+(3) 3D rendering coupled with 3D printing of scientific visualization and modeling 
+predictions of experimentation for verification, validation, and uncertainty quantification 
+TPOC: Dale Shires, (410) 278-5006, dale.r.shires.civ@mail.mil, James Ross, (410) 278-9556, 
+james.a.ross176.civ@mail.mil 
+e. Supercomputing Technologies 
+Focuses on delivering world-class HPC capabilities to the DoD S&T and Test and Evaluation 
+(T&E) communities. These capabilities provide DOD scientists and engineers with the 
+resources necessary to solve the most demanding computational problems. The capabilities 
+include large scale HPC systems, high speed networks, multi-terabyte archival mass storage 
+systems, data analysis and assessment, and computational software expertise. 
+TPOC: Howard Kash, (410) 278-6507, howard.m.kash.civ@mail.mil. 
+f. Distributed Simulation, Integration, and Interoperability
+ 
+Existing simulation systems can be characterized as black boxes that interface externally 
+allowing internal computations to be non-standard between models representing phenomena, 
+which introduces fair fight issues and additional inconsistencies. Moreover, the desired 
+contemporary uses of simulation often call for the ability to access simulation capabilities at 
+the point of need. In parallel, computer science and computing technology continue to evolve 
+providing unique opportunities for innovation in simulation. 
+The Distributed Simulation, Integration and Interoperability CCE researches and develops 
+methods and means to enable a simulation architecture that is truly based on composable 
+models and services as opposed to the traditional method of various simulations interoperating. 
+It aims to enable robust Army simulation capabilities with composable synthetic 
+representations delivered where they’re needed in the form in which they’re needed. 
+ARL is interested in research studies, demonstrations and development involving areas such as: 
+13
+(1) Methods and means that enable a single simulation architecture capable of supporting 
+complex real-time and non-real-time uses 
+(2) M&S as a service across geographically distributed areas 
+(3) Application of advances in computing to the simulation domain 
+(4) Novel encapsulation of military representations, models and data 
+(5) Exploration of Digital Engineering, Model-Based Systems Engineering and other trade 
+space analysis methodologies in the context of simulation environments 
+Research activities should be demonstrated through uses cases relevant to the six Army M&S 
+Communities (Acquisition, Analysis, Experimentation, Intelligence, T&E and Training). 
+TPOC: Christopher McGroarty, (407) 208-3323, christopher.j.mcgroarty.civ@mail.mil. 
+2. MATERIALS RESEARCH (MR) CAMPAIGN 
+The MR Campaign focuses on fundamental research to provide superior materials and devices 
+needed to achieve lasting strategic land power dominance. MR cross-cuts ARL’s four focused 
+S&T campaigns by providing materials with superior properties to address emerging 
+requirements and capabilities for all Army platforms. The Army of 2030 will require materials 
+with unprecedented capabilities that can be rapidly grown or synthesized, and processed costeffectively to enable Army platforms that are highly mobile, information reliant, lethal, and 
+protected. 
+The MR Campaign has developed six KCIs, three CCEs, and four MR-related topics that are 
+designed to address the future Army’s need to rapidly respond to emerging threats and to 
+eliminate tactical surprise – caused by the proliferation of advanced technology by our 
+adversaries – by creating a materials by-design and on-demand enterprise; and a manufacturing 
+science engine to ensure rapid progression from materials discovery to delivery, with the goal 
+of producing materials in greatly reduced timeframes and at a fraction of the cost compared to 
+today. 
+a. KCI-MR-1: Materials for Soldier and Platform Power Systems 
+Design of Soldier and platform power as a system is required to enable indefinite power for 
+tactical units and significantly reduces the logistics tail for power resupply. To accomplish this 
+requires significant materials and device advancement in the areas of alternative energy, 
+advanced energy storage, and energy conversion. This KCI focuses on increasing power supply 
+in the three focus areas: (i) Alternative energy; (ii) Advanced energy storage; and (iii) Energy 
+conversion technologies. 
+14
+The Alternative Energy area focuses on developing ultraenergetic materials and radioisotope 
+power sources. Radioactive isotopes represent the greatest possible energy density, about 108
+Wh/kg, achievable without the use of nuclear reactors – at more than 100,000 times the 
+intrinsic energy density of chemicals, radioisotopes are truly ultra-energetic materials. Isotopes 
+and isomers of greatest interest are those with half-lives exceeding 10 years, while their 
+corresponding ground states may be stable or, in many cases, unstable. A research objective in 
+support of the application of this technology is to understand the physics underlying radiation 
+hard materials, and to measure efficiencies for related power sources. As a separate technology, 
+wireless power is focused to enable truly wireless distribution in which loads and sources are 
+free to move while maintaining power levels and efficiency. 
+The Advanced Energy Storage area focuses on developing new materials and components for 
+very high energy density and high power density batteries as well as novel energy storage 
+technologies for Army capabilities. Battery research is focused on developing new materials 
+for high voltage, high temperature, extended cycle life, and high power energy storage for 
+military environments and applications. Development of embedded, flexible, multifunctional 
+structures that provide the required structural and power/energy performance under combined 
+load without compromising the safety or integrity of the target platform are being sought. 
+The Energy Conversion Technologies area focuses on mechanical and thermal conversion 
+systems, used to generate electrical energy from Soldier power systems to base level power 
+generators or to generate mechanical energy for ground and air vehicles. Efforts are focused on 
+compact thermal sources that generate thermal energy efficiently from transportable fuels. A 
+primary goal is to integrate the thermal source with thermal-to-electric energy converters for 
+Soldier and Soldier system power sources capable of 1000 Wh/kg energy densities. Fuel cells as 
+energy conversion devices offer improvements in energy density; however, miniaturization and 
+cost reductions are necessary. Acid-alkaline hybrid fuel cell stack designs can help meet these 
+needs and motivate the development of anion exchange membranes (AEMs). The JP-8 
+reformation research and development (R&D) program is directed at reformation of JP-8 fuel 
+into a hydrogen rich alternative fuel for downstream power generation. Essential will be the 
+development of liquid phase desulfurization process and Pd-composite membrane for hydrogen 
+separation. 
+i. Electrochemical Power Production and Energy Storage areas of interest are: 
+(1) Active and Reserve Primary Batteries for Munitions Applications: Research of new 
+battery chemistries, materials, and battery designs for improved thermal and liquid electrolyte 
+reserve batteries capable of supplying power densities from 20 to 400 Watts/liter after 10 or 
+more years of storage. Primary areas of interest are: thin-film thermal battery chemistries, 
+materials, components, or production methodologies for batteries with faster activation, higher 
+power, smaller volume, more-flexible form-factor, greater mechanical robustness, or better 
+production efficiency; and new forms of heat sources that would be compatible with the thin-
+15
+film thermal battery technology. Storage and operation are required over the full military 
+temperature range. 
+(2) Primary Lithium Batteries: Research in battery chemistries for cells and stacks of cells 
+for man-portable applications using environmentally-friendly materials capable of providing 
+better service than the Army's present general-purpose Li/SO2 and Li/MnO2 batteries. 
+Emphasis is on modification of commercial chemistries to permit all-weather storage and use. 
+This may include Li/air, Li/S and Li/CFx formulations. The development of manufacturing 
+technology for these batteries is an area of interest. 
+(3) Rechargeable Li (Li-Ion) Batteries: Research in electrode and electrolyte materials for 
+cells and stacks of cells using liquid or polymeric electrolytes capable of providing, at the 
+packaged cell level, specific energies greater than 250 Wh/kg, specific power greater than 50 
+W/kg continuous, and greater than 10 kW/kg pulse power over the full military temperature 
+range. Hybrid energy storage technology that provides both high power and extended cycle 
+life, beyond conventional Li-ion, at a moderate energy density. The development of 
+manufacturing technology for these batteries is an area of interest. 
+(4) Advanced battery chemistries to include multivalent materials such as magnesium and 
+aluminum. Research of components, especially electrolytes and cathodes to allow stable 
+operation. Research in Aqueous Li-ion to provide high energy and safe li-ion batteries for 
+Soldier carried applications. Investigation in Lithium rechargeable batteries including Li-S and 
+Li-Air as well as development of new cathodes and electrolytes for rechargeable lithium 
+batteries that reduce or eliminate dendrite formation. Advanced solid electrolytes for all solid 
+state batteries and molten salt batteries including advanced processing of solid electrolytes into 
+dense robust membranes required for cell manufacture. 
+(5) Batteries for grid storage applications that include molten salt batteries, dual 
+intercalation batteries, and aqueous electrolyte storage batteries. 
+(6) Fuel Cells: R&D of improved low temperature alkaline and acid based polymer 
+electrolyte membrane fuel cells and components including catalysts for use with alcohol and 
+solid fuels. Use M&S to solve and improve fuel cells performance. The development of 
+hydrocarbon fuel reformers and reformer components, including desulfurizers and sulfur 
+tolerant reformer catalysts to provide hydrogen for fuel cells are areas of interest. The 
+development of medium and high temperature fuel cells and components for the direct 
+utilization of hydrocarbon fuels or impure hydrogen is also an area of interest. 
+(7) Fast Discharge Pulse Power Capacitors: Research of film capacitor technology 
+including the development of high energy density dielectric films, impregnants, metallization 
+and manufacturing technology for capacitors that can provide energy densities > 2.0 J/cc with a 
+DC life over 2000 hours, and discharge time is the microseconds range. 
+16
+(8) High Temperature Capacitors for Power Electronics: R&D of high temperature 
+polymeric dielectrics including process development for high temperature thin film 
+manufacturing. The capacitors made of such thin film dielectric should be operable at 
+temperatures over 125oC, preferably over 150 degrees C. The capacitors shall have the 
+following characteristics: a dissipation factor below 0.5 percent, insulation resistance greater 
+than 105 ohm-farad at 125oC, operational life of greater than 10,000 hours at frequency greater 
+than 20 kHz and rms current greater than 1.0 A/microfarad. 
+ii. Ultra-Energetic Materials and Energy Storage areas of interest include, but are not limited 
+to, the following: 
+(1) Radioisotopes and Nuclear Isomers: Develop and study approaches to the control of 
+nuclear emission and/or nuclear decay rates. Investigate nuclear structure of isomeric nuclei, 
+particularly focused on long-lived isomers from which gamma or charged particle emission 
+could be utilized for power sources. 
+(2) Radioisotope/Nuclear Isomer Energy Conversion: Develop and study improved 
+concepts for conversion of nuclear decays into usable electrical power. Techniques using 
+liquids or novel materials are of interest for long-lived micro-power sources. 
+TPOC: Marc S. Litz, (301) 394-5556, marc.s.litz.civ@mail.mil, and James Carroll, (301) 
+3941411, james.j.carroll99.civ@mail.mil. 
+iii. Topological materials for energy efficient electronics operating at or near room 
+temperature. Research interest includes, but is not restricted to, the following: 
+(1) Molecular beam epitaxy (MBE) growth and characterization of thin layers of topological 
+materials (topological insulators, Dirac and Weyl semimetals, topological superconductors). 
+(2) Theoretical and experimental investigation of the magnetotransport properties of 
+topological surface states of three dimensional topological insulators, and the 
+magnetotransport characteristics of two-dimensional topological insulators. 
+ 
+(3) Topologically enabled devices and technology based on active heteroepitaxial interfaces 
+between topological materials and ferroic materials, as well as topological materials and 
+high temperature superconductors. 
+(4) Investigations of proximity-induced superconductivity in topological materials.
+(5) Magneto-terahertz investigations of topological surface states of three dimensional 
+topological materials. 
+TPOC: Ivan C. Lee, (301) 394-0039, ivan.c.lee2.civ@mail.mil.

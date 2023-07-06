@@ -1,0 +1,161 @@
+ARMY RESEARCH LABORATORY 
+BROAD AGENCY ANNOUNCEMENT FOR 
+BASIC AND APPLIED SCIENTIFIC RESEARCH 
+W911NF-17-S-0003 
+01 April 2017 – 31 March 2022 
+ 
+ 
+ 
+ISSUED BY: 
+ 
+U.S. Army Contracting Command 
+Aberdeen Proving Ground 
+Research Triangle Park Division P. 
+O. Box 12211 
+Research Triangle Park, NC 27709-2211 
+Special Notes
+1. Formatting of the Announcement
+The following table provides an overview of the outline structure of this announcement: 
+I. 
+A. 
+1. 
+a. 
+i. 
+(1) 
+(a) 
+(i) 
+2. See Appendix 1 for a Table of Acronyms used in this announcement. 
+TABLE OF CONTENTS 
+I. OVERVIEW OF THE FUNDING OPPORTUNITY 1 
+A. Required Overview Content 3 
+1. Agency Name 3 
+2. Research Opportunity Title 3 
+3. Announcement Type 3 
+4. Research Opportunity Number 3 
+5. Catalog of Federal Domestic Assistance (CFDA) Number and Title 3 
+6. Response Dates 3 
+B. Additional Overview Information 3
+II. DETAILED INFORMATION ABOUT THE FUNDING OPPORTUNITY 5 
+A. Program Description 5 
+1. COMPUTATIONAL SCIENCES (CS) CAMPAIGN 5 
+a. KCI-CS-1: Tactical High Performance Computing (HPC) 5 
+b. Real-time, Scalable Data Analytics for the Army 6 
+c. Computational Modeling of Complex Systems 8 
+d. Computing Sciences for Advanced and Unconventional Computing 
+Architectures 
+10
+e. Supercomputing Technologies 12 
+f. Distributed Simulation, Integration, and Interoperability 12
+2. MATERIALS RESEARCH (MR) CAMPAIGN 13 
+a. KCI-MR-1: Materials for Soldier and Platform Power Systems 13
+b. KCI-MR-2: Energy Efficient Electronics and Photonics 17 
+c. KCI-MR-3: Agile Expedient Manufacturing 17 
+d. KCI-MR-4: Quantum Sciences 18 
+e. KCI-MR-5: Energy Coupled to Matter (ECM) for Responsive Materials 19
+f. KCI-MR-6: Lightweight Materials 19 
+g. CCE-MR-1: Designing Materials 20 
+h. CCE-MR-2: Materials Synthesis and Processing 21 
+i. CCE-MR-3: Materials Characterization and Discovery 22
+j. Photonics 23
+k. Position, Navigation, and Timing (PNT) 25 
+l. Energy and Power 26
+m. Biologically Derived Sensor, Power, Device and Materials Research (MR) 27
+ n. RF to THz Devices and Integrated Circuit Technology 28
+3. SCIENCES FOR MANEUVER (ScMVR) CAMPAIGN 28
+a. KCI-ScMVR-1: Force Protection and Augmentation through Intelligent 
+Vehicles 
+29
+b. KCI-ScMVR-2: Advanced, Electrical Power Technologies and Components 30 
+c. KCI-ScMVR-3: Discover and Advance Vertical Takeoff and Landing 
+(VTOL) Innovations, Novel Concepts, and Ideas 
+32
+d. CCE-ScMVR-1: Advanced Switching and Control for Power Electronics 33 
+e. CCE-ScMVR-2: High-Power Density and Energy-Efficient Engine and 
+Drivetrain Technologies 
+34 
+f. CCE-ScMVR-3: Virtual Risk-Informed Agile Maneuver Sustainment 
+(VRAMS) 
+36
+g. CCE-ScMVR-4: Mechanics and Dynamics of Complex Systems 37
+h. Maneuver System Trade Space Methodology and Tools 38
+4. INFORMATION SCIENCES (IS) CAMPAIGN 39
+a. KCI-IS-1: Cyber Fire and Maneuver in Tactical Battle 40 
+b. KCI-IS-2: Taming the Flash-Floods of Networked Battlefield Information 40 
+c. KCI-IS-3: Acting Intelligently in a Dynamic Battlefield of Information, 
+Agents, and Humans 
+40
+d. KCI-IS-4: Sensing and Information Fusion for Advanced Indications and 
+Warnings 
+41 
+e. CCE-IS-1: Networking and Communications in Contested and Austere 
+Environments 
+41 
+f. CCE-IS-2: Natural Language Processing (NLP) and Multi-Lingual Computing 42
+g. CCE-IS-3: Text and Video Analytics 43
+h. CCE-IS-4: Atmospheric Boundary Layer Exploitation 43
+i. CCE-IS-5: Sensors, Sensor Phenomenology, and Algorithms 44
+j. Electric and Magnetic-Field Sensor Technology 45
+ k. Artificial Intelligence and Machine Learning 47
+ l. Technologies for Spectrum Analysis and Control 48
+5. SCIENCES FOR LETHALITY AND PROTECTION (ScL/P) CAMPAIGN 48
+a. KCI-ScL/P-1: Scalable Lethal Adaptable Weapons Concepts 49
+b. KCI-ScL/P-2: Desired Lethal Effects at Standoff Ranges in Constrained 
+Environments 
+49
+c. KCI-ScL/P-3: Soldier Lethality and Protection 50
+d. KCI-ScL/P-4: Adaptive and Cooperative Protection 50 
+e. KCI-ScL/P-5: Disruptive Energetic Materials 51
+f. CCE-ScL/P-1: Vehicle Protection from Kinetic Threats 51 
+g. CCE-ScL/P-2: Terminal Ballistics and Blast Effects 52
+6. HUMAN SCIENCES (HS) CAMPAIGN 52 
+a. KCI-HS-1: Robust Human and Machine Hybridization 53
+b. KCI-HS-2: Multi-Faceted Assessment of Soldier Variability 53 
+c. KCI-HS-3: Training Effectiveness Research 54
+d. CCE-HS-1: Real World Behavior 55
+e. CCE-HS-2: Augmentation 56
+f. CCE-HS-3: Training 57
+g. CCE-HS-4: Humans in Multi-Agent Systems 61
+7. ANALYSIS AND ASSESSMENT (AA) CAMPAIGN 63
+a. KCI-AA-1: Methodology for A&A of Complex Systems and Technologies 
+Across Multiple Domains
+63 
+b. KCI-AA-2: Visual, Interactive, Situational Analysis and Assessment 64
+c. KCI-AA-3: Analysis and Assessment Methodology for Congested and 
+Contested Operational Environments 
+65
+d. CCE-AA-1: Ballistics Survivability, Lethality, and Vulnerability (SLV) 65
+e. CCE-AA-2: Cyber Survivability, Lethality, and Vulnerability (SLV) 67
+f. CCE-AA-3: Electromagnetic Environment (EME) and Warfare 68
+g. CCE-AA-4: Personnel Survivability 69
+h. CCE-AA-5: Human Systems Integration (HSI) Modeling and Analysis 70 
+i. CCE-AA-6: Complex Adaptive Systems Analysis 71 
+8. OTHER PROGRAMS: Visiting Scientist Program (VSP) 72 
+9. Translational Research Innovative Application Discovery (TRIAD) 72
+B. Federal Award Information 76
+C. Eligibility Information 79
+1. Eligible Applicants 79
+2. Cost Sharing or Matching 79
+3. Other 80
+D. Application and Submission Information 80
+1. Address to View Broad Agency Announcement 80
+2. Content and Form of Application Submission 80
+3. Unique Entity Identifier and System for Award Management (SAM) 93
+4. Submission Dates and Times 94
+5. Intergovernmental Review 94
+6. Funding Restrictions 94
+7. Other Submission Requirements 94
+E. Application Review Information 95
+1. Criteria 95
+2. Review and Selection Process 95
+3. Recipient Qualification 96
+F. Award Administration Information 97
+1. Award Notices 97
+2. Administrative and National Policy Requirements 98
+a. Required Representations and Certifications 98
+b. Policy Requirements 102
+3. Reporting 107
+G. Agency Contacts 108
+H. Other Information 109
+1. Contract Proposals 109
+2. Grant and Cooperative Agreement Proposals 117
+APPENDIX 1: TABLE OF ACRONYMS 121
